@@ -7,7 +7,7 @@ categories: [launchhouse]
 ---
 
 <p>So, every week I do a "past week in tech and startups" newscast-show-thingy at a local startup incubator - here is this weeks links, and <a href="http://media.jamesrgifford.com/audio-for-the-week-in-tech-for-thursday-septe">audio is available here</a>.</p>
-<p>How CloudFlare aims to save the future of the internet with a Amazon-style Technology rollout, for free. (Via <a href="http://www.readwriteweb.com/archives/how_exploding_startup_cloudflare_aims_to_save_the.php">ReadWriteWeb</a>)</p>
+<p>How CloudFlare aims to save the future of the internet with a Amazon-style Technology rollout, for free. <!--more-->(Via <a href="http://www.readwriteweb.com/archives/how_exploding_startup_cloudflare_aims_to_save_the.php">ReadWriteWeb</a>)</p>
 <p>&nbsp;</p>
 <p>Foursquare Hack helps you plan your next trip (Via <a href="http://www.readwriteweb.com/archives/foursquare_hack_plan_my_next_trip.php">ReadWriteWeb</a>)</p>
 <p>&nbsp;</p>

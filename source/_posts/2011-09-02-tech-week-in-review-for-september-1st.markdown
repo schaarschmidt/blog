@@ -12,6 +12,7 @@ Send suggestions for next week to `james@jamesrgifford.com`
 
 
 - Why Lodsys is trying it's hardest to keep Apple and Google out of the patent lawsuits (Via [Groklaw](http://www.groklaw.net/article.php?story=20110828073533134))
+<!--more-->
 - How do I secure my companies name on Twitter?  (Via [Answers.onstartups.com](http://answers.onstartups.com/questions/29352/securing-your-companys-name-on-twitter))
 - The rise and fall of the independent developer  (Via [Furbo](http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/))
 - Bots are crawling new domains registrations and namesquatting twitter handles (Via [Ross Duggan](http://rossduggan.ie/blog/technology/bots-are-crawling-new-domain-registrations-and-namesquatting-twitter-handles/))

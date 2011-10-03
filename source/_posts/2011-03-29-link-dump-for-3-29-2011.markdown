@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Link Dump for 3-29-2011"
+date: 2011-03-29 20:55
+comments: true
+categories: 
+---
+
+More linkage! Without further ado, here we go:
+<!--more-->
+<ul>
+<li>KDE accepted for Google Summer of Code 2011 [<a href="http://j.mp/hD1D7D">link</a>]</li>
+<li>Debian accepted as a mentoring organization for this year's Google Summer Of Code. [<a href="https://twitter.com/#!/debian/status/49026832388993024">link</a>]</li>
+<li>25 Things I Hate About Google, Revisited 5 Years Later [<a href="http://j.mp/gnDR4M">link</a>]</li>
+<li>FireFox 4 Released [<a href="http://izzatz.com/firefox-4-released/">link</a>]</li>
+<li>PHP 5.3.6 Released [<a href="http://j.mp/i6mmSS">link</a>]</li>
+<li>What it's like to start work at Quora by Kah Seng Tay [<a href="http://j.mp/f69cRJ">link</a>]</li>
+<li>What's your favorite office program? &nbsp;[<a href="http://j.mp/hTGCOm">link</a>]</li>
+<li>Mozilla outlines 16-week Firefox development cycle &nbsp;[<a href="http://j.mp/gezkts">link</a>]</li>
+<li>Justin Vincent — Bootstrappers’ Kickstarter Kit – No Investment Required [<a href="http://j.mp/dZnvPP">link</a>]</li>
+<li>Professionalism is for Amateurs [<a href="http://j.mp/fUOOrO">link</a>]</li>
+<li>What’s wrong with Unity &amp; how we can fix it [<a href="http://j.mp/dV8s9r">link</a>]</li>
+<li>Escape Earth 2012 Tickets [<a href="http://j.mp/gtHkYx">link</a>]</li>
+<li>Top 10 Free Source Code Editors [<a href="http://www.hongkiat.com/blog/free-code-editors-reviewed/">link</a>]</li>
+<li>Remapping the CAPS LOCK key to esc. [<a href="http://www.terminally-incoherent.com/blog/2007/08/02/remapping-the-caps-lock-key/">link</a>]</li>
+</ul>
+&nbsp;
+Here's one last link, and here's why I'm putting this one in a special place: it's about Ruby. I've gotten <strong>sick and tired</strong> of the fact there is no definitive guide to installing Ruby (And rails, as well as all of those other Gems) on Ubuntu. I've read some stuff, but for the most part, any sort of a "Installing tutorial" is non-existent. So, being the complete sucker that I am, I created this over the weekend:
+Installing Ruby on Rails and RVM (Ruby Version Manager) in Ubuntu 10.04, 10.10 and 11.04. [<a href="https://github.com/jrgifford/Tutorials/blob/master/ruby-on-rails-ubuntu.markdown">link</a>]
+&nbsp;
+Tell me what you think, and I'll be updating it with (If anything changes) fairly regularly. If you encounter an error, let me know, and I'll figure out what's going on (If it's my fault, or if something with the packages changed - I'm not responsible for fixing your computer).
