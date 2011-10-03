@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Links for the Past Week in Tech for Thursday"
+title: "Links for the Past Week in Tech for Thursday, September 29th 2011"
 date: 2011-09-30 18:49
 comments: true
 categories: [launchhouse] 
