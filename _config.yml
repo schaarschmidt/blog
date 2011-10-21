@@ -9,7 +9,7 @@ author: James Gifford
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.rss
+subscribe_rss: /atom
 subscribe_email:
 # RSS feeds can list your email address if you like
 email: james@jamesrgifford.com
