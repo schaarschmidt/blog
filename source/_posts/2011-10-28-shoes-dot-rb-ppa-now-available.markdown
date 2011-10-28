@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Today, I'm happy to announce that the [amazing Shoes.rb](http://shoesrb.com) is now available in a PPA for Oneiric!
+Today, I'm happy to announce that the [amazing Ruby GUI toolkit Shoes.rb](http://shoesrb.com) is now available in a PPA for Oneiric!
 
 Right now, the packaging for `shoes` in the PPA isn't really stable, so proceed with caution.
 

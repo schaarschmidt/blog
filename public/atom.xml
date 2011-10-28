@@ -4,7 +4,7 @@
   <title>/james-random</title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2011-10-28T15:13:38-04:00</updated>
+  <updated>2011-10-28T15:15:40-04:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name>James Gifford</name>
@@ -19,7 +19,7 @@
     <link href="http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available/"/>
     <updated>2011-10-28T14:51:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available</id>
-    <content type="html">&lt;p&gt;Today, I&amp;#8217;m happy to announce that the &lt;a href=&quot;http://shoesrb.com&quot;&gt;amazing Shoes.rb&lt;/a&gt; is now available in a PPA for Oneiric!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Today, I&amp;#8217;m happy to announce that the &lt;a href=&quot;http://shoesrb.com&quot;&gt;amazing Ruby GUI toolkit Shoes.rb&lt;/a&gt; is now available in a PPA for Oneiric!&lt;/p&gt;
 
 &lt;p&gt;Right now, the packaging for &lt;code&gt;shoes&lt;/code&gt; in the PPA isn&amp;#8217;t really stable, so proceed with caution.&lt;/p&gt;
 
