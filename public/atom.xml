@@ -4,7 +4,7 @@
   <title>/james-random</title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2011-10-21T12:21:19-04:00</updated>
+  <updated>2011-10-28T15:13:38-04:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name>James Gifford</name>
@@ -13,6 +13,25 @@
     
   </author>
 
+  
+  <entry>
+    <title>Shoes.rb PPA Now Available</title>
+    <link href="http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available/"/>
+    <updated>2011-10-28T14:51:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available</id>
+    <content type="html">&lt;p&gt;Today, I&amp;#8217;m happy to announce that the &lt;a href=&quot;http://shoesrb.com&quot;&gt;amazing Shoes.rb&lt;/a&gt; is now available in a PPA for Oneiric!&lt;/p&gt;
+
+&lt;p&gt;Right now, the packaging for &lt;code&gt;shoes&lt;/code&gt; in the PPA isn&amp;#8217;t really stable, so proceed with caution.&lt;/p&gt;
+
+&lt;p&gt;Ok, now that I&amp;#8217;ve scared you all into your rabbit holes, the PPA to add is&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ppa:jamesgifford/shoesrb&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;For instructions how to add PPAs on various versions of Ubuntu, &lt;a href=&quot;http://askubuntu.com/q/4983/6005&quot;&gt;take a look at this Ask Ubuntu question/answer set.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bug reports should be &lt;a href=&quot;https://bugs.launchpad.net/shoes/+filebug&quot;&gt;filed here&lt;/a&gt;, however if it&amp;#8217;s not directly related to the packaging, I&amp;#8217;ll probably have you &lt;a href=&quot;https://github.com/shoes/shoes/issues&quot;&gt;report them to the upstream bug tracker&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Week in tech for Thursday, October 20th 2011</title>
