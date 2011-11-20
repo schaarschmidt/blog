@@ -4,7 +4,7 @@
   <title>/james-random</title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2011-11-16T13:51:23-05:00</updated>
+  <updated>2011-11-20T17:29:51-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name>James Gifford</name>
@@ -13,6 +13,35 @@
     
   </author>
 
+  
+  <entry>
+    <title>Ubuntu Community Appreciation Day</title>
+    <link href="http://blog.jamesrgifford.com/community-appreciation-day/"/>
+    <updated>2011-11-20T17:05:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/community-appreciation-day</id>
+    <content type="html">&lt;p&gt;So, for those of you that don&amp;#8217;t know, &lt;a href=&quot;https://wiki.ubuntu.com/UCADay&quot;&gt;Ubuntu Community Appreciation Day&lt;/a&gt; is the first day that we set apart to say &amp;#8220;Thank you&amp;#8221; to all the various folks who help make the Ubuntu Community possible, and awesome.&lt;/p&gt;
+
+&lt;!&#8211; more &#8211;&gt;
+
+
+&lt;p&gt;So, without furthur ado (whatever &amp;#8220;ado&amp;#8221; is!), I&amp;#8217;ll start the list of lists (in absolutely no particular order):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://castrojo.tumblr.com/&quot;&gt;Jorge Castro&lt;/a&gt; - it was Jorge who really got me kickstarted in the Ubuntu Community.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/maasj&quot;&gt;Jason Maas&lt;/a&gt;. While I haven&amp;#8217;t spoken (or even really communicated with him) in several years, this was the guy who introduced me to Ubuntu, so I have to thank him for that.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/wildbill&quot;&gt;Bill Childers&lt;/a&gt;. This guy taught me many tiny, newbie tricks, such as how to refresh the GRUB list (yeah, I didn&amp;#8217;t know how to do that until he showed me). He also wrote an awesome (somewhat outdated, but awesome) book I have read many, many times.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://philipballew.wordpress.com/&quot;&gt;Philip Ballew&lt;/a&gt;. He&amp;#8217;s awesome, if you&amp;#8217;ve ever done anything with him, you&amp;#8217;d know why. If you haven&amp;#8217;t, I suggest you get started.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://ubunturocking.wordpress.com/&quot;&gt;Bilal Akhtar&lt;/a&gt;. He&amp;#8217;s more of an inspiration than anything else, mainly because he&amp;#8217;s another young (he&amp;#8217;s 15, same as me) &lt;a href=&quot;http://www.urbandictionary.com/define.php?term=Ubuntero&quot;&gt;Ubuntero&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://akgraner.com/&quot;&gt;Amber Graner&lt;/a&gt;. She&amp;#8217;s done an awesome job of getting the &lt;a href=&quot;https://launchpad.net/~ubuntuleadership&quot;&gt;Ubuntu Leadership team&lt;/a&gt; off the ground and to find it&amp;#8217;s place in the existing Ubuntu ecosystem. Thanks!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://marcoceppi.com/&quot;&gt;Marco Ceppi&lt;/a&gt;. He&amp;#8217;s an awesome guy, one of the excellent team of Community moderators on Ask Ubuntu. Without him, I wouldn&amp;#8217;t spend (read: waste (in mom&amp;#8217;s eyes)) half as much time in the community helping people as I do.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;So, I&amp;#8217;ll leave you with this thought:&lt;/p&gt;
+
+&lt;h3&gt;Who do you appreciate in the community?&lt;/h3&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Shoes.rb PPA Now Available</title>
