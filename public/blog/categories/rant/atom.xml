@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rant | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/rant/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-02T16:52:57-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[What the Heck, FSF?!]]></title>
+    <link href="http://blog.jamesrgifford.com/what-the-heck-fsf/"/>
+    <updated>2011-05-11T20:17:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/what-the-heck-fsf</id>
+    <content type="html"><![CDATA[<p><strong>A few nights ago, I recived the following email.</strong></p>
+
+
+<p>&nbsp;</p>
+
+
+<blockquote>
+<p>Did you know that, like you, nearly 50% of the 40,000 subscribers to the FSF's supporter mailing list have an @gmail.com email address?</p>
+<!--more-->
+<p>JavaScript, once lauded for adding simple visual effects to web pages, is now used by web sites like Gmail to run powerful</p>
+<p>programs on your computer. These programs, like any other program running on your computer, should be free software. But</p>
+<p>right now, the vast majority of JavaScript programs do not respect your essential freedoms to run, study, modify and share</p>
+<p>them. They take control of your computer away from you; the same control we have been working for over 25 years to protect.</p>
+<p>Because of the incredibly high percentage of Gmail-using free software supporters, we're taking action to raise awareness</p>
+<p>about how to use Gmail without using proprietary software. We'll also be working on longer term solutions, but the most</p>
+<p>immediate positive step to take is to stop running the proprietary programs.</p>
+<p>Many people suggest that you shouldn't use Gmail at all, because it means losing control over your data and privacy. We agree</p>
+<p>that this is a very important factor for you to consider when choosing how you will handle your email.</p>
+<p>&nbsp;</p>
+<p>But since you are already using Gmail, please help us build momentum for change by not using the proprietary JavaScript on</p>
+<p>your system -- <a href="http://www.fsf.org/campaigns/jstrap/gmail?45645">and helping others to do the same</a>.</p>
+<p>&nbsp;</p>
+<p>Yours sincerely,</p>
+<p>&nbsp;</p>
+<p>Matt Lee</p>
+<p>Campaigns Manager</p>
+<p>Free Software Foundation</p>
+<p>--</p>
+<p>Sent from the Free Software Foundation,</p>
+<p>51 Franklin Street</p>
+<p>Fifth Floor</p>
+<p>Boston, MA 02110-1335</p>
+<p>United States</p>
+</blockquote>
+
+
+<p>&nbsp;</p>
+
+
+<p>To this epistle, I have but one thing to say.</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>WAKE UP. NAOW.</p>
+
+
+<p>Seriously.&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>I read that, and <a href="https://twitter.com/#!/jrgifford/status/67767779750723585">I tweeted the link</a>.&nbsp;</p>
+
+
+<p>Shortly thereafter, I got the following tweet.</p>
+
+
+<blockquote class="posterous_short_quote">
+<p>firefly911 @jrgifford &nbsp;That's pretty odd. I fully support open software, but if someone wants their code proprietary they have that right to.</p>
+</blockquote>
+
+
+<p>(<em><a href="http://twitter.com/firefly911/status/67778728217939968">Link</a></em>)</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>So. . . what's he saying there? I couldn't understand it from all the proprietary <a href="http://en.wikipedia.org/wiki/Drinking_the_Kool-Aid">kool-aid I've been drinking</a>.</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>Exactly that. True freedom (I prefer the term "liberty" but that's another story) is the right to <em>choose</em>. And that&nbsp;means that if they want to, they can make their codebase proprietary. As a matter of fact, I'm writing this on a Ubuntu Linux&nbsp;box (Free software), using the amazing Simplenote (not free) for my editor. Oh, and I'm using Google Chrome (Not completely free, although it does have a large amount of free components in it),&nbsp;because Firefox (Free) is a memory hog on my computer. And (Ya know, before I forget), I'm also using Dropbox (Not free) to&nbsp;backup the stuff I'm writing in Simplenote, and I've also got about 5-10 tabs open with * GASP * proprietary websites in&nbsp;them! WHO WOULDA THUNK IT?!?!?!?! O_O</p>
+
+
+<p>My point is, people are going to use what WORKS. And until there are FOSS (Where FOSS = Free Open Source Softare)&nbsp;alternatives that work as well (or (hopefully) better than) the competition, people won't be changing.&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>I know a guy who still uses his AOL account for all his email.&nbsp;</p>
+
+
+<p>Why?&nbsp;</p>
+
+
+<p>Because it works. And yes, there are "better" alternatives out there. But it works.&nbsp;</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>And (<a href="http://alexeymk.com/dear-dr-stallman-an-open-letter">as was stated in a open letter to RMS</a>)&nbsp;</p>
+
+
+<p>"We live in a world where having the technological edge makes the difference between success and failure; asking us to just&nbsp;give up that edge for a theoretical idea of freedom is not going to work."</p>
+
+
+<p>And on that note, to the FSF, I have this to say.</p>
+
+
+<p>&nbsp;</p>
+
+
+<p>If you're really about Freedom, then people have the right to make their codebase (software, artwork, etc) proprietary. And&nbsp;now, if you'll excuse me, I'll just go off and play one of those DRM'ed games that I bought for $.99 on the (proprietary) Apple AppStore, because&nbsp;for games, the ("Open Source"-but-not-really) Android just doesn't seem to work well. Wonder why. . .</p>
+
+]]></content>
+  </entry>
+  
+</feed>

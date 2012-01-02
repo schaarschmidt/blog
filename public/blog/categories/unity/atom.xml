@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Unity | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/unity/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-02T16:52:57-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Something I Wrote: Unity, Then And Now]]></title>
+    <link href="http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now/"/>
+    <updated>2011-05-01T20:45:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now</id>
+    <content type="html"><![CDATA[<p>For those of you who are Ubuntu users, you probably have heard of the new Ubuntu Unity interface that became the default in 11.04 Natty Narwhal. Well, people don't seem to like it, so for today's part of the wordpress post a week challenge, I wrote something over on 2buntu.com about Unity, then and now. If you're still reading this, and you're interested in it, <a href="http://2buntu.com/index.php/archives/512">take a look at it over here</a>.&nbsp;</p>
+
+]]></content>
+  </entry>
+  
+</feed>

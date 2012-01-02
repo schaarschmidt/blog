@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Linux | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-02T16:52:57-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why Ubuntu (and Linux in General) Won't Take Over the Desktop]]></title>
+    <link href="http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove/"/>
+    <updated>2011-05-05T20:40:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove</id>
+    <content type="html"><![CDATA[<p>"As long as people can't go to a shop and buy a Dell or a HP with Linux installed, it won't become mainstream"</p>
+
+
+<p>"For them [The average Joe] something that doesn't come in the box or from a shop just isn't real. And that's the problem"</p>
+
+
+<!--more-->
+
+
+<p>&nbsp;</p>
+
+
+<p><em>From <a href="http://www.linuxoutlaws.com/">Linux Outlaws</a>&nbsp;Episode 202.</em></p>
+
+]]></content>
+  </entry>
+  
+</feed>
