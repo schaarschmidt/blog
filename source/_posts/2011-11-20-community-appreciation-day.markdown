@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu Community Appreciation Day"
 date: 2011-11-20 17:05
 comments: true
-categories: 
+categories: ubuntu-planet
 ---
 
 

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-02T16:57:21-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ubuntu Community Appreciation Day]]></title>
+    <link href="http://blog.jamesrgifford.com/community-appreciation-day/"/>
+    <updated>2011-11-20T17:05:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/community-appreciation-day</id>
+    <content type="html"><![CDATA[<p>So, for those of you that don't know, <a href="https://wiki.ubuntu.com/UCADay">Ubuntu Community Appreciation Day</a> is the first day that we set apart to say "Thank you" to all the various folks who help make the Ubuntu Community possible, and awesome.</p>
+
+<!-- more -->
+
+
+<p>So, without furthur ado (whatever "ado" is!), I'll start the list of lists (in absolutely no particular order):</p>
+
+<ul>
+<li><p><a href="http://castrojo.tumblr.com/">Jorge Castro</a> - it was Jorge who really got me kickstarted in the Ubuntu Community.</p></li>
+<li><p><a href="https://twitter.com/#!/maasj">Jason Maas</a>. While I haven't spoken (or even really communicated with him) in several years, this was the guy who introduced me to Ubuntu, so I have to thank him for that.</p></li>
+<li><p><a href="https://twitter.com/#!/wildbill">Bill Childers</a>. This guy taught me many tiny, newbie tricks, such as how to refresh the GRUB list (yeah, I didn't know how to do that until he showed me). He also wrote an awesome (somewhat outdated, but awesome) book I have read many, many times.</p></li>
+<li><p><a href="http://philipballew.wordpress.com/">Philip Ballew</a>. He's awesome, if you've ever done anything with him, you'd know why. If you haven't, I suggest you get started.</p></li>
+<li><p><a href="http://ubunturocking.wordpress.com/">Bilal Akhtar</a>. He's more of an inspiration than anything else, mainly because he's another young (he's 15, same as me) <a href="http://www.urbandictionary.com/define.php?term=Ubuntero">Ubuntero</a>.</p></li>
+<li><p><a href="http://akgraner.com/">Amber Graner</a>. She's done an awesome job of getting the <a href="https://launchpad.net/~ubuntuleadership">Ubuntu Leadership team</a> off the ground and to find it's place in the existing Ubuntu ecosystem. Thanks!</p></li>
+<li><p><a href="http://marcoceppi.com/">Marco Ceppi</a>. He's an awesome guy, one of the excellent team of Community moderators on Ask Ubuntu. Without him, I wouldn't spend (read: waste (in mom's eyes)) half as much time in the community helping people as I do.</p></li>
+</ul>
+
+
+<p>So, I'll leave you with this thought:</p>
+
+<h3>Who do you appreciate in the community?</h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Shoes.rb PPA Now Available]]></title>
+    <link href="http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available/"/>
+    <updated>2011-10-28T14:51:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available</id>
+    <content type="html"><![CDATA[<p>Today, I'm happy to announce that the <a href="http://shoesrb.com">amazing Ruby GUI toolkit Shoes.rb</a> is now available in a PPA for Oneiric!</p>
+
+<p>Right now, the packaging for <code>shoes</code> in the PPA isn't really stable, so proceed with caution.</p>
+
+<p>Ok, now that I've scared you all into your rabbit holes, the PPA to add is</p>
+
+<p><code>ppa:jamesgifford/shoesrb</code></p>
+
+<p>For instructions how to add PPAs on various versions of Ubuntu, <a href="http://askubuntu.com/q/4983/6005">take a look at this Ask Ubuntu question/answer set.</a></p>
+
+<p>Bug reports should be <a href="https://bugs.launchpad.net/shoes/+filebug">filed here</a>, however if it's not directly related to the packaging, I'll probably have you <a href="https://github.com/shoes/shoes/issues">report them to the upstream bug tracker</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

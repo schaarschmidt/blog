@@ -3,7 +3,7 @@ layout: post
 title: "Shoes.rb PPA Now Available"
 date: 2011-10-28 14:51
 comments: true
-categories: 
+categories: ubuntu-planet
 ---
 
 Today, I'm happy to announce that the [amazing Ruby GUI toolkit Shoes.rb](http://shoesrb.com) is now available in a PPA for Oneiric!
