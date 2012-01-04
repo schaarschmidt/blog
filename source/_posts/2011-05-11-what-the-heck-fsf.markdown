@@ -51,7 +51,7 @@ categories: [rant, FSF]
 <p>So. . . what's he saying there? I couldn't understand it from all the proprietary <a href="http://en.wikipedia.org/wiki/Drinking_the_Kool-Aid">kool-aid I've been drinking</a>.</p>
 <p>&nbsp;</p>
 <p>Exactly that. True freedom (I prefer the term "liberty" but that's another story) is the right to <em>choose</em>. And that&nbsp;means that if they want to, they can make their codebase proprietary. As a matter of fact, I'm writing this on a Ubuntu Linux&nbsp;box (Free software), using the amazing Simplenote (not free) for my editor. Oh, and I'm using Google Chrome (Not completely free, although it does have a large amount of free components in it),&nbsp;because Firefox (Free) is a memory hog on my computer. And (Ya know, before I forget), I'm also using Dropbox (Not free) to&nbsp;backup the stuff I'm writing in Simplenote, and I've also got about 5-10 tabs open with * GASP * proprietary websites in&nbsp;them! WHO WOULDA THUNK IT?!?!?!?! O_O</p>
-<p>My point is, people are going to use what WORKS. And until there are FOSS (Where FOSS = Free Open Source Softare)&nbsp;alternatives that work as well (or (hopefully) better than) the competition, people won't be changing.&nbsp;</p>
+<p>My point is, people are going to use what WORKS. And until there are FOSS (Where FOSS = Free Open Source Software)&nbsp;alternatives that work as well (or (hopefully) better than) the competition, people won't be changing.&nbsp;</p>
 <p>&nbsp;</p>
 <p>I know a guy who still uses his AOL account for all his email.&nbsp;</p>
 <p>Why?&nbsp;</p>
