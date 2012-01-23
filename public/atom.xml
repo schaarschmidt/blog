@@ -1,649 +1,648 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>/james-random</title>
+  <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-01-03T21:40:04-05:00</updated>
+  <updated>2012-01-22T21:30:08-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
-    <name>James Gifford</name>
-    
-      <email>james@jamesrgifford.com</email>
-    
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
   </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title>Ubuntu Community Appreciation Day</title>
+    <title type="html"><![CDATA[Ubuntu Community Appreciation Day]]></title>
     <link href="http://blog.jamesrgifford.com/community-appreciation-day/"/>
     <updated>2011-11-20T17:05:00-05:00</updated>
     <id>http://blog.jamesrgifford.com/community-appreciation-day</id>
-    <content type="html">&lt;p&gt;So, for those of you that don&amp;#8217;t know, &lt;a href=&quot;https://wiki.ubuntu.com/UCADay&quot;&gt;Ubuntu Community Appreciation Day&lt;/a&gt; is the first day that we set apart to say &amp;#8220;Thank you&amp;#8221; to all the various folks who help make the Ubuntu Community possible, and awesome.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>So, for those of you that don&#8217;t know, <a href="https://wiki.ubuntu.com/UCADay">Ubuntu Community Appreciation Day</a> is the first day that we set apart to say &#8220;Thank you&#8221; to all the various folks who help make the Ubuntu Community possible, and awesome.</p>
 
-&lt;!&#8211; more &#8211;&gt;
-
-
-&lt;p&gt;So, without furthur ado (whatever &amp;#8220;ado&amp;#8221; is!), I&amp;#8217;ll start the list of lists (in absolutely no particular order):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://castrojo.tumblr.com/&quot;&gt;Jorge Castro&lt;/a&gt; - it was Jorge who really got me kickstarted in the Ubuntu Community.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/maasj&quot;&gt;Jason Maas&lt;/a&gt;. While I haven&amp;#8217;t spoken (or even really communicated with him) in several years, this was the guy who introduced me to Ubuntu, so I have to thank him for that.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/#!/wildbill&quot;&gt;Bill Childers&lt;/a&gt;. This guy taught me many tiny, newbie tricks, such as how to refresh the GRUB list (yeah, I didn&amp;#8217;t know how to do that until he showed me). He also wrote an awesome (somewhat outdated, but awesome) book I have read many, many times.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://philipballew.wordpress.com/&quot;&gt;Philip Ballew&lt;/a&gt;. He&amp;#8217;s awesome, if you&amp;#8217;ve ever done anything with him, you&amp;#8217;d know why. If you haven&amp;#8217;t, I suggest you get started.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://ubunturocking.wordpress.com/&quot;&gt;Bilal Akhtar&lt;/a&gt;. He&amp;#8217;s more of an inspiration than anything else, mainly because he&amp;#8217;s another young (he&amp;#8217;s 15, same as me) &lt;a href=&quot;http://www.urbandictionary.com/define.php?term=Ubuntero&quot;&gt;Ubuntero&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://akgraner.com/&quot;&gt;Amber Graner&lt;/a&gt;. She&amp;#8217;s done an awesome job of getting the &lt;a href=&quot;https://launchpad.net/~ubuntuleadership&quot;&gt;Ubuntu Leadership team&lt;/a&gt; off the ground and to find it&amp;#8217;s place in the existing Ubuntu ecosystem. Thanks!&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://marcoceppi.com/&quot;&gt;Marco Ceppi&lt;/a&gt;. He&amp;#8217;s an awesome guy, one of the excellent team of Community moderators on Ask Ubuntu. Without him, I wouldn&amp;#8217;t spend (read: waste (in mom&amp;#8217;s eyes)) half as much time in the community helping people as I do.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<!-- more -->
 
 
-&lt;p&gt;So, I&amp;#8217;ll leave you with this thought:&lt;/p&gt;
+<p>So, without furthur ado (whatever &#8220;ado&#8221; is!), I&#8217;ll start the list of lists (in absolutely no particular order):</p>
 
-&lt;h3&gt;Who do you appreciate in the community?&lt;/h3&gt;
-</content>
+<ul>
+<li><p><a href="http://castrojo.tumblr.com/">Jorge Castro</a> - it was Jorge who really got me kickstarted in the Ubuntu Community.</p></li>
+<li><p><a href="https://twitter.com/#!/maasj">Jason Maas</a>. While I haven&#8217;t spoken (or even really communicated with him) in several years, this was the guy who introduced me to Ubuntu, so I have to thank him for that.</p></li>
+<li><p><a href="https://twitter.com/#!/wildbill">Bill Childers</a>. This guy taught me many tiny, newbie tricks, such as how to refresh the GRUB list (yeah, I didn&#8217;t know how to do that until he showed me). He also wrote an awesome (somewhat outdated, but awesome) book I have read many, many times.</p></li>
+<li><p><a href="http://philipballew.wordpress.com/">Philip Ballew</a>. He&#8217;s awesome, if you&#8217;ve ever done anything with him, you&#8217;d know why. If you haven&#8217;t, I suggest you get started.</p></li>
+<li><p><a href="http://ubunturocking.wordpress.com/">Bilal Akhtar</a>. He&#8217;s more of an inspiration than anything else, mainly because he&#8217;s another young (he&#8217;s 15, same as me) <a href="http://www.urbandictionary.com/define.php?term=Ubuntero">Ubuntero</a>.</p></li>
+<li><p><a href="http://akgraner.com/">Amber Graner</a>. She&#8217;s done an awesome job of getting the <a href="https://launchpad.net/~ubuntuleadership">Ubuntu Leadership team</a> off the ground and to find it&#8217;s place in the existing Ubuntu ecosystem. Thanks!</p></li>
+<li><p><a href="http://marcoceppi.com/">Marco Ceppi</a>. He&#8217;s an awesome guy, one of the excellent team of Community moderators on Ask Ubuntu. Without him, I wouldn&#8217;t spend (read: waste (in mom&#8217;s eyes)) half as much time in the community helping people as I do.</p></li>
+</ul>
+
+
+<p>So, I&#8217;ll leave you with this thought:</p>
+
+<h3>Who do you appreciate in the community?</h3>
+]]></content>
   </entry>
   
   <entry>
-    <title>Shoes.rb PPA Now Available</title>
+    <title type="html"><![CDATA[Shoes.rb PPA Now Available]]></title>
     <link href="http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available/"/>
     <updated>2011-10-28T14:51:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available</id>
-    <content type="html">&lt;p&gt;Today, I&amp;#8217;m happy to announce that the &lt;a href=&quot;http://shoesrb.com&quot;&gt;amazing Ruby GUI toolkit Shoes.rb&lt;/a&gt; is now available in a PPA for Oneiric!&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Today, I&#8217;m happy to announce that the <a href="http://shoesrb.com">amazing Ruby GUI toolkit Shoes.rb</a> is now available in a PPA for Oneiric!</p>
 
-&lt;p&gt;Right now, the packaging for &lt;code&gt;shoes&lt;/code&gt; in the PPA isn&amp;#8217;t really stable, so proceed with caution.&lt;/p&gt;
+<p>Right now, the packaging for <code>shoes</code> in the PPA isn&#8217;t really stable, so proceed with caution.</p>
 
-&lt;p&gt;Ok, now that I&amp;#8217;ve scared you all into your rabbit holes, the PPA to add is&lt;/p&gt;
+<p>Ok, now that I&#8217;ve scared you all into your rabbit holes, the PPA to add is</p>
 
-&lt;p&gt;&lt;code&gt;ppa:jamesgifford/shoesrb&lt;/code&gt;&lt;/p&gt;
+<p><code>ppa:jamesgifford/shoesrb</code></p>
 
-&lt;p&gt;For instructions how to add PPAs on various versions of Ubuntu, &lt;a href=&quot;http://askubuntu.com/q/4983/6005&quot;&gt;take a look at this Ask Ubuntu question/answer set.&lt;/a&gt;&lt;/p&gt;
+<p>For instructions how to add PPAs on various versions of Ubuntu, <a href="http://askubuntu.com/q/4983/6005">take a look at this Ask Ubuntu question/answer set.</a></p>
 
-&lt;p&gt;Bug reports should be &lt;a href=&quot;https://bugs.launchpad.net/shoes/+filebug&quot;&gt;filed here&lt;/a&gt;, however if it&amp;#8217;s not directly related to the packaging, I&amp;#8217;ll probably have you &lt;a href=&quot;https://github.com/shoes/shoes/issues&quot;&gt;report them to the upstream bug tracker&lt;/a&gt;.&lt;/p&gt;
-</content>
+<p>Bug reports should be <a href="https://bugs.launchpad.net/shoes/+filebug">filed here</a>, however if it&#8217;s not directly related to the packaging, I&#8217;ll probably have you <a href="https://github.com/shoes/shoes/issues">report them to the upstream bug tracker</a>.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Week in tech for Thursday, October 20th 2011</title>
+    <title type="html"><![CDATA[Week in tech for Thursday, October 20th 2011]]></title>
     <link href="http://blog.jamesrgifford.com/week-in-tech-thursday-10-20/"/>
     <updated>2011-10-20T08:34:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/week-in-tech-thursday-10-20</id>
-    <content type="html">&lt;p&gt;Is &lt;a href=&quot;http://linkedin.com&quot;&gt;LinkedIn&lt;/a&gt; for old people? &amp;#8220;You mean the kind of people who will give you a job?&amp;#8221; (&lt;a href=&quot;http://techcrunch.com/2011/10/19/is-linked-in-for-old-people-like-the-kind-of-people-who-will-give-you-a-job-hoffman-responds&quot;&gt;Via TechCrunch&lt;/a&gt;)&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Is <a href="http://linkedin.com">LinkedIn</a> for old people? &#8220;You mean the kind of people who will give you a job?&#8221; (<a href="http://techcrunch.com/2011/10/19/is-linked-in-for-old-people-like-the-kind-of-people-who-will-give-you-a-job-hoffman-responds">Via TechCrunch</a>)</p>
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;Five (5) startup ideas GiftRocket would pay for (&lt;a href=&quot;http://www.giftrocket.com/blog/startup-ideas-we-would-pay-for&quot;&gt;Via Giftrocket&lt;/a&gt;)&lt;/p&gt;
+<p>Five (5) startup ideas GiftRocket would pay for (<a href="http://www.giftrocket.com/blog/startup-ideas-we-would-pay-for">Via Giftrocket</a>)</p>
 
-&lt;p&gt;FTC Privacy Czar To Entrepreneurs: “If You Don’t Want To See Us, Don’t Collect Data You Don’t Need” (&lt;a href=&quot;http://techcrunch.com/2011/10/18/ftc-privacy-czar-to-entrepreneurs-if-you-dont-want-to-see-us-dont-collect-data-you-dont-need&quot;&gt;Via TechCrunch&lt;/a&gt;)&lt;/p&gt;
+<p>FTC Privacy Czar To Entrepreneurs: “If You Don’t Want To See Us, Don’t Collect Data You Don’t Need” (<a href="http://techcrunch.com/2011/10/18/ftc-privacy-czar-to-entrepreneurs-if-you-dont-want-to-see-us-dont-collect-data-you-dont-need">Via TechCrunch</a>)</p>
 
-&lt;p&gt;It takes three years to build a buisness (&lt;a href=&quot;http://jacquesmattheij.com/It+takes+three+years+to+build+a+business&quot;&gt;Via hacker news&lt;/a&gt;)&lt;/p&gt;
+<p>It takes three years to build a buisness (<a href="http://jacquesmattheij.com/It+takes+three+years+to+build+a+business">Via hacker news</a>)</p>
 
-&lt;p&gt;DuckDuckGo in the Opera default Search Engines (&lt;a href=&quot;http://duck.co/topic/duckduckgo-in-opera&quot;&gt;Via DDG blog&lt;/a&gt;)&lt;/p&gt;
+<p>DuckDuckGo in the Opera default Search Engines (<a href="http://duck.co/topic/duckduckgo-in-opera">Via DDG blog</a>)</p>
 
-&lt;p&gt;Why should I join your startup? (&lt;a href=&quot;http://voltsteve.blogspot.com/2011/10/why-should-i-join-your-start-up.html&quot;&gt;Via Hacker news&lt;/a&gt;)&lt;/p&gt;
+<p>Why should I join your startup? (<a href="http://voltsteve.blogspot.com/2011/10/why-should-i-join-your-start-up.html">Via Hacker news</a>)</p>
 
-&lt;p&gt;Startup PR: Blogs, Lists, Influencers and random not-so-average Joes. (&lt;a href=&quot;https://docs.google.com/spreadsheet/ccc?key=0ArOGmc7KGnfrdHo2SUJ3OHJJX0RPbk0wODVUcWxfNWc&amp;amp;hl=en_GB#gid=0&quot;&gt;Via Reddit&lt;/a&gt;)&lt;/p&gt;
+<p>Startup PR: Blogs, Lists, Influencers and random not-so-average Joes. (<a href="https://docs.google.com/spreadsheet/ccc?key=0ArOGmc7KGnfrdHo2SUJ3OHJJX0RPbk0wODVUcWxfNWc&amp;hl=en_GB#gid=0">Via Reddit</a>)</p>
 
-&lt;p&gt;Dropbox&amp;#8217;s Y Combinator application. (&lt;a href=&quot;http://dl.dropbox.com/u/27532820/app.html&quot;&gt;Via Twitter&lt;/a&gt;)&lt;/p&gt;
+<p>Dropbox&#8217;s Y Combinator application. (<a href="http://dl.dropbox.com/u/27532820/app.html">Via Twitter</a>)</p>
 
-&lt;p&gt;How do you live cheaply in Silicon Valley? (&lt;a href=&quot;http://www.reddit.com/r/startups/comments/lfni8/how_do_founders_live_on_the_cheap_while_working/&quot;&gt;Via Reddit&lt;/a&gt;)&lt;/p&gt;
+<p>How do you live cheaply in Silicon Valley? (<a href="http://www.reddit.com/r/startups/comments/lfni8/how_do_founders_live_on_the_cheap_while_working/">Via Reddit</a>)</p>
 
-&lt;p&gt;6wunderkinder introduces a preview of WunderKit, which is awesome. (&lt;a href=&quot;http://www.wunderkit.com/jcgG66&quot;&gt;Via 6wunderkinder&lt;/a&gt;&lt;a href=&quot;http://www.6wunderkinder.com/blog/2011/10/20/the-wunderkit-show-is-about-to-start-grab-a-front-row-seat/&quot;&gt; blog&lt;/a&gt;)&lt;/p&gt;
-</content>
+<p>6wunderkinder introduces a preview of WunderKit, which is awesome. (<a href="http://www.wunderkit.com/jcgG66">Via 6wunderkinder</a><a href="http://www.6wunderkinder.com/blog/2011/10/20/the-wunderkit-show-is-about-to-start-grab-a-front-row-seat/"> blog</a>)</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Links for the past week in tech Oct. 13th 2011</title>
+    <title type="html"><![CDATA[Links for the past week in tech Oct. 13th 2011]]></title>
     <link href="http://blog.jamesrgifford.com/links-for-the-past-week-tech-13th/"/>
     <updated>2011-10-13T09:56:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/links-for-the-past-week-tech-13th</id>
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Public Domain Images &lt;em&gt;(&lt;a href=&quot;http://www.public-domain-image.com/&quot;&gt;Via Twitter&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Top 6 dumbest hacks of &lt;em&gt;all time&lt;/em&gt; &lt;em&gt;(&lt;a href=&quot;http://www.readwriteweb.com/hack/2011/10/top-6-dumbest-hacks-of-all-tim.php&quot;&gt;Via RWW&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    <content type="html"><![CDATA[<ul>
+<li><p>Public Domain Images <em>(<a href="http://www.public-domain-image.com/">Via Twitter</a>)</em></p></li>
+<li><p>Top 6 dumbest hacks of <em>all time</em> <em>(<a href="http://www.readwriteweb.com/hack/2011/10/top-6-dumbest-hacks-of-all-tim.php">Via RWW</a>)</em></p></li>
+</ul>
 
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Steve Jobs Book Excerpt: Why he work the Black Mock Turtleneck Uniform &lt;em&gt;(&lt;a href=&quot;http://9to5mac.com/2011/10/11/steve-jobs-book-excerpt-why-he-wore-the-black-mock-turtleneck-uniform&quot;&gt;Via 9-5 mac&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The three Terrifying minutes that created The Gunstringer. &lt;em&gt;(&lt;a href=&quot;http://www.joystiq.com/2011/09/26/the-three-terrifying-minutes-that-created-the-gunstringer/&quot;&gt;Via joystiq&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;What to consider when licensing source code? &lt;em&gt;(&lt;a href=&quot;http://answers.onstartups.com/questions/31409/what-to-consider-when-licensing-source-code&quot;&gt;Via Answers.onstartups&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Moral Decline and the end of big ideas &lt;em&gt;(&lt;a href=&quot;http://www.washingtonpost.com/national/on-innovations/moral-decline-and-the-end-of-big-ideas/2011/09/14/gIQAQntJwK_story.html&quot;&gt;Via the Washington Post&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Ubuntu 11.10 released. &lt;a href=&quot;http://www.ubuntu.com/tour/&quot;&gt;Nothing special here&amp;#8230;. OH WAIT&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;When is the startup phase over? &lt;em&gt;(&lt;a href=&quot;http://answers.onstartups.com/questions/31363/when-is-the-start-up-stage-over&quot;&gt;Via Answers.onstartups&lt;/a&gt;)&lt;/em&gt; (also &lt;a href=&quot;http://answers.onstartups.com/questions/3074/at-what-point-is-a-startup-no-longer-a-startup&quot;&gt;At what point is a startupno longer a startup?&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Influencing the Influencers: You&amp;#8217;re Doing it Wrong &lt;em&gt;(&lt;a href=&quot;http://www.readwriteweb.com/enterprise/2011/10/influencing-the-influencers-yo.php&quot;&gt;Via RWW&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;John Gruber talks about Amazons new Kindles &lt;em&gt;(&lt;a href=&quot;http://daringfireball.net/2011/09/amazons_new_kindles&quot;&gt;Via Daring Fireball&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Why education startups do &lt;em&gt;not&lt;/em&gt; succeed &lt;em&gt;(&lt;a href=&quot;http://avichal.wordpress.com/2011/10/07/why-education-startups-do-not-succeed/&quot;&gt;Via Avichal Garg&amp;#8217;s blog&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;iOS5 gets released - just talk.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li><p>Steve Jobs Book Excerpt: Why he work the Black Mock Turtleneck Uniform <em>(<a href="http://9to5mac.com/2011/10/11/steve-jobs-book-excerpt-why-he-wore-the-black-mock-turtleneck-uniform">Via 9-5 mac</a>)</em></p></li>
+<li><p>The three Terrifying minutes that created The Gunstringer. <em>(<a href="http://www.joystiq.com/2011/09/26/the-three-terrifying-minutes-that-created-the-gunstringer/">Via joystiq</a>)</em></p></li>
+<li><p>What to consider when licensing source code? <em>(<a href="http://answers.onstartups.com/questions/31409/what-to-consider-when-licensing-source-code">Via Answers.onstartups</a></em></p></li>
+<li><p>Moral Decline and the end of big ideas <em>(<a href="http://www.washingtonpost.com/national/on-innovations/moral-decline-and-the-end-of-big-ideas/2011/09/14/gIQAQntJwK_story.html">Via the Washington Post</a>)</em></p></li>
+<li><p>Ubuntu 11.10 released. <a href="http://www.ubuntu.com/tour/">Nothing special here&#8230;. OH WAIT</a></p></li>
+<li><p>When is the startup phase over? <em>(<a href="http://answers.onstartups.com/questions/31363/when-is-the-start-up-stage-over">Via Answers.onstartups</a>)</em> (also <a href="http://answers.onstartups.com/questions/3074/at-what-point-is-a-startup-no-longer-a-startup">At what point is a startupno longer a startup?</a>)</p></li>
+<li><p>Influencing the Influencers: You&#8217;re Doing it Wrong <em>(<a href="http://www.readwriteweb.com/enterprise/2011/10/influencing-the-influencers-yo.php">Via RWW</a>)</em></p></li>
+<li><p>John Gruber talks about Amazons new Kindles <em>(<a href="http://daringfireball.net/2011/09/amazons_new_kindles">Via Daring Fireball</a>)</em></p></li>
+<li><p>Why education startups do <em>not</em> succeed <em>(<a href="http://avichal.wordpress.com/2011/10/07/why-education-startups-do-not-succeed/">Via Avichal Garg&#8217;s blog</a>)</em></p></li>
+<li><p>iOS5 gets released - just talk.</p></li>
+</ul>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Links for the Past Week in Tech for Thursday, September 29th 2011</title>
+    <title type="html"><![CDATA[Links for the Past Week in Tech for Thursday, September 29th 2011]]></title>
     <link href="http://blog.jamesrgifford.com/links-for-the-past-week-in-tech-for-thursday/"/>
     <updated>2011-09-30T18:49:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/links-for-the-past-week-in-tech-for-thursday</id>
-    <content type="html">&lt;p&gt;So, every week I do a &amp;#8220;past week in tech and startups&amp;#8221; newscast-show-thingy at a local startup incubator - here is this weeks links, and &lt;a href=&quot;http://media.jamesrgifford.com/audio-for-the-week-in-tech-for-thursday-septe&quot;&gt;audio is available here&lt;/a&gt;.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>So, every week I do a &#8220;past week in tech and startups&#8221; newscast-show-thingy at a local startup incubator - here is this weeks links, and <a href="http://media.jamesrgifford.com/audio-for-the-week-in-tech-for-thursday-septe">audio is available here</a>.</p>
 
 
-&lt;p&gt;How CloudFlare aims to save the future of the internet with a Amazon-style Technology rollout, for free. &lt;!&#8211;more&#8211;&gt;(Via &lt;a href=&quot;http://www.readwriteweb.com/archives/how_exploding_startup_cloudflare_aims_to_save_the.php&quot;&gt;ReadWriteWeb&lt;/a&gt;)&lt;/p&gt;
+<p>How CloudFlare aims to save the future of the internet with a Amazon-style Technology rollout, for free. <!--more-->(Via <a href="http://www.readwriteweb.com/archives/how_exploding_startup_cloudflare_aims_to_save_the.php">ReadWriteWeb</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;Foursquare Hack helps you plan your next trip (Via &lt;a href=&quot;http://www.readwriteweb.com/archives/foursquare_hack_plan_my_next_trip.php&quot;&gt;ReadWriteWeb&lt;/a&gt;)&lt;/p&gt;
+<p>Foursquare Hack helps you plan your next trip (Via <a href="http://www.readwriteweb.com/archives/foursquare_hack_plan_my_next_trip.php">ReadWriteWeb</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;Amazon announces the $199 7-inch Kindle Fire (punny, eh?) (Via &lt;a href=&quot;http://www.readwriteweb.com/archives/amazon_announces_the_kindle_fire_tablet.php&quot;&gt;ReadWriteWeb&lt;/a&gt;)&lt;/p&gt;
+<p>Amazon announces the $199 7-inch Kindle Fire (punny, eh?) (Via <a href="http://www.readwriteweb.com/archives/amazon_announces_the_kindle_fire_tablet.php">ReadWriteWeb</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;The Facebook Timeline is the nearest thing I&amp;#8217;ve seen to a digital ID, and it&amp;#8217;s creepy as hell (Via &lt;a href=&quot;http://benwerd.com/2011/09/facebook-timeline-nearest-digital-identity-creepy-hell/&quot;&gt;Ben Werdmuller&lt;/a&gt;)&lt;/p&gt;
+<p>The Facebook Timeline is the nearest thing I&#8217;ve seen to a digital ID, and it&#8217;s creepy as hell (Via <a href="http://benwerd.com/2011/09/facebook-timeline-nearest-digital-identity-creepy-hell/">Ben Werdmuller</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;How Bad Boards Kill Companies: HP (Via &lt;a href=&quot;http://www.mondaynote.com/2011/09/25/how-bad-boards-kill-companies-hp/&quot;&gt;Monday Note&lt;/a&gt;)&lt;/p&gt;
+<p>How Bad Boards Kill Companies: HP (Via <a href="http://www.mondaynote.com/2011/09/25/how-bad-boards-kill-companies-hp/">Monday Note</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;HTML5 scores a point, slideshare drops Flash for HTML5 (&lt;a href=&quot;http://www.readwriteweb.com/archives/slideshare_html5_website_presentation_embeds.php&quot;&gt;Via ReadWriteWeb&lt;/a&gt;)&lt;/p&gt;
+<p>HTML5 scores a point, slideshare drops Flash for HTML5 (<a href="http://www.readwriteweb.com/archives/slideshare_html5_website_presentation_embeds.php">Via ReadWriteWeb</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;How to counter the statement &amp;#8220;You don&amp;#8217;t need (strong) security if you&amp;#8217;re not doing anything illegal!&amp;#8221;? (Via &lt;a href=&quot;http://security.stackexchange.com/q/7539/4276&quot;&gt;Security.stackexchange&lt;/a&gt;)&lt;/p&gt;
+<p>How to counter the statement &#8220;You don&#8217;t need (strong) security if you&#8217;re not doing anything illegal!&#8221;? (Via <a href="http://security.stackexchange.com/q/7539/4276">Security.stackexchange</a>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;Is it a good strategy to quit college and learn about entrepreneurship just by reading books at home? (Via &lt;a href=&quot;http://answers.onstartups.com/q/30632/12807&quot;&gt;Answers.onstartups&lt;/a&gt;)&lt;/p&gt;
+<p>Is it a good strategy to quit college and learn about entrepreneurship just by reading books at home? (Via <a href="http://answers.onstartups.com/q/30632/12807">Answers.onstartups</a>)</p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Deleting My @facebook Wednesday, connect with me elsewhere</title>
+    <title type="html"><![CDATA[Deleting My @facebook Wednesday, connect with me elsewhere]]></title>
     <link href="http://blog.jamesrgifford.com/deleting-my-facebook-tonight-connect-with-me/"/>
     <updated>2011-09-28T16:00:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/deleting-my-facebook-tonight-connect-with-me</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://thenextweb.com/facebook/2011/09/25/facebooks-eerie-goal-why-timeline-changes-everything/&quot;&gt;It&amp;#8217;s truly the end of the world as we know it.&lt;/a&gt;&lt;/p&gt;
+    <content type="html"><![CDATA[<p><a href="http://thenextweb.com/facebook/2011/09/25/facebooks-eerie-goal-why-timeline-changes-everything/">It&#8217;s truly the end of the world as we know it.</a></p>
 
 
-&lt;p&gt;After Facebook&amp;#8217;s latest changes, I&amp;#8217;m deleting my Facebook profile on Wednesday (that is, 9/28/2011) night. So, connect with me through the various services I&amp;#8217;ve got listed over here, at&amp;nbsp;&lt;a href=&quot;http://jamesrgifford.com/&quot;&gt;http://jamesrgifford.com/&lt;/a&gt;.&lt;/p&gt;
+<p>After Facebook&#8217;s latest changes, I&#8217;m deleting my Facebook profile on Wednesday (that is, 9/28/2011) night. So, connect with me through the various services I&#8217;ve got listed over here, at&nbsp;<a href="http://jamesrgifford.com/">http://jamesrgifford.com/</a>.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;Email: james @ jamesrgifford.com&lt;/p&gt;
+<p>Email: james @ jamesrgifford.com</p>
 
 
-&lt;p&gt;Txt number: 216-223-8574.&lt;/p&gt;
+<p>Txt number: 216-223-8574.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;If you can&amp;#8217;t contact me through those, then I probably don&amp;#8217;t want to talk to you (no offense meant, just saying).&lt;/p&gt;
+<p>If you can&#8217;t contact me through those, then I probably don&#8217;t want to talk to you (no offense meant, just saying).</p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Links for the past week in Tech, Thursday September 8th 2011</title>
+    <title type="html"><![CDATA[Links for the past week in Tech, Thursday September 8th 2011]]></title>
     <link href="http://blog.jamesrgifford.com/links-for-the-past-week-in-tech/"/>
     <updated>2011-09-09T20:54:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/links-for-the-past-week-in-tech</id>
-    <content type="html">&lt;p&gt;You can send James suggestions for next week at &lt;code&gt;james@jamesrgifford.com&lt;/code&gt;&lt;/p&gt;
+    <content type="html"><![CDATA[<p>You can send James suggestions for next week at <code>james@jamesrgifford.com</code></p>
 
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-when-getting-an-angel-investor&quot;&gt;http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-&amp;#8230;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;!&#8211;more&#8211;&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-officer-in-a-startup-do-i-pay-myself-as-an-employeew2&quot;&gt;http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-office&amp;#8230;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php&quot;&gt;http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-from-anywhere/&quot;&gt;http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-fro&amp;#8230;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-to-productivity-sanity.ars&quot;&gt;http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-&amp;#8230;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li><p><a href="http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-when-getting-an-angel-investor">http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-&#8230;</a></p></li>
+<!--more-->
+<li><p><a href="http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-officer-in-a-startup-do-i-pay-myself-as-an-employeew2">http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-office&#8230;</a></p></li>
+<li><p><a href="http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php">http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php</a></p></li>
+<li><p><a href="http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-from-anywhere/">http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-fro&#8230;</a></p></li>
+<li><p><a href="http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-to-productivity-sanity.ars">http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-&#8230;</a></p></li>
+</ul>
 
 
-&lt;p&gt;And the recording: &lt;a href=&quot;http://cinch.fm/jrgifford/281087&quot;&gt;http://cinch.fm/jrgifford/281087&lt;/a&gt;&lt;/p&gt;
+<p>And the recording: <a href="http://cinch.fm/jrgifford/281087">http://cinch.fm/jrgifford/281087</a></p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Tech Week in Review for September 1st</title>
+    <title type="html"><![CDATA[Tech Week in Review for September 1st]]></title>
     <link href="http://blog.jamesrgifford.com/tech-week-in-review-for-september-1st/"/>
     <updated>2011-09-02T19:04:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/tech-week-in-review-for-september-1st</id>
-    <content type="html">&lt;h3&gt;This week in tech news for Thursday, September 1st, 2011.&lt;/h3&gt;
+    <content type="html"><![CDATA[<h3>This week in tech news for Thursday, September 1st, 2011.</h3>
 
-&lt;p&gt;Send suggestions for next week to &lt;code&gt;james@jamesrgifford.com&lt;/code&gt;&lt;/p&gt;
+<p>Send suggestions for next week to <code>james@jamesrgifford.com</code></p>
 
-&lt;ul&gt;
-&lt;li&gt;Why Lodsys is trying it&amp;#8217;s hardest to keep Apple and Google out of the patent lawsuits (Via &lt;a href=&quot;http://www.groklaw.net/article.php?story=20110828073533134&quot;&gt;Groklaw&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;!&#8211;more&#8211;&gt;
+<ul>
+<li>Why Lodsys is trying it&#8217;s hardest to keep Apple and Google out of the patent lawsuits (Via <a href="http://www.groklaw.net/article.php?story=20110828073533134">Groklaw</a>)</li>
+</ul>
 
 
-&lt;ul&gt;
-&lt;li&gt;How do I secure my companies name on Twitter?  (Via &lt;a href=&quot;http://answers.onstartups.com/questions/29352/securing-your-companys-name-on-twitter&quot;&gt;Answers.onstartups.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;The rise and fall of the independent developer  (Via &lt;a href=&quot;http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/&quot;&gt;Furbo&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Bots are crawling new domains registrations and namesquatting twitter handles (Via &lt;a href=&quot;http://rossduggan.ie/blog/technology/bots-are-crawling-new-domain-registrations-and-namesquatting-twitter-handles/&quot;&gt;Ross Duggan&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Startups: How do I tactfully respond to friends and family who say &amp;#8220;Get a real job&amp;#8221;? (Via &lt;a href=&quot;http://answers.onstartups.com/questions/29229/how-to-tactfully-respond-to-friends-and-relatives-who-say-get-a-real-job&quot;&gt;Answers.onstartups.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Is stealth really the best way to build a startup? (Via &lt;a href=&quot;http://www.readwriteweb.com/start/2011/03/is-stealth-the-best-way-to-bui.php&quot;&gt;ReadWriteWeb&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Ten lessons from Githubs first year (Via &lt;a href=&quot;http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html&quot;&gt;Tom-Preston Warner&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Want to get things done? Be &amp;#8220;reasonably unreasonable&amp;#8221; (Via &lt;a href=&quot;http://radar.oreilly.com/2011/07/turing-uk-apology.html&quot;&gt;O&amp;#8217;reilly Radar&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Rails 3.1 has been released! (Via &lt;a href=&quot;http://weblog.rubyonrails.org/2011/8/31/rails-3-1-0-has-been-released&quot;&gt;The Official Rails release blog&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;First employee of a startup? You&amp;#8217;re probably getting screwed (Via &lt;a href=&quot;http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/&quot;&gt;itlater&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Kernel.org was hacked - should we be concerned? (Via &lt;a href=&quot;http://www.linux.com/news/featured-blogs/171-jonathan-corbet/491001-the-cracking-of-kernelorg&quot;&gt;Kernel.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Why I&amp;#8217;ll never work for a big company again (Via &lt;a href=&quot;http://kencochrane.net/blog/2011/08/ill-never-work-for-a-big-company-again/&quot;&gt;Ken Cochrane&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;How to f over a git repo - or not. (Via &lt;a href=&quot;http://git-blame.blogspot.com/2011/08/how-to-inject-malicious-commit-to-git.htm&quot;&gt;git-blame&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Why Governments don&amp;#8217;t get startups (Via &lt;a href=&quot;http://steveblank.com/2011/09/01/why-governments-don%E2%80%99t-get-startups/&quot;&gt;Steve Blank&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+<!--more-->
 
-</content>
+
+<ul>
+<li>How do I secure my companies name on Twitter?  (Via <a href="http://answers.onstartups.com/questions/29352/securing-your-companys-name-on-twitter">Answers.onstartups.com</a>)</li>
+<li>The rise and fall of the independent developer  (Via <a href="http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/">Furbo</a>)</li>
+<li>Bots are crawling new domains registrations and namesquatting twitter handles (Via <a href="http://rossduggan.ie/blog/technology/bots-are-crawling-new-domain-registrations-and-namesquatting-twitter-handles/">Ross Duggan</a>)</li>
+<li>Startups: How do I tactfully respond to friends and family who say &#8220;Get a real job&#8221;? (Via <a href="http://answers.onstartups.com/questions/29229/how-to-tactfully-respond-to-friends-and-relatives-who-say-get-a-real-job">Answers.onstartups.com</a>)</li>
+<li>Is stealth really the best way to build a startup? (Via <a href="http://www.readwriteweb.com/start/2011/03/is-stealth-the-best-way-to-bui.php">ReadWriteWeb</a>)</li>
+<li>Ten lessons from Githubs first year (Via <a href="http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html">Tom-Preston Warner</a>)</li>
+<li>Want to get things done? Be &#8220;reasonably unreasonable&#8221; (Via <a href="http://radar.oreilly.com/2011/07/turing-uk-apology.html">O&#8217;reilly Radar</a>)</li>
+<li>Rails 3.1 has been released! (Via <a href="http://weblog.rubyonrails.org/2011/8/31/rails-3-1-0-has-been-released">The Official Rails release blog</a>)</li>
+<li>First employee of a startup? You&#8217;re probably getting screwed (Via <a href="http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/">itlater</a>)</li>
+<li>Kernel.org was hacked - should we be concerned? (Via <a href="http://www.linux.com/news/featured-blogs/171-jonathan-corbet/491001-the-cracking-of-kernelorg">Kernel.com</a>)</li>
+<li>Why I&#8217;ll never work for a big company again (Via <a href="http://kencochrane.net/blog/2011/08/ill-never-work-for-a-big-company-again/">Ken Cochrane</a>)</li>
+<li>How to f over a git repo - or not. (Via <a href="http://git-blame.blogspot.com/2011/08/how-to-inject-malicious-commit-to-git.htm">git-blame</a>)</li>
+<li>Why Governments don&#8217;t get startups (Via <a href="http://steveblank.com/2011/09/01/why-governments-don%E2%80%99t-get-startups/">Steve Blank</a>)</li>
+</ul>
+
+]]></content>
   </entry>
   
   <entry>
-    <title>What the Heck, FSF?!</title>
+    <title type="html"><![CDATA[What the Heck, FSF?!]]></title>
     <link href="http://blog.jamesrgifford.com/what-the-heck-fsf/"/>
     <updated>2011-05-11T20:17:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/what-the-heck-fsf</id>
-    <content type="html">&lt;p&gt;&lt;strong&gt;A few nights ago, I recived the following email.&lt;/strong&gt;&lt;/p&gt;
+    <content type="html"><![CDATA[<p><strong>A few nights ago, I recived the following email.</strong></p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;blockquote&gt;
-&lt;p&gt;Did you know that, like you, nearly 50% of the 40,000 subscribers to the FSF&amp;#8217;s supporter mailing list have an @gmail.com email address?&lt;/p&gt;
-&lt;!&#8211;more&#8211;&gt;
-&lt;p&gt;JavaScript, once lauded for adding simple visual effects to web pages, is now used by web sites like Gmail to run powerful&lt;/p&gt;
-&lt;p&gt;programs on your computer. These programs, like any other program running on your computer, should be free software. But&lt;/p&gt;
-&lt;p&gt;right now, the vast majority of JavaScript programs do not respect your essential freedoms to run, study, modify and share&lt;/p&gt;
-&lt;p&gt;them. They take control of your computer away from you; the same control we have been working for over 25 years to protect.&lt;/p&gt;
-&lt;p&gt;Because of the incredibly high percentage of Gmail-using free software supporters, we&amp;#8217;re taking action to raise awareness&lt;/p&gt;
-&lt;p&gt;about how to use Gmail without using proprietary software. We&amp;#8217;ll also be working on longer term solutions, but the most&lt;/p&gt;
-&lt;p&gt;immediate positive step to take is to stop running the proprietary programs.&lt;/p&gt;
-&lt;p&gt;Many people suggest that you shouldn&amp;#8217;t use Gmail at all, because it means losing control over your data and privacy. We agree&lt;/p&gt;
-&lt;p&gt;that this is a very important factor for you to consider when choosing how you will handle your email.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;But since you are already using Gmail, please help us build momentum for change by not using the proprietary JavaScript on&lt;/p&gt;
-&lt;p&gt;your system &amp;#8211; &lt;a href=&quot;http://www.fsf.org/campaigns/jstrap/gmail?45645&quot;&gt;and helping others to do the same&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Yours sincerely,&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Matt Lee&lt;/p&gt;
-&lt;p&gt;Campaigns Manager&lt;/p&gt;
-&lt;p&gt;Free Software Foundation&lt;/p&gt;
-&lt;p&gt;&amp;#8211;&lt;/p&gt;
-&lt;p&gt;Sent from the Free Software Foundation,&lt;/p&gt;
-&lt;p&gt;51 Franklin Street&lt;/p&gt;
-&lt;p&gt;Fifth Floor&lt;/p&gt;
-&lt;p&gt;Boston, MA 02110-1335&lt;/p&gt;
-&lt;p&gt;United States&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote>
+<p>Did you know that, like you, nearly 50% of the 40,000 subscribers to the FSF&#8217;s supporter mailing list have an @gmail.com email address?</p>
+<!--more-->
+<p>JavaScript, once lauded for adding simple visual effects to web pages, is now used by web sites like Gmail to run powerful</p>
+<p>programs on your computer. These programs, like any other program running on your computer, should be free software. But</p>
+<p>right now, the vast majority of JavaScript programs do not respect your essential freedoms to run, study, modify and share</p>
+<p>them. They take control of your computer away from you; the same control we have been working for over 25 years to protect.</p>
+<p>Because of the incredibly high percentage of Gmail-using free software supporters, we&#8217;re taking action to raise awareness</p>
+<p>about how to use Gmail without using proprietary software. We&#8217;ll also be working on longer term solutions, but the most</p>
+<p>immediate positive step to take is to stop running the proprietary programs.</p>
+<p>Many people suggest that you shouldn&#8217;t use Gmail at all, because it means losing control over your data and privacy. We agree</p>
+<p>that this is a very important factor for you to consider when choosing how you will handle your email.</p>
+<p>&nbsp;</p>
+<p>But since you are already using Gmail, please help us build momentum for change by not using the proprietary JavaScript on</p>
+<p>your system &#8211; <a href="http://www.fsf.org/campaigns/jstrap/gmail?45645">and helping others to do the same</a>.</p>
+<p>&nbsp;</p>
+<p>Yours sincerely,</p>
+<p>&nbsp;</p>
+<p>Matt Lee</p>
+<p>Campaigns Manager</p>
+<p>Free Software Foundation</p>
+<p>&#8211;</p>
+<p>Sent from the Free Software Foundation,</p>
+<p>51 Franklin Street</p>
+<p>Fifth Floor</p>
+<p>Boston, MA 02110-1335</p>
+<p>United States</p>
+</blockquote>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;To this epistle, I have but one thing to say.&lt;/p&gt;
+<p>To this epistle, I have but one thing to say.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;WAKE UP. NAOW.&lt;/p&gt;
+<p>WAKE UP. NAOW.</p>
 
 
-&lt;p&gt;Seriously.&amp;nbsp;&lt;/p&gt;
+<p>Seriously.&nbsp;</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;I read that, and &lt;a href=&quot;https://twitter.com/#!/jrgifford/status/67767779750723585&quot;&gt;I tweeted the link&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+<p>I read that, and <a href="https://twitter.com/#!/jrgifford/status/67767779750723585">I tweeted the link</a>.&nbsp;</p>
 
 
-&lt;p&gt;Shortly thereafter, I got the following tweet.&lt;/p&gt;
+<p>Shortly thereafter, I got the following tweet.</p>
 
 
-&lt;blockquote class=&quot;posterous_short_quote&quot;&gt;
-&lt;p&gt;firefly911 @jrgifford &amp;nbsp;That&amp;#8217;s pretty odd. I fully support open software, but if someone wants their code proprietary they have that right to.&lt;/p&gt;
-&lt;/blockquote&gt;
+<blockquote class="posterous_short_quote">
+<p>firefly911 @jrgifford &nbsp;That&#8217;s pretty odd. I fully support open software, but if someone wants their code proprietary they have that right to.</p>
+</blockquote>
 
 
-&lt;p&gt;(&lt;em&gt;&lt;a href=&quot;http://twitter.com/firefly911/status/67778728217939968&quot;&gt;Link&lt;/a&gt;&lt;/em&gt;)&lt;/p&gt;
+<p>(<em><a href="http://twitter.com/firefly911/status/67778728217939968">Link</a></em>)</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;So&amp;#8230; what&amp;#8217;s he saying there? I couldn&amp;#8217;t understand it from all the proprietary &lt;a href=&quot;http://en.wikipedia.org/wiki/Drinking_the_Kool-Aid&quot;&gt;kool-aid I&amp;#8217;ve been drinking&lt;/a&gt;.&lt;/p&gt;
+<p>So&#8230; what&#8217;s he saying there? I couldn&#8217;t understand it from all the proprietary <a href="http://en.wikipedia.org/wiki/Drinking_the_Kool-Aid">kool-aid I&#8217;ve been drinking</a>.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;Exactly that. True freedom (I prefer the term &amp;#8220;liberty&amp;#8221; but that&amp;#8217;s another story) is the right to &lt;em&gt;choose&lt;/em&gt;. And that&amp;nbsp;means that if they want to, they can make their codebase proprietary. As a matter of fact, I&amp;#8217;m writing this on a Ubuntu Linux&amp;nbsp;box (Free software), using the amazing Simplenote (not free) for my editor. Oh, and I&amp;#8217;m using Google Chrome (Not completely free, although it does have a large amount of free components in it),&amp;nbsp;because Firefox (Free) is a memory hog on my computer. And (Ya know, before I forget), I&amp;#8217;m also using Dropbox (Not free) to&amp;nbsp;backup the stuff I&amp;#8217;m writing in Simplenote, and I&amp;#8217;ve also got about 5-10 tabs open with * GASP * proprietary websites in&amp;nbsp;them! WHO WOULDA THUNK IT?!?!?!?! O_O&lt;/p&gt;
+<p>Exactly that. True freedom (I prefer the term &#8220;liberty&#8221; but that&#8217;s another story) is the right to <em>choose</em>. And that&nbsp;means that if they want to, they can make their codebase proprietary. As a matter of fact, I&#8217;m writing this on a Ubuntu Linux&nbsp;box (Free software), using the amazing Simplenote (not free) for my editor. Oh, and I&#8217;m using Google Chrome (Not completely free, although it does have a large amount of free components in it),&nbsp;because Firefox (Free) is a memory hog on my computer. And (Ya know, before I forget), I&#8217;m also using Dropbox (Not free) to&nbsp;backup the stuff I&#8217;m writing in Simplenote, and I&#8217;ve also got about 5-10 tabs open with * GASP * proprietary websites in&nbsp;them! WHO WOULDA THUNK IT?!?!?!?! O_O</p>
 
 
-&lt;p&gt;My point is, people are going to use what WORKS. And until there are FOSS (Where FOSS = Free Open Source Software)&amp;nbsp;alternatives that work as well (or (hopefully) better than) the competition, people won&amp;#8217;t be changing.&amp;nbsp;&lt;/p&gt;
+<p>My point is, people are going to use what WORKS. And until there are FOSS (Where FOSS = Free Open Source Software)&nbsp;alternatives that work as well (or (hopefully) better than) the competition, people won&#8217;t be changing.&nbsp;</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;I know a guy who still uses his AOL account for all his email.&amp;nbsp;&lt;/p&gt;
+<p>I know a guy who still uses his AOL account for all his email.&nbsp;</p>
 
 
-&lt;p&gt;Why?&amp;nbsp;&lt;/p&gt;
+<p>Why?&nbsp;</p>
 
 
-&lt;p&gt;Because it works. And yes, there are &amp;#8220;better&amp;#8221; alternatives out there. But it works.&amp;nbsp;&lt;/p&gt;
+<p>Because it works. And yes, there are &#8220;better&#8221; alternatives out there. But it works.&nbsp;</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;And (&lt;a href=&quot;http://alexeymk.com/dear-dr-stallman-an-open-letter&quot;&gt;as was stated in a open letter to RMS&lt;/a&gt;)&amp;nbsp;&lt;/p&gt;
+<p>And (<a href="http://alexeymk.com/dear-dr-stallman-an-open-letter">as was stated in a open letter to RMS</a>)&nbsp;</p>
 
 
-&lt;p&gt;&amp;#8220;We live in a world where having the technological edge makes the difference between success and failure; asking us to just&amp;nbsp;give up that edge for a theoretical idea of freedom is not going to work.&amp;#8221;&lt;/p&gt;
+<p>&#8220;We live in a world where having the technological edge makes the difference between success and failure; asking us to just&nbsp;give up that edge for a theoretical idea of freedom is not going to work.&#8221;</p>
 
 
-&lt;p&gt;And on that note, to the FSF, I have this to say.&lt;/p&gt;
+<p>And on that note, to the FSF, I have this to say.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;If you&amp;#8217;re really about Freedom, then people have the right to make their codebase (software, artwork, etc) proprietary. And&amp;nbsp;now, if you&amp;#8217;ll excuse me, I&amp;#8217;ll just go off and play one of those DRM&amp;#8217;ed games that I bought for $.99 on the (proprietary) Apple AppStore, because&amp;nbsp;for games, the (&amp;#8220;Open Source&amp;#8221;-but-not-really) Android just doesn&amp;#8217;t seem to work well. Wonder why&amp;#8230;&lt;/p&gt;
+<p>If you&#8217;re really about Freedom, then people have the right to make their codebase (software, artwork, etc) proprietary. And&nbsp;now, if you&#8217;ll excuse me, I&#8217;ll just go off and play one of those DRM&#8217;ed games that I bought for $.99 on the (proprietary) Apple AppStore, because&nbsp;for games, the (&#8220;Open Source&#8221;-but-not-really) Android just doesn&#8217;t seem to work well. Wonder why&#8230;</p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Email Setup Using Thunderbird</title>
+    <title type="html"><![CDATA[Email Setup Using Thunderbird]]></title>
     <link href="http://blog.jamesrgifford.com/email-setup-using-thunderbird/"/>
     <updated>2011-05-08T20:35:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/email-setup-using-thunderbird</id>
-    <content type="html">&lt;p&gt;I use Gmail. And I use it for everything.&lt;/p&gt;
+    <content type="html"><![CDATA[<p>I use Gmail. And I use it for everything.</p>
 
 
-&lt;p&gt;Contacts?&lt;/p&gt;
+<p>Contacts?</p>
 
 
-&lt;p&gt;Yup.&lt;/p&gt;
+<p>Yup.</p>
 
 
-&lt;p&gt;Calendars?&lt;/p&gt;
+<p>Calendars?</p>
 
 
-&lt;p&gt;Yup.&lt;/p&gt;
+<p>Yup.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;Now, I keep Google Chrome around for my main, everyday browsing. However, I do have &lt;a href=&quot;http://www.chromium.org/&quot;&gt;Chromium&lt;/a&gt;&amp;nbsp;around for a few things, mainly WebApps. Like Google Calendar and my &lt;a href=&quot;http://en.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;&amp;nbsp;app, &lt;a href=&quot;http://wunderlist.com&quot;&gt;Wunderlist&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+<p>Now, I keep Google Chrome around for my main, everyday browsing. However, I do have <a href="http://www.chromium.org/">Chromium</a>&nbsp;around for a few things, mainly WebApps. Like Google Calendar and my <a href="http://en.wikipedia.org/wiki/Getting_Things_Done">GTD</a>&nbsp;app, <a href="http://wunderlist.com">Wunderlist</a>.&nbsp;</p>
 
 
-&lt;p&gt;However, I need to use Thunderbird for a lot of reasons, the big one is that I can&amp;#8217;t do &lt;a href=&quot;http://en.wikipedia.org/wiki/Pretty_Good_Privacy&quot;&gt;PGP email&lt;/a&gt; signing from Gmail. So, in order to use Thunderbird, I need to have a few things in place.&lt;/p&gt;
+<p>However, I need to use Thunderbird for a lot of reasons, the big one is that I can&#8217;t do <a href="http://en.wikipedia.org/wiki/Pretty_Good_Privacy">PGP email</a> signing from Gmail. So, in order to use Thunderbird, I need to have a few things in place.</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;1. &lt;a href=&quot;http://enigmail.mozdev.org/home/index.php.html&quot;&gt;Engimail&lt;/a&gt;.&lt;/p&gt;
+<p>1. <a href="http://enigmail.mozdev.org/home/index.php.html">Engimail</a>.</p>
 
 
-&lt;p&gt;2. &lt;a href=&quot;https://addons.mozilla.org/en-US/thunderbird/addon/zindus/&quot;&gt;Zindus.&lt;/a&gt;&lt;/p&gt;
+<p>2. <a href="https://addons.mozilla.org/en-US/thunderbird/addon/zindus/">Zindus.</a></p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;That&amp;#8217;s it. I install Enigmail and Zindus, hook them up to their respective accounts, and I&amp;#8217;m set. It&amp;#8217;s simple as that. And now that I&amp;#8217;m using &lt;a href=&quot;http://2buntu.com/index.php/archives/595&quot;&gt;openbox as my window manager&lt;/a&gt;, I can have Thunderbird running all the time without slowing down my netbook much. In fact, once I get my second GB of RAM, I probably won&amp;#8217;t notice Thunderbird&amp;#8217;s drain at all.&amp;nbsp;&lt;/p&gt;
+<p>That&#8217;s it. I install Enigmail and Zindus, hook them up to their respective accounts, and I&#8217;m set. It&#8217;s simple as that. And now that I&#8217;m using <a href="http://2buntu.com/index.php/archives/595">openbox as my window manager</a>, I can have Thunderbird running all the time without slowing down my netbook much. In fact, once I get my second GB of RAM, I probably won&#8217;t notice Thunderbird&#8217;s drain at all.&nbsp;</p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Why Ubuntu (and Linux in General) Won&#8217;t Take Over the Desktop</title>
+    <title type="html"><![CDATA[Why Ubuntu (and Linux in General) Won't Take Over the Desktop]]></title>
     <link href="http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove/"/>
     <updated>2011-05-05T20:40:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove</id>
-    <content type="html">&lt;p&gt;&amp;#8220;As long as people can&amp;#8217;t go to a shop and buy a Dell or a HP with Linux installed, it won&amp;#8217;t become mainstream&amp;#8221;&lt;/p&gt;
+    <content type="html"><![CDATA[<p>&#8220;As long as people can&#8217;t go to a shop and buy a Dell or a HP with Linux installed, it won&#8217;t become mainstream&#8221;</p>
 
 
-&lt;p&gt;&amp;#8220;For them [The average Joe] something that doesn&amp;#8217;t come in the box or from a shop just isn&amp;#8217;t real. And that&amp;#8217;s the problem&amp;#8221;&lt;/p&gt;
+<p>&#8220;For them [The average Joe] something that doesn&#8217;t come in the box or from a shop just isn&#8217;t real. And that&#8217;s the problem&#8221;</p>
 
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;p&gt;&lt;em&gt;From &lt;a href=&quot;http://www.linuxoutlaws.com/&quot;&gt;Linux Outlaws&lt;/a&gt;&amp;nbsp;Episode 202.&lt;/em&gt;&lt;/p&gt;
+<p><em>From <a href="http://www.linuxoutlaws.com/">Linux Outlaws</a>&nbsp;Episode 202.</em></p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Something I Wrote: Unity, Then And Now</title>
+    <title type="html"><![CDATA[Something I Wrote: Unity, Then And Now]]></title>
     <link href="http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now/"/>
     <updated>2011-05-01T20:45:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now</id>
-    <content type="html">&lt;p&gt;For those of you who are Ubuntu users, you probably have heard of the new Ubuntu Unity interface that became the default in 11.04 Natty Narwhal. Well, people don&amp;#8217;t seem to like it, so for today&amp;#8217;s part of the wordpress post a week challenge, I wrote something over on 2buntu.com about Unity, then and now. If you&amp;#8217;re still reading this, and you&amp;#8217;re interested in it, &lt;a href=&quot;http://2buntu.com/index.php/archives/512&quot;&gt;take a look at it over here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+    <content type="html"><![CDATA[<p>For those of you who are Ubuntu users, you probably have heard of the new Ubuntu Unity interface that became the default in 11.04 Natty Narwhal. Well, people don&#8217;t seem to like it, so for today&#8217;s part of the wordpress post a week challenge, I wrote something over on 2buntu.com about Unity, then and now. If you&#8217;re still reading this, and you&#8217;re interested in it, <a href="http://2buntu.com/index.php/archives/512">take a look at it over here</a>.&nbsp;</p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Repository for Unity QuickList Examples</title>
+    <title type="html"><![CDATA[Repository for Unity QuickList Examples]]></title>
     <link href="http://blog.jamesrgifford.com/repository-for-unity-quicklist-examples/"/>
     <updated>2011-04-25T20:48:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/repository-for-unity-quicklist-examples</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;This post originally appeared on &lt;a href=&quot;http://2buntu.com/index.php/archives/429&quot;&gt;2buntu.com&lt;/a&gt;, a site that I occasionally write for on varied topics, most of which have to do with my Ubuntu side.&lt;/em&gt;&lt;/p&gt;
+    <content type="html"><![CDATA[<p><em>This post originally appeared on <a href="http://2buntu.com/index.php/archives/429">2buntu.com</a>, a site that I occasionally write for on varied topics, most of which have to do with my Ubuntu side.</em></p>
 
 
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<p>&nbsp;</p>
 
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;One of the cool new features (Among many) in Unity in 11.04 (Hereafter referred to as &amp;#8220;Natty&amp;#8221;) is &lt;a href=&quot;https://wiki.ubuntu.com/Unity/LauncherAPI#Static%20Quicklist%20entries&quot;&gt;QuickLists&lt;/a&gt;. QuickLists are this awesome new feature that let you have shortcuts in your Unity Launcher. I was a little bored today, so I created a &lt;a href=&quot;https://launchpad.net/unity-quicklist-examples&quot;&gt;project on launchpad&lt;/a&gt; with some cool examples. So I decided &amp;#8220;Hey, lets make a FileZilla quicklist&amp;#8221;, so I fired up my trusty vim, and let &amp;#8216;er rip. So, if you&amp;#8217;re interested in getting ahold of these cool new QuickList, just run this command:&lt;/p&gt;
+<p>One of the cool new features (Among many) in Unity in 11.04 (Hereafter referred to as &#8220;Natty&#8221;) is <a href="https://wiki.ubuntu.com/Unity/LauncherAPI#Static%20Quicklist%20entries">QuickLists</a>. QuickLists are this awesome new feature that let you have shortcuts in your Unity Launcher. I was a little bored today, so I created a <a href="https://launchpad.net/unity-quicklist-examples">project on launchpad</a> with some cool examples. So I decided &#8220;Hey, lets make a FileZilla quicklist&#8221;, so I fired up my trusty vim, and let &#8216;er rip. So, if you&#8217;re interested in getting ahold of these cool new QuickList, just run this command:</p>
 
 
-&lt;p&gt;&lt;span style=&quot;font-family: Times New Roman; font-size: medium;&quot;&gt;
-&lt;/span&gt;&lt;/p&gt;
+<p><span style="font-family: Times New Roman; font-size: medium;">
+</span></p>
 
 
-&lt;p style=&quot;display: inline !important;&quot;&gt;&lt;code&gt;sudo apt-get install bzr &amp;amp;&amp;amp; bzr branch lp:unity-quicklist-examples&lt;/code&gt;&lt;/p&gt;
+<p style="display: inline !important;"><code>sudo apt-get install bzr &amp;&amp; bzr branch lp:unity-quicklist-examples</code></p>
 
 
-&lt;p style=&quot;display: inline !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+<p style="display: inline !important;">&nbsp;</p>
 
 
-&lt;p style=&quot;display: inline !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+<p style="display: inline !important;">&nbsp;</p>
 
 
-&lt;p style=&quot;display: inline !important;&quot;&gt;The first part will install bzr on your system (if you don&amp;#8217;t already have it), and the second part will download the files for your perusal. Special thanks go to &lt;a href=&quot;https://launchpad.net/~mainerror&quot;&gt;Octavian Damiean&lt;/a&gt; for helping me with the FileZilla QuickList. Any questions/comments/concerns can be sent to &lt;a href=&quot;mailto:james@jamesrgifford.com&quot;&gt;james@jamesrgifford.com, or you can &lt;a href=&quot;https://bugs.launchpad.net/unity-quicklist-examples/+filebug&quot;&gt;file a bug&lt;/a&gt; in the Unity QuickList Examples Project.&lt;/p&gt;
+<p style="display: inline !important;">The first part will install bzr on your system (if you don&#8217;t already have it), and the second part will download the files for your perusal. Special thanks go to <a href="https://launchpad.net/~mainerror">Octavian Damiean</a> for helping me with the FileZilla QuickList. Any questions/comments/concerns can be sent to <a href="mailto:james@jamesrgifford.com">james@jamesrgifford.com, or you can <a href="https://bugs.launchpad.net/unity-quicklist-examples/+filebug">file a bug</a> in the Unity QuickList Examples Project.</p>
 
 
-&lt;p&gt;&lt;/p&gt;
+<p></p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Meet the New Chief of Google Chrome OS</title>
+    <title type="html"><![CDATA[Meet the New Chief of Google Chrome OS]]></title>
     <link href="http://blog.jamesrgifford.com/meet-the-new-chief-of-google-chrome-os/"/>
     <updated>2011-04-01T20:51:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/meet-the-new-chief-of-google-chrome-os</id>
-    <content type="html">&lt;p&gt;Well, it&amp;#8217;s come.
-&amp;nbsp;
+    <content type="html"><![CDATA[<p>Well, it&#8217;s come.
+&nbsp;
 Time for me to move on from Oaggle, Ubuntu and the rest of the Open Source World.
-As of 12:00AM April 1st 2011, I was hired by &amp;nbsp;Google to be their new head of the Chrome OS.&lt;/p&gt;
+As of 12:00AM April 1st 2011, I was hired by &nbsp;Google to be their new head of the Chrome OS.</p>
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;p&gt;Before I get into details as to what I&amp;#8217;ll be doing, I&amp;#8217;d like to offer my congratulations to Roland Taylor &lt;a href=&quot;https://2buntu.wordpress.com/2011/04/01/ubuntu-has-been-forked-no-seriously/&quot;&gt;as he becomes the head of 2Buntu&lt;/a&gt;, a new cloud-based competitor to Chrome OS.
-As part of this sudden change, I&amp;#8217;m going to be implementing a different way of doing things in the Chrome OS Department.
-First, enough of this &amp;#8220;Gentoo-based&amp;#8221; stuff. The first thing we&amp;#8217;re going to do is drop Gentoo (And by extension, the new&amp;nbsp;Canterbury&amp;nbsp;Distribution), and go with Google as our core. We&amp;#8217;ll be running the same Debian-Gentoo-Fedora-Ubuntu-ARCH Beast that we run on our top-secret servers on Chrome OS.
-&amp;nbsp;
-Second, there&amp;#8217;s the matter of HTML5. I&amp;#8217;ve decided that Chrome OS won&amp;#8217;t be supporting HTML5, and shall instead move straight to HTML6, which doesn&amp;#8217;t need &lt;em&gt;any coding &lt;strong&gt;at all&lt;/strong&gt;. &lt;/em&gt;For more details on this new&amp;nbsp;technology, &lt;a href=&quot;http://jamesrgifford.com/html6/&quot; title=&quot;HTML6&quot; target=&quot;_blank&quot;&gt;please see this&lt;/a&gt;.
-&amp;nbsp;
-Third (And last), I&amp;#8217;d like to thank the wonderful folks over at Oaggle.com for everything that they&amp;#8217;ve done. You&amp;#8217;re all awesome. Thanks &lt;a href=&quot;https://twitter.com/#!/ryangould_&quot;&gt;Ryan&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/#!/conrk&quot;&gt;Conor&lt;/a&gt;.&lt;/p&gt;
+<p>Before I get into details as to what I&#8217;ll be doing, I&#8217;d like to offer my congratulations to Roland Taylor <a href="https://2buntu.wordpress.com/2011/04/01/ubuntu-has-been-forked-no-seriously/">as he becomes the head of 2Buntu</a>, a new cloud-based competitor to Chrome OS.
+As part of this sudden change, I&#8217;m going to be implementing a different way of doing things in the Chrome OS Department.
+First, enough of this &#8220;Gentoo-based&#8221; stuff. The first thing we&#8217;re going to do is drop Gentoo (And by extension, the new&nbsp;Canterbury&nbsp;Distribution), and go with Google as our core. We&#8217;ll be running the same Debian-Gentoo-Fedora-Ubuntu-ARCH Beast that we run on our top-secret servers on Chrome OS.
+&nbsp;
+Second, there&#8217;s the matter of HTML5. I&#8217;ve decided that Chrome OS won&#8217;t be supporting HTML5, and shall instead move straight to HTML6, which doesn&#8217;t need <em>any coding <strong>at all</strong>. </em>For more details on this new&nbsp;technology, <a href="http://jamesrgifford.com/html6/" title="HTML6" target="_blank">please see this</a>.
+&nbsp;
+Third (And last), I&#8217;d like to thank the wonderful folks over at Oaggle.com for everything that they&#8217;ve done. You&#8217;re all awesome. Thanks <a href="https://twitter.com/#!/ryangould_">Ryan</a> and <a href="https://twitter.com/#!/conrk">Conor</a>.</p>
 
-&lt;p&gt;&lt;em&gt;Please note that today is April 1st. Thank you&lt;/em&gt;&lt;/p&gt;
+<p><em>Please note that today is April 1st. Thank you</em></p>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Link Dump for 3-29-2011</title>
+    <title type="html"><![CDATA[Link Dump for 3-29-2011]]></title>
     <link href="http://blog.jamesrgifford.com/link-dump-for-3-29-2011/"/>
     <updated>2011-03-29T20:55:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/link-dump-for-3-29-2011</id>
-    <content type="html">&lt;p&gt;More linkage! Without further ado, here we go:&lt;/p&gt;
+    <content type="html"><![CDATA[<p>More linkage! Without further ado, here we go:</p>
 
-&lt;!&#8211;more&#8211;&gt;
-
-
-&lt;ul&gt;
-&lt;li&gt;KDE accepted for Google Summer of Code 2011 [&lt;a href=&quot;http://j.mp/hD1D7D&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Debian accepted as a mentoring organization for this year&amp;#8217;s Google Summer Of Code. [&lt;a href=&quot;https://twitter.com/#!/debian/status/49026832388993024&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;25 Things I Hate About Google, Revisited 5 Years Later [&lt;a href=&quot;http://j.mp/gnDR4M&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;FireFox 4 Released [&lt;a href=&quot;http://izzatz.com/firefox-4-released/&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;PHP 5.3.6 Released [&lt;a href=&quot;http://j.mp/i6mmSS&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;What it&amp;#8217;s like to start work at Quora by Kah Seng Tay [&lt;a href=&quot;http://j.mp/f69cRJ&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;What&amp;#8217;s your favorite office program? &amp;nbsp;[&lt;a href=&quot;http://j.mp/hTGCOm&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Mozilla outlines 16-week Firefox development cycle &amp;nbsp;[&lt;a href=&quot;http://j.mp/gezkts&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Justin Vincent — Bootstrappers’ Kickstarter Kit – No Investment Required [&lt;a href=&quot;http://j.mp/dZnvPP&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Professionalism is for Amateurs [&lt;a href=&quot;http://j.mp/fUOOrO&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;What’s wrong with Unity &amp;amp; how we can fix it [&lt;a href=&quot;http://j.mp/dV8s9r&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Escape Earth 2012 Tickets [&lt;a href=&quot;http://j.mp/gtHkYx&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Top 10 Free Source Code Editors [&lt;a href=&quot;http://www.hongkiat.com/blog/free-code-editors-reviewed/&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Remapping the CAPS LOCK key to esc. [&lt;a href=&quot;http://www.terminally-incoherent.com/blog/2007/08/02/remapping-the-caps-lock-key/&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;/ul&gt;
+<!--more-->
 
 
-&lt;p&gt;&amp;nbsp;
-Here&amp;#8217;s one last link, and here&amp;#8217;s why I&amp;#8217;m putting this one in a special place: it&amp;#8217;s about Ruby. I&amp;#8217;ve gotten &lt;strong&gt;sick and tired&lt;/strong&gt; of the fact there is no definitive guide to installing Ruby (And rails, as well as all of those other Gems) on Ubuntu. I&amp;#8217;ve read some stuff, but for the most part, any sort of a &amp;#8220;Installing tutorial&amp;#8221; is non-existent. So, being the complete sucker that I am, I created this over the weekend:
-Installing Ruby on Rails and RVM (Ruby Version Manager) in Ubuntu 10.04, 10.10 and 11.04. [&lt;a href=&quot;https://github.com/jrgifford/Tutorials/blob/master/ruby-on-rails-ubuntu.markdown&quot;&gt;link&lt;/a&gt;]
-&amp;nbsp;
-Tell me what you think, and I&amp;#8217;ll be updating it with (If anything changes) fairly regularly. If you encounter an error, let me know, and I&amp;#8217;ll figure out what&amp;#8217;s going on (If it&amp;#8217;s my fault, or if something with the packages changed - I&amp;#8217;m not responsible for fixing your computer).&lt;/p&gt;
-</content>
+<ul>
+<li>KDE accepted for Google Summer of Code 2011 [<a href="http://j.mp/hD1D7D">link</a>]</li>
+<li>Debian accepted as a mentoring organization for this year&#8217;s Google Summer Of Code. [<a href="https://twitter.com/#!/debian/status/49026832388993024">link</a>]</li>
+<li>25 Things I Hate About Google, Revisited 5 Years Later [<a href="http://j.mp/gnDR4M">link</a>]</li>
+<li>FireFox 4 Released [<a href="http://izzatz.com/firefox-4-released/">link</a>]</li>
+<li>PHP 5.3.6 Released [<a href="http://j.mp/i6mmSS">link</a>]</li>
+<li>What it&#8217;s like to start work at Quora by Kah Seng Tay [<a href="http://j.mp/f69cRJ">link</a>]</li>
+<li>What&#8217;s your favorite office program? &nbsp;[<a href="http://j.mp/hTGCOm">link</a>]</li>
+<li>Mozilla outlines 16-week Firefox development cycle &nbsp;[<a href="http://j.mp/gezkts">link</a>]</li>
+<li>Justin Vincent — Bootstrappers’ Kickstarter Kit – No Investment Required [<a href="http://j.mp/dZnvPP">link</a>]</li>
+<li>Professionalism is for Amateurs [<a href="http://j.mp/fUOOrO">link</a>]</li>
+<li>What’s wrong with Unity &amp; how we can fix it [<a href="http://j.mp/dV8s9r">link</a>]</li>
+<li>Escape Earth 2012 Tickets [<a href="http://j.mp/gtHkYx">link</a>]</li>
+<li>Top 10 Free Source Code Editors [<a href="http://www.hongkiat.com/blog/free-code-editors-reviewed/">link</a>]</li>
+<li>Remapping the CAPS LOCK key to esc. [<a href="http://www.terminally-incoherent.com/blog/2007/08/02/remapping-the-caps-lock-key/">link</a>]</li>
+</ul>
+
+
+<p>&nbsp;
+Here&#8217;s one last link, and here&#8217;s why I&#8217;m putting this one in a special place: it&#8217;s about Ruby. I&#8217;ve gotten <strong>sick and tired</strong> of the fact there is no definitive guide to installing Ruby (And rails, as well as all of those other Gems) on Ubuntu. I&#8217;ve read some stuff, but for the most part, any sort of a &#8220;Installing tutorial&#8221; is non-existent. So, being the complete sucker that I am, I created this over the weekend:
+Installing Ruby on Rails and RVM (Ruby Version Manager) in Ubuntu 10.04, 10.10 and 11.04. [<a href="https://github.com/jrgifford/Tutorials/blob/master/ruby-on-rails-ubuntu.markdown">link</a>]
+&nbsp;
+Tell me what you think, and I&#8217;ll be updating it with (If anything changes) fairly regularly. If you encounter an error, let me know, and I&#8217;ll figure out what&#8217;s going on (If it&#8217;s my fault, or if something with the packages changed - I&#8217;m not responsible for fixing your computer).</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Hotot for Ubuntu</title>
+    <title type="html"><![CDATA[Hotot for Ubuntu]]></title>
     <link href="http://blog.jamesrgifford.com/hotot-for-ubuntu/"/>
     <updated>2011-03-19T21:00:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/hotot-for-ubuntu</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://hotot.org&quot; title=&quot;Hotot - Get Hotot!&quot;&gt;Hotot&lt;/a&gt; is a fairly new Twitter client (It isn&amp;#8217;t even out of Beta - It&amp;#8217;s like a Google Project or something! ;) ) that&amp;#8217;s got my attention - in a good way. &lt;em&gt;(Please note that I won&amp;#8217;t write a scathing review about a piece of FOSS Software. I&amp;#8217;ll just file bug reports and spam your email). &lt;/em&gt;Anyway, I&amp;#8217;ve been using it, and I&amp;#8217;ve been enjoying it - it&amp;#8217;s a nice little piece of software.&lt;/p&gt;
+    <content type="html"><![CDATA[<p><a href="http://hotot.org" title="Hotot - Get Hotot!">Hotot</a> is a fairly new Twitter client (It isn&#8217;t even out of Beta - It&#8217;s like a Google Project or something! ;) ) that&#8217;s got my attention - in a good way. <em>(Please note that I won&#8217;t write a scathing review about a piece of FOSS Software. I&#8217;ll just file bug reports and spam your email). </em>Anyway, I&#8217;ve been using it, and I&#8217;ve been enjoying it - it&#8217;s a nice little piece of software.</p>
 
-&lt;!&#8211;more&#8211;&gt;
-
-
-&lt;p&gt;Anyway, here&amp;#8217;s a quick little preview of it.
-&amp;nbsp;
-Hotot is a simple Twitter client, arranged in a column style, much like TweetDeck.&lt;/p&gt;
-
-&lt;div class=&quot;posterousGalleryMainDiv p_embed p_image_embed&quot; data-posterous-file-list=&quot;%5B%7B%22large%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22originalWidth%22%3A%22300%22%2C%22largeWidth%22%3A%22300%22%2C%22thumb%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.thumb.jpg%22%2C%22originalHeight%22%3A%22168%22%2C%22largeHeight%22%3A%22168%22%2C%22thumbWidth%22%3A%2236%22%2C%22height%22%3A%22168%22%2C%22main%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.scaled500.jpg%22%2C%22thumbHeight%22%3A%2236%22%2C%22originalSize%22%3A%2217%22%2C%22original%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22width%22%3A%22300%22%7D%5D&quot; data-posterous-image-gallery-initialized=&quot;true&quot; data-posterous-image-gallery=&quot;true&quot; data-posterous-options=&quot;%7B%22zipFile%22%3Anull%2C%22zipFileSize%22%3Anull%2C%22external_url%22%3A%22http%3A%2F%2Fjamesrgifford.com%2Fwp-content%2Fuploads%2F2011%2F03%2FHotot_203.jpeg%22%2C%22showDownload%22%3Atrue%2C%22url_slug%22%3A%22hotot-for-ubuntu%22%7D&quot;&gt;&lt;a href=&quot;#&quot; onclick=&quot;return false;&quot; class=&quot;posterousGalleryMainlink&quot;&gt;&lt;img src=&quot;http://posterous.com/getfile/files.posterous.com/import-mkxd/rIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal/media_httpjamesrgiffo_efwqd.jpg.scaled500.jpg&quot; width=&quot;300&quot; height=&quot;168&quot; id=&quot;mainImage&quot;&gt;&lt;span class=&quot;show&quot; id=&quot;&quot;&gt;&lt;div style=&quot;font-size:14px;position:absolute;right:10px;bottom:0px;&quot; id=&quot;-dl3&quot;&gt;&lt;a href=&quot;#&quot; onclick=&quot;return false&quot; class=&quot;view_slideshow&quot; data-posterous-tooltip=&quot;Click to view in full screen&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px; display: none; &quot; id=&quot;-dl2&quot; class=&quot;posterousGalleryLink&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot; id=&quot;-dl1&quot; class=&quot;posterousGalleryLink&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+<!--more-->
 
 
-&lt;p&gt;&amp;nbsp;
+<p>Anyway, here&#8217;s a quick little preview of it.
+&nbsp;
+Hotot is a simple Twitter client, arranged in a column style, much like TweetDeck.</p>
+
+<div class="posterousGalleryMainDiv p_embed p_image_embed" data-posterous-file-list="%5B%7B%22large%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22originalWidth%22%3A%22300%22%2C%22largeWidth%22%3A%22300%22%2C%22thumb%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.thumb.jpg%22%2C%22originalHeight%22%3A%22168%22%2C%22largeHeight%22%3A%22168%22%2C%22thumbWidth%22%3A%2236%22%2C%22height%22%3A%22168%22%2C%22main%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.scaled500.jpg%22%2C%22thumbHeight%22%3A%2236%22%2C%22originalSize%22%3A%2217%22%2C%22original%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22width%22%3A%22300%22%7D%5D" data-posterous-image-gallery-initialized="true" data-posterous-image-gallery="true" data-posterous-options="%7B%22zipFile%22%3Anull%2C%22zipFileSize%22%3Anull%2C%22external_url%22%3A%22http%3A%2F%2Fjamesrgifford.com%2Fwp-content%2Fuploads%2F2011%2F03%2FHotot_203.jpeg%22%2C%22showDownload%22%3Atrue%2C%22url_slug%22%3A%22hotot-for-ubuntu%22%7D"><a href="#" onclick="return false;" class="posterousGalleryMainlink"><img src="http://posterous.com/getfile/files.posterous.com/import-mkxd/rIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal/media_httpjamesrgiffo_efwqd.jpg.scaled500.jpg" width="300" height="168" id="mainImage"><span class="show" id=""><div style="font-size:14px;position:absolute;right:10px;bottom:0px;" id="-dl3"><a href="#" onclick="return false" class="view_slideshow" data-posterous-tooltip="Click to view in full screen"></a></div><div style="font-size: 14px; display: none; " id="-dl2" class="posterousGalleryLink"></div><div style="font-size: 14px;" id="-dl1" class="posterousGalleryLink"></div></span></a></div>
+
+
+<p>&nbsp;
 What are the various features that are available?
-A lot. You&amp;#8217;ve got URL shortening, Img.ly and TwitPic uploading, Send to Instapaper (I love that feature!), and image previews for a lot of image services. (Examples include Instagram. TwitPic and img.ly, among others).
-&amp;nbsp;
-So, now that I&amp;#8217;ve impressed you with Hotot&amp;#8217;s awesome features, how can you install this? Thankfully, there is a PPA (Personal Package Archive) that you can use to install it - however, beware - Hotot is still in beta, and while I haven&amp;#8217;t had anything bad happen because of it,&lt;a href=&quot;http://en.wiktionary.org/wiki/your_mileage_may_vary#Synonyms&quot;&gt; your&amp;nbsp;mileage&amp;nbsp;may vary.&lt;/a&gt;
-&amp;nbsp;
-Here&amp;#8217;s all you need to put into your terminal in order to install Hotot:
-Open up a Terminal (Alt-F2, type in &lt;code&gt;gnome-terminal&lt;/code&gt;), then copy and paste this command &lt;p&gt;&lt;code&gt;sudo add-apt-repository ppa:hotot-team &amp;amp;&amp;amp; sudo apt-get update &amp;amp;&amp;amp; sudo apt-get install hotot -y &lt;/code&gt;&lt;/p&gt; into the terminal, &lt;em&gt;(like &lt;a href=&quot;http://lts.cr/T6D&quot;&gt;this&lt;/a&gt;)&lt;/em&gt; hit enter, enter in your password when you get asked for it (Note: You won&amp;#8217;t see your password, and it won&amp;#8217;t display ***** when you enter it. That&amp;#8217;s normal and &amp;#8220;OK&amp;#8221;.), then sit back, grab yourself a cup of coffee, come back in about five minutes, and you&amp;#8217;ll be set. You can launch Hotot by looking in your Applications menu in the &amp;#8220;Internet&amp;#8221; section.&lt;/p&gt;
-</content>
+A lot. You&#8217;ve got URL shortening, Img.ly and TwitPic uploading, Send to Instapaper (I love that feature!), and image previews for a lot of image services. (Examples include Instagram. TwitPic and img.ly, among others).
+&nbsp;
+So, now that I&#8217;ve impressed you with Hotot&#8217;s awesome features, how can you install this? Thankfully, there is a PPA (Personal Package Archive) that you can use to install it - however, beware - Hotot is still in beta, and while I haven&#8217;t had anything bad happen because of it,<a href="http://en.wiktionary.org/wiki/your_mileage_may_vary#Synonyms"> your&nbsp;mileage&nbsp;may vary.</a>
+&nbsp;
+Here&#8217;s all you need to put into your terminal in order to install Hotot:
+Open up a Terminal (Alt-F2, type in <code>gnome-terminal</code>), then copy and paste this command <p><code>sudo add-apt-repository ppa:hotot-team &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install hotot -y </code></p> into the terminal, <em>(like <a href="http://lts.cr/T6D">this</a>)</em> hit enter, enter in your password when you get asked for it (Note: You won&#8217;t see your password, and it won&#8217;t display ***** when you enter it. That&#8217;s normal and &#8220;OK&#8221;.), then sit back, grab yourself a cup of coffee, come back in about five minutes, and you&#8217;ll be set. You can launch Hotot by looking in your Applications menu in the &#8220;Internet&#8221; section.</p>
+]]></content>
   </entry>
   
   <entry>
-    <title>Link Dump for March 15</title>
+    <title type="html"><![CDATA[Link Dump for March 15]]></title>
     <link href="http://blog.jamesrgifford.com/link-dump-for-march-15/"/>
     <updated>2011-03-15T21:06:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/link-dump-for-march-15</id>
-    <content type="html">&lt;p&gt;Today, I&amp;#8217;ve got a fair amount of links to toss at you.
-In no particular order:&lt;/p&gt;
+    <content type="html"><![CDATA[<p>Today, I&#8217;ve got a fair amount of links to toss at you.
+In no particular order:</p>
 
-&lt;!&#8211;more&#8211;&gt;
+<!--more-->
 
 
-&lt;ul&gt;
-&lt;li&gt;16+ Highly Professional Free Business Card Design Templates [&lt;a href=&quot;http://www.lava360.com/graphics/16-highly-professional-free-business-card-design-templates/&quot;&gt;link&lt;/a&gt;] - might use one of these. They look good!&lt;/li&gt;
-&lt;li&gt;Instagram Founder Kevin Systrom&amp;#8217;s 30-Second Rule for App Success [&lt;a href=&quot;http://www.fastcompany.com/1730967/instagram-founder-kevin-systrom-30-second-rule-app-success?partner=rss&amp;amp;utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29&quot;&gt;link&lt;/a&gt;] - heck yeah.&lt;/li&gt;
-&lt;li&gt;Free Brushes for GIMP [&lt;a href=&quot;http://www.ubuntuka.com/free-brushes-for-gimp/&quot;&gt;link&lt;/a&gt;] - worth a look as always&lt;/li&gt;
-&lt;li&gt;Hoping to clear my confusion about Twitter&amp;#8217;s announcement [&lt;a href=&quot;https://groups.google.com/group/twitter-development-talk/browse_thread/thread/e9da7710578c05ca?pli=1&quot;&gt;link&lt;/a&gt;] - So far, no &amp;#8220;Official&amp;#8221; answer.&lt;/li&gt;
-&lt;li&gt;100 Things you didn&amp;#8217;t know about Apple, Inc [&lt;a href=&quot;http://teqnolog.wordpress.com/2010/06/14/100-things-you-didnt-know-about-apple-and-steve-jobs/&quot;&gt;link&lt;/a&gt;] - Old but neat&lt;/li&gt;
-&lt;li&gt;Quick Tip: 2 Chrome Extensions you must install [&lt;a href=&quot;http://net.tutsplus.com/tutorials/tools-and-tips/quick-tip-2-chrome-extensions-you-must-install/&quot;&gt;link&lt;/a&gt;] - I use both&lt;/li&gt;
-&lt;li&gt;Ubuntu Linux and GNOME: The Disputes Continue [&lt;a href=&quot;http://www.zdnet.com/blog/open-source/ubuntu-linux-and-gnome-the-disputes-continue/8469&quot;&gt;link&lt;/a&gt;] - pretty much all I have to say about the whole GNOME-Ubuntu situation.&lt;/li&gt;
-&lt;li&gt;Twitter Blog: #numbers [&lt;a href=&quot;http://blog.twitter.com/2011/03/numbers.html&quot;&gt;link&lt;/a&gt;] - interesting post on how Twitter has grown over time.&lt;/li&gt;
-&lt;li&gt;Are you going to stick one of these on your site? I sure am. [&lt;a href=&quot;http://i.imgur.com/j0WX0.png&quot;&gt;link]&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;8 Powerful and Inexpensive Desktop Design apps [&lt;a href=&quot;http://mashable.com/2011/03/14/cheap-desktop-design-apps/&quot;&gt;link]&lt;/a&gt; - YAY! Inkscape made it in there.&lt;/li&gt;
-&lt;li&gt;Multitouch app &amp;#8220;Touchégg&amp;#8221; hits version 02, adds a GUI [&lt;a href=&quot;http://www.omgubuntu.co.uk/2011/03/multi-touch-gesture-creator-touchgg-hits-version-2-adds-gestures-actions-gui/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+d0od+%28Omg!+Ubuntu!%29&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;HOW Design - 29 things that All Young Designers Need To Know [&lt;a href=&quot;http://howdesign.com/article/29things&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;Forkforkforkfork FORK: Why Forking means all the world [&lt;a href=&quot;http://gentsclub.posterous.com/forkforkforkfork-fork-why-forking-means-all-t&quot;&gt;link&lt;/a&gt;]&lt;/li&gt;
-&lt;li&gt;A tale of two programmers. [&lt;a href=&quot;http://jacquesmattheij.com/A+tale+of+two+programmers&quot;&gt;link&lt;/a&gt;] - on pairing. Something that I think we don&amp;#8217;t do enough of.&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+<li>16+ Highly Professional Free Business Card Design Templates [<a href="http://www.lava360.com/graphics/16-highly-professional-free-business-card-design-templates/">link</a>] - might use one of these. They look good!</li>
+<li>Instagram Founder Kevin Systrom&#8217;s 30-Second Rule for App Success [<a href="http://www.fastcompany.com/1730967/instagram-founder-kevin-systrom-30-second-rule-app-success?partner=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29">link</a>] - heck yeah.</li>
+<li>Free Brushes for GIMP [<a href="http://www.ubuntuka.com/free-brushes-for-gimp/">link</a>] - worth a look as always</li>
+<li>Hoping to clear my confusion about Twitter&#8217;s announcement [<a href="https://groups.google.com/group/twitter-development-talk/browse_thread/thread/e9da7710578c05ca?pli=1">link</a>] - So far, no &#8220;Official&#8221; answer.</li>
+<li>100 Things you didn&#8217;t know about Apple, Inc [<a href="http://teqnolog.wordpress.com/2010/06/14/100-things-you-didnt-know-about-apple-and-steve-jobs/">link</a>] - Old but neat</li>
+<li>Quick Tip: 2 Chrome Extensions you must install [<a href="http://net.tutsplus.com/tutorials/tools-and-tips/quick-tip-2-chrome-extensions-you-must-install/">link</a>] - I use both</li>
+<li>Ubuntu Linux and GNOME: The Disputes Continue [<a href="http://www.zdnet.com/blog/open-source/ubuntu-linux-and-gnome-the-disputes-continue/8469">link</a>] - pretty much all I have to say about the whole GNOME-Ubuntu situation.</li>
+<li>Twitter Blog: #numbers [<a href="http://blog.twitter.com/2011/03/numbers.html">link</a>] - interesting post on how Twitter has grown over time.</li>
+<li>Are you going to stick one of these on your site? I sure am. [<a href="http://i.imgur.com/j0WX0.png">link]</a>
+</li>
+<li>8 Powerful and Inexpensive Desktop Design apps [<a href="http://mashable.com/2011/03/14/cheap-desktop-design-apps/">link]</a> - YAY! Inkscape made it in there.</li>
+<li>Multitouch app &#8220;Touchégg&#8221; hits version 02, adds a GUI [<a href="http://www.omgubuntu.co.uk/2011/03/multi-touch-gesture-creator-touchgg-hits-version-2-adds-gestures-actions-gui/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+d0od+%28Omg!+Ubuntu!%29">link</a>]</li>
+<li>HOW Design - 29 things that All Young Designers Need To Know [<a href="http://howdesign.com/article/29things">link</a>]</li>
+<li>Forkforkforkfork FORK: Why Forking means all the world [<a href="http://gentsclub.posterous.com/forkforkforkfork-fork-why-forking-means-all-t">link</a>]</li>
+<li>A tale of two programmers. [<a href="http://jacquesmattheij.com/A+tale+of+two+programmers">link</a>] - on pairing. Something that I think we don&#8217;t do enough of.</li>
+</ul>
 
-</content>
+]]></content>
   </entry>
   
   <entry>
-    <title>Cleveland Ruby Hackibou for 3-11-2011</title>
+    <title type="html"><![CDATA[Cleveland Ruby Hackibou for 3-11-2011]]></title>
     <link href="http://blog.jamesrgifford.com/cleveland-ruby-hackibou-for-3-11-2011/"/>
     <updated>2011-03-11T21:09:00-05:00</updated>
     <id>http://blog.jamesrgifford.com/cleveland-ruby-hackibou-for-3-11-2011</id>
-    <content type="html">&lt;p&gt;Thursday night was interesting to say the least - I went to my first &amp;#8220;Hackibou&amp;#8221; - a place where coders in Cleveland area (I&amp;#8217;m saying &amp;#8220;Cleveland area&amp;#8221; because I haven&amp;#8217;t found/heard of any non-Cleveland Hackibous) get together in a Coffee shop for an hour or two and work through some Ruby Code &lt;!&#8211;more&#8211;&gt;- we worked our way through the EdgeCase &lt;a href=&quot;http://www.rubykoans.com/&quot;&gt;Ruby Koans&lt;/a&gt;, because the best way to learn how to code is to code. What happened was we (That is, &lt;a href=&quot;http://jeffreygifford.com&quot;&gt;Dad&lt;/a&gt; and I) showed up at &lt;a href=&quot;http://www.gypsybeans.com/&quot;&gt;Gypsy Beans &amp;amp; Baking Co&lt;/a&gt;, ordered coffee, and found &lt;a href=&quot;http://benwoz.com/&quot;&gt;Ben Wozniki&lt;/a&gt; at one of the tables, we sat down and started working on Ruby.
-That night, we worked through the Koans as I mentioned above, and I also helped out Ray Jones of &lt;a href=&quot;http://www.jumpstartinc.org/&quot;&gt;JumpStart Inc&lt;/a&gt;, as he was getting started in the Koans.
-As I mentioned in a Tweet, it was a learning opportunity for both of us - Ray got started with the Koans (Which is a big thing, particularly since he didn&amp;#8217;t have any programming experience), I got to learn how to teach someone what things do and why they do them (Also learned that I was understanding something wrong - more on that if you want to read the GitHub commit messages from that night, or if you followed me on Twitter, you probably saw that) and I got to actually use &lt;a href=&quot;http://macromates.com/&quot;&gt;TextMate&lt;/a&gt; for the first time. (Note: I still prefer vim over TextMate, for a number of reasons, the largest being that I don&amp;#8217;t have a Mac (Or the money to buy a TextMate license), with the others being that vi(m) is fast, and I can easily customize it. (NERDTree!).
-Anyway, it was a fun night, and I look forward to the next Hackibou. If you&amp;#8217;re in the Cleveland Area and would like to have a crack at Ruby, take a look at the Meetup group &lt;a href=&quot;http://www.meetup.com/ClevelandRuby/&quot;&gt;here&lt;/a&gt;, and I&amp;#8217;ll (probably) see you there!&lt;/p&gt;
-</content>
+    <content type="html"><![CDATA[<p>Thursday night was interesting to say the least - I went to my first &#8220;Hackibou&#8221; - a place where coders in Cleveland area (I&#8217;m saying &#8220;Cleveland area&#8221; because I haven&#8217;t found/heard of any non-Cleveland Hackibous) get together in a Coffee shop for an hour or two and work through some Ruby Code <!--more-->- we worked our way through the EdgeCase <a href="http://www.rubykoans.com/">Ruby Koans</a>, because the best way to learn how to code is to code. What happened was we (That is, <a href="http://jeffreygifford.com">Dad</a> and I) showed up at <a href="http://www.gypsybeans.com/">Gypsy Beans &amp; Baking Co</a>, ordered coffee, and found <a href="http://benwoz.com/">Ben Wozniki</a> at one of the tables, we sat down and started working on Ruby.
+That night, we worked through the Koans as I mentioned above, and I also helped out Ray Jones of <a href="http://www.jumpstartinc.org/">JumpStart Inc</a>, as he was getting started in the Koans.
+As I mentioned in a Tweet, it was a learning opportunity for both of us - Ray got started with the Koans (Which is a big thing, particularly since he didn&#8217;t have any programming experience), I got to learn how to teach someone what things do and why they do them (Also learned that I was understanding something wrong - more on that if you want to read the GitHub commit messages from that night, or if you followed me on Twitter, you probably saw that) and I got to actually use <a href="http://macromates.com/">TextMate</a> for the first time. (Note: I still prefer vim over TextMate, for a number of reasons, the largest being that I don&#8217;t have a Mac (Or the money to buy a TextMate license), with the others being that vi(m) is fast, and I can easily customize it. (NERDTree!).
+Anyway, it was a fun night, and I look forward to the next Hackibou. If you&#8217;re in the Cleveland Area and would like to have a crack at Ruby, take a look at the Meetup group <a href="http://www.meetup.com/ClevelandRuby/">here</a>, and I&#8217;ll (probably) see you there!</p>
+]]></content>
   </entry>
   
 </feed>
