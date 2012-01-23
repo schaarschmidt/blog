@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rubycasts | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/rubycasts/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-22T21:42:25-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby Casts Episode 1: Sinatra]]></title>
+    <link href="http://blog.jamesrgifford.com/rubycastsepisode1sinatraisout/"/>
+    <updated>2012-01-22T21:35:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/rubycastsepisode1sinatraisout</id>
+    <content type="html"><![CDATA[<p>I just uploaded Sinatra 101 to my YouTube channel. Take a look, leave a comment, etc. <a href="https://github.com/jrgifford/rubycasts/tree/master/episode1">Source code is available on Github</a>.</p>
+
+<!--more-->
+
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qF9eF7uZYPE" frameborder="0" allowfullscreen></iframe>
+
+
+<p><em>Yes, I know about the horrible aspect ratio. I promise I'll fix it in new ones. Ok, I promise to try and fix them.</em></p>
+]]></content>
+  </entry>
+  
+</feed>
