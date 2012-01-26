@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: writing | /james-random]]></title>
+  <link href="http://blog.jamesrgifford.com/blog/categories/writing/atom.xml" rel="self"/>
+  <link href="http://blog.jamesrgifford.com/"/>
+  <updated>2012-01-26T08:57:02-05:00</updated>
+  <id>http://blog.jamesrgifford.com/</id>
+  <author>
+    <name><![CDATA[James Gifford]]></name>
+    <email><![CDATA[james@jamesrgifford.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Adventures in Writing, Ubuntu Style]]></title>
+    <link href="http://blog.jamesrgifford.com/adventuresinwriting/"/>
+    <updated>2012-01-26T08:46:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/adventuresinwriting</id>
+    <content type="html"><![CDATA[<p>For those of you that don't know me, I have a tendency to start writing things that ever get to a readable state - and while that is (in theory)
+great, I really wanted to start sharing - after all, sharing is caring! <!--more--></p>
+
+<p>So, I created the <a href="https://docs.google.com/document/pub?id=1Gclb0UUwfnT7Pc3aKocM5RZiL4HEYjQfqhewaJEo1ZE">Little Orange Ubuntu Book</a> with the help
+of Roland Taylor and a few other friends. Its not completely finished right now, but its in a good enough state where a friend of mine
+(who A. is a writer and B. has been really harsh on my writing style in the past) told me that for the first week of her walk in Ubuntu
+(I gave her my old netbook, pre-installed with Ubuntu on it), this book was extrememly helpful.</p>
+
+<p>So, I think we can consider it a success. While Chapter 5 (Ubuntu One) isn't ready just yet, that is being worked on and will be finished soon.</p>
+
+<p>If you have comments/feedback/whatever on it, feel free to email me - I'm <code>jamesgifford@ubuntu.com</code>.</p>
+]]></content>
+  </entry>
+  
+</feed>
