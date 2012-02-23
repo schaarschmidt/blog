@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-02-10T20:26:52-05:00</updated>
+  <updated>2012-02-23T12:57:13-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ask Ubuntu Cleanup Is now Underway]]></title>
+    <link href="http://blog.jamesrgifford.com/askubuntu-cleanup-underway/"/>
+    <updated>2012-02-23T12:51:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/askubuntu-cleanup-underway</id>
+    <content type="html"><![CDATA[<p>tl;dr: Head <a href="http://meta.askubuntu.com/questions/2651/ask-ubuntu-clean-up">over to meta</a>, read the post, <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">read the FAQ</a>, and start cleaning! :)</p>
+
+<p>Anything further I might have to say would just be a copy-paste from the meta post, so please, go read that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ubuntu Community Appreciation Day]]></title>

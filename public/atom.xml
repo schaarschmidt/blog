@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-02-10T20:26:52-05:00</updated>
+  <updated>2012-02-23T12:57:13-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ask Ubuntu Cleanup Is now Underway]]></title>
+    <link href="http://blog.jamesrgifford.com/askubuntu-cleanup-underway/"/>
+    <updated>2012-02-23T12:51:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/askubuntu-cleanup-underway</id>
+    <content type="html"><![CDATA[<p>tl;dr: Head <a href="http://meta.askubuntu.com/questions/2651/ask-ubuntu-clean-up">over to meta</a>, read the post, <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">read the FAQ</a>, and start cleaning! :)</p>
+
+<p>Anything further I might have to say would just be a copy-paste from the meta post, so please, go read that.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Adventures in Writing, Ubuntu Style]]></title>
@@ -666,18 +677,6 @@ In no particular order:</p>
 <li>A tale of two programmers. [<a href="http://jacquesmattheij.com/A+tale+of+two+programmers">link</a>] - on pairing. Something that I think we don&#8217;t do enough of.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cleveland Ruby Hackibou for 3-11-2011]]></title>
-    <link href="http://blog.jamesrgifford.com/cleveland-ruby-hackibou-for-3-11-2011/"/>
-    <updated>2011-03-11T21:09:00-05:00</updated>
-    <id>http://blog.jamesrgifford.com/cleveland-ruby-hackibou-for-3-11-2011</id>
-    <content type="html"><![CDATA[<p>Thursday night was interesting to say the least - I went to my first &#8220;Hackibou&#8221; - a place where coders in Cleveland area (I&#8217;m saying &#8220;Cleveland area&#8221; because I haven&#8217;t found/heard of any non-Cleveland Hackibous) get together in a Coffee shop for an hour or two and work through some Ruby Code <!--more-->- we worked our way through the EdgeCase <a href="http://www.rubykoans.com/">Ruby Koans</a>, because the best way to learn how to code is to code. What happened was we (That is, <a href="http://jeffreygifford.com">Dad</a> and I) showed up at <a href="http://www.gypsybeans.com/">Gypsy Beans &amp; Baking Co</a>, ordered coffee, and found <a href="http://benwoz.com/">Ben Wozniki</a> at one of the tables, we sat down and started working on Ruby.
-That night, we worked through the Koans as I mentioned above, and I also helped out Ray Jones of <a href="http://www.jumpstartinc.org/">JumpStart Inc</a>, as he was getting started in the Koans.
-As I mentioned in a Tweet, it was a learning opportunity for both of us - Ray got started with the Koans (Which is a big thing, particularly since he didn&#8217;t have any programming experience), I got to learn how to teach someone what things do and why they do them (Also learned that I was understanding something wrong - more on that if you want to read the GitHub commit messages from that night, or if you followed me on Twitter, you probably saw that) and I got to actually use <a href="http://macromates.com/">TextMate</a> for the first time. (Note: I still prefer vim over TextMate, for a number of reasons, the largest being that I don&#8217;t have a Mac (Or the money to buy a TextMate license), with the others being that vi(m) is fast, and I can easily customize it. (NERDTree!).
-Anyway, it was a fun night, and I look forward to the next Hackibou. If you&#8217;re in the Cleveland Area and would like to have a crack at Ruby, take a look at the Meetup group <a href="http://www.meetup.com/ClevelandRuby/">here</a>, and I&#8217;ll (probably) see you there!</p>
 ]]></content>
   </entry>
   
