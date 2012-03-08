@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-02-23T12:57:13-05:00</updated>
+  <updated>2012-03-08T09:21:09-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leadership Lessons from Battlestar Galactica.]]></title>
+    <link href="http://blog.jamesrgifford.com/leadership-lessons-from-battlestar-galactica/"/>
+    <updated>2012-03-08T09:06:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/leadership-lessons-from-battlestar-galactica</id>
+    <content type="html"><![CDATA[<blockquote><p>I realized one thing about leadership during the period of exodus from the twelve worlds. A leader, no matter how benevolently he regards himself, has to be something of a tyrant. If he lets everyone in on every phase of his plan, allows them to see the <em>overpowering</em> odds against them, he takes the risk they'll become too discouraged to perform the little jobs that bring us forward through all the tedious phases.</p></blockquote>
+
+<p>I don't normally look for leadership lessons in science fiction - but, when I was reading <em>Battlestar Galactica</em>, this part stuck out at me.</p>
+
+<p>Lets go through this piece by piece.</p>
+
+<blockquote><p>I realized one thing about leadership during the period of exodus from the twelve worlds.</p></blockquote>
+
+<p>At this point in time, Adama (the person who wrote this) is the leader of the human remnant - not many humans are left after the devastation that the Cylons had brought upon the twelve colonies (worlds). There is nothing left, only the <em>Battlestar Galactica</em> - their version of a battleship. The Battlestar, a few starfighters, some small merchant vessels, and not much else.</p>
+
+<blockquote><p>A leader, no matter how benevolently he regards himself, has to be something of a tyrant.</p></blockquote>
+
+<p>Most leaders (including myself) tend to regard ourselves as benevolent - such as SABDFL (Self Appointed Benevolent Dictator For Life, AKA Mark Shuttleworth). Yet, a good leader, no matter how good they are, are going to attract a certain amount of dissent.</p>
+
+<blockquote><p>If he lets everyone in on every phase of his plan, allows them to see the overpowering odds against them, he takes the risk they'll become too discouraged to perform the little jobs that bring us forward through all the tedious phases.</p></blockquote>
+
+<p>For the purposes of our discussion, to bring this into a parallel with Ubuntu, we'll just pick the Unity discussion.</p>
+
+<p>Mark has a plan. We don't know what it is, because if we did, we'd realize the overpowering odds against us - we can see some of the odds (Apple, Microsoft), but others we can't just yet (Android, Windows Phone 7).</p>
+
+<p>Just a thought on leadership - not sure if it's really on-topic, if I"m making sense, or anything like that, but I thought I'd bring this up anyway, since this was on my mind.</p>
+
+<p>Thoughts? Feel free to shoot me an email at <code>james@jamesrgifford.com</code>. I look forward to any further thoughts on this topic you might have. :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ask Ubuntu Cleanup Is now Underway]]></title>

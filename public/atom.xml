@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-02-23T12:57:13-05:00</updated>
+  <updated>2012-03-08T09:21:09-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Leadership Lessons from Battlestar Galactica.]]></title>
+    <link href="http://blog.jamesrgifford.com/leadership-lessons-from-battlestar-galactica/"/>
+    <updated>2012-03-08T09:06:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/leadership-lessons-from-battlestar-galactica</id>
+    <content type="html"><![CDATA[<blockquote><p>I realized one thing about leadership during the period of exodus from the twelve worlds. A leader, no matter how benevolently he regards himself, has to be something of a tyrant. If he lets everyone in on every phase of his plan, allows them to see the <em>overpowering</em> odds against them, he takes the risk they&#8217;ll become too discouraged to perform the little jobs that bring us forward through all the tedious phases.</p></blockquote>
+
+<p>I don&#8217;t normally look for leadership lessons in science fiction - but, when I was reading <em>Battlestar Galactica</em>, this part stuck out at me.</p>
+
+<p>Lets go through this piece by piece.</p>
+
+<blockquote><p>I realized one thing about leadership during the period of exodus from the twelve worlds.</p></blockquote>
+
+<p>At this point in time, Adama (the person who wrote this) is the leader of the human remnant - not many humans are left after the devastation that the Cylons had brought upon the twelve colonies (worlds). There is nothing left, only the <em>Battlestar Galactica</em> - their version of a battleship. The Battlestar, a few starfighters, some small merchant vessels, and not much else.</p>
+
+<blockquote><p>A leader, no matter how benevolently he regards himself, has to be something of a tyrant.</p></blockquote>
+
+<p>Most leaders (including myself) tend to regard ourselves as benevolent - such as SABDFL (Self Appointed Benevolent Dictator For Life, AKA Mark Shuttleworth). Yet, a good leader, no matter how good they are, are going to attract a certain amount of dissent.</p>
+
+<blockquote><p>If he lets everyone in on every phase of his plan, allows them to see the overpowering odds against them, he takes the risk they&#8217;ll become too discouraged to perform the little jobs that bring us forward through all the tedious phases.</p></blockquote>
+
+<p>For the purposes of our discussion, to bring this into a parallel with Ubuntu, we&#8217;ll just pick the Unity discussion.</p>
+
+<p>Mark has a plan. We don&#8217;t know what it is, because if we did, we&#8217;d realize the overpowering odds against us - we can see some of the odds (Apple, Microsoft), but others we can&#8217;t just yet (Android, Windows Phone 7).</p>
+
+<p>Just a thought on leadership - not sure if it&#8217;s really on-topic, if I&#8221;m making sense, or anything like that, but I thought I&#8217;d bring this up anyway, since this was on my mind.</p>
+
+<p>Thoughts? Feel free to shoot me an email at <code>james@jamesrgifford.com</code>. I look forward to any further thoughts on this topic you might have. :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ask Ubuntu Cleanup Is now Underway]]></title>
@@ -645,38 +676,6 @@ So, now that I&#8217;ve impressed you with Hotot&#8217;s awesome features, how c
 &nbsp;
 Here&#8217;s all you need to put into your terminal in order to install Hotot:
 Open up a Terminal (Alt-F2, type in <code>gnome-terminal</code>), then copy and paste this command <p><code>sudo add-apt-repository ppa:hotot-team &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install hotot -y </code></p> into the terminal, <em>(like <a href="http://lts.cr/T6D">this</a>)</em> hit enter, enter in your password when you get asked for it (Note: You won&#8217;t see your password, and it won&#8217;t display ***** when you enter it. That&#8217;s normal and &#8220;OK&#8221;.), then sit back, grab yourself a cup of coffee, come back in about five minutes, and you&#8217;ll be set. You can launch Hotot by looking in your Applications menu in the &#8220;Internet&#8221; section.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Link Dump for March 15]]></title>
-    <link href="http://blog.jamesrgifford.com/link-dump-for-march-15/"/>
-    <updated>2011-03-15T21:06:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/link-dump-for-march-15</id>
-    <content type="html"><![CDATA[<p>Today, I&#8217;ve got a fair amount of links to toss at you.
-In no particular order:</p>
-
-<!--more-->
-
-
-<ul>
-<li>16+ Highly Professional Free Business Card Design Templates [<a href="http://www.lava360.com/graphics/16-highly-professional-free-business-card-design-templates/">link</a>] - might use one of these. They look good!</li>
-<li>Instagram Founder Kevin Systrom&#8217;s 30-Second Rule for App Success [<a href="http://www.fastcompany.com/1730967/instagram-founder-kevin-systrom-30-second-rule-app-success?partner=rss&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company+Headlines%29">link</a>] - heck yeah.</li>
-<li>Free Brushes for GIMP [<a href="http://www.ubuntuka.com/free-brushes-for-gimp/">link</a>] - worth a look as always</li>
-<li>Hoping to clear my confusion about Twitter&#8217;s announcement [<a href="https://groups.google.com/group/twitter-development-talk/browse_thread/thread/e9da7710578c05ca?pli=1">link</a>] - So far, no &#8220;Official&#8221; answer.</li>
-<li>100 Things you didn&#8217;t know about Apple, Inc [<a href="http://teqnolog.wordpress.com/2010/06/14/100-things-you-didnt-know-about-apple-and-steve-jobs/">link</a>] - Old but neat</li>
-<li>Quick Tip: 2 Chrome Extensions you must install [<a href="http://net.tutsplus.com/tutorials/tools-and-tips/quick-tip-2-chrome-extensions-you-must-install/">link</a>] - I use both</li>
-<li>Ubuntu Linux and GNOME: The Disputes Continue [<a href="http://www.zdnet.com/blog/open-source/ubuntu-linux-and-gnome-the-disputes-continue/8469">link</a>] - pretty much all I have to say about the whole GNOME-Ubuntu situation.</li>
-<li>Twitter Blog: #numbers [<a href="http://blog.twitter.com/2011/03/numbers.html">link</a>] - interesting post on how Twitter has grown over time.</li>
-<li>Are you going to stick one of these on your site? I sure am. [<a href="http://i.imgur.com/j0WX0.png">link]</a>
-</li>
-<li>8 Powerful and Inexpensive Desktop Design apps [<a href="http://mashable.com/2011/03/14/cheap-desktop-design-apps/">link]</a> - YAY! Inkscape made it in there.</li>
-<li>Multitouch app &#8220;Touchégg&#8221; hits version 02, adds a GUI [<a href="http://www.omgubuntu.co.uk/2011/03/multi-touch-gesture-creator-touchgg-hits-version-2-adds-gestures-actions-gui/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+d0od+%28Omg!+Ubuntu!%29">link</a>]</li>
-<li>HOW Design - 29 things that All Young Designers Need To Know [<a href="http://howdesign.com/article/29things">link</a>]</li>
-<li>Forkforkforkfork FORK: Why Forking means all the world [<a href="http://gentsclub.posterous.com/forkforkforkfork-fork-why-forking-means-all-t">link</a>]</li>
-<li>A tale of two programmers. [<a href="http://jacquesmattheij.com/A+tale+of+two+programmers">link</a>] - on pairing. Something that I think we don&#8217;t do enough of.</li>
-</ul>
-
 ]]></content>
   </entry>
   
