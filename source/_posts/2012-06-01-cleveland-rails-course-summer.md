@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cleveland Ruby on Rails Course this summer"
+title: "Cleveland Ruby on Rails Course this June"
 date: 2012-06-01 15:16
 comments: true
 categories: 
