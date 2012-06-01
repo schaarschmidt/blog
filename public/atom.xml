@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-03-08T09:22:35-05:00</updated>
+  <updated>2012-06-01T15:17:40-04:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cleveland Ruby on Rails Course this summer]]></title>
+    <link href="http://blog.jamesrgifford.com/cleveland-rails-course-summer/"/>
+    <updated>2012-06-01T15:16:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/cleveland-rails-course-summer</id>
+    <content type="html"><![CDATA[<h2>Cleveland Ruby on Rails Course</h2>
+
+<p><strong><a href="http://launchhouse.com/">At Shaker LaunchHouse.</a></strong></p>
+
+<p>Ever wanted to learn to program? Ever wanted to learn to make cool
+things in your spare time? Ever wondered what your developers are
+talking about?</p>
+
+<p>This is your chance to learn <a href="http://rubyonrails.org/">Ruby on Rails</a>, a popular and powerful
+tool for creating dynamic web applications.</p>
+
+<p>For those interested in more details, there is a <a href="http://j.mp/cle-rails-summer-2012">sign up sheet over here</a>.</p>
+
+<p>All are welcome, although space is limited, so please sign up for more
+details at the link above.
+Details:
+Price: $200.00.</p>
+
+<p>Yeah, that’s a lot. What does it get you, the student?</p>
+
+<ul>
+<li><p>All day instruction on June 25th. Starting at 9:30AM, ending at 5PM.</p></li>
+<li><p>A chance to make a cool project, decided by you!</p></li>
+<li><p>Lunch, Snacks and Coffee are all provided.</p></li>
+<li><p>An opportunity to learn!</p></li>
+<li><p>Learn about the lifetime of a project, from idea, to testing, to the final,
+finished product.</p></li>
+<li><p>You get to be part of a small class (no larger than 10), so we have plenty of time to answer questions.</p></li>
+</ul>
+
+
+<p>Who is James Gifford?</p>
+
+<p>James Gifford is a software developer, open source contributor, tech and startup pundit and open source advocate. For more details, you can follow him on twitter at <a href="https://twitter.com/jrgifford">@jrgifford</a> or email him at <a href="mailto:james@jamesrgifford.com">james@jamesrgifford.com</a>. He has spoken at the Cleveland Linux user group, as well at as at <a href="http://www.slideshare.net/jrgifford/git-and-bazaar-cleveland-software-freedom-day-2011">Software Freedom day Cleveland 2011.</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Leadership Lessons from Battlestar Galactica.]]></title>
@@ -648,34 +690,6 @@ Here&#8217;s one last link, and here&#8217;s why I&#8217;m putting this one in a
 Installing Ruby on Rails and RVM (Ruby Version Manager) in Ubuntu 10.04, 10.10 and 11.04. [<a href="https://github.com/jrgifford/Tutorials/blob/master/ruby-on-rails-ubuntu.markdown">link</a>]
 &nbsp;
 Tell me what you think, and I&#8217;ll be updating it with (If anything changes) fairly regularly. If you encounter an error, let me know, and I&#8217;ll figure out what&#8217;s going on (If it&#8217;s my fault, or if something with the packages changed - I&#8217;m not responsible for fixing your computer).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hotot for Ubuntu]]></title>
-    <link href="http://blog.jamesrgifford.com/hotot-for-ubuntu/"/>
-    <updated>2011-03-19T21:00:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/hotot-for-ubuntu</id>
-    <content type="html"><![CDATA[<p><a href="http://hotot.org" title="Hotot - Get Hotot!">Hotot</a> is a fairly new Twitter client (It isn&#8217;t even out of Beta - It&#8217;s like a Google Project or something! ;) ) that&#8217;s got my attention - in a good way. <em>(Please note that I won&#8217;t write a scathing review about a piece of FOSS Software. I&#8217;ll just file bug reports and spam your email). </em>Anyway, I&#8217;ve been using it, and I&#8217;ve been enjoying it - it&#8217;s a nice little piece of software.</p>
-
-<!--more-->
-
-
-<p>Anyway, here&#8217;s a quick little preview of it.
-&nbsp;
-Hotot is a simple Twitter client, arranged in a column style, much like TweetDeck.</p>
-
-<div class="posterousGalleryMainDiv p_embed p_image_embed" data-posterous-file-list="%5B%7B%22large%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22originalWidth%22%3A%22300%22%2C%22largeWidth%22%3A%22300%22%2C%22thumb%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.thumb.jpg%22%2C%22originalHeight%22%3A%22168%22%2C%22largeHeight%22%3A%22168%22%2C%22thumbWidth%22%3A%2236%22%2C%22height%22%3A%22168%22%2C%22main%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg.scaled500.jpg%22%2C%22thumbHeight%22%3A%2236%22%2C%22originalSize%22%3A%2217%22%2C%22original%22%3A%22http%3A%2F%2Fposterous.com%2Fgetfile%2Ffiles.posterous.com%2Fimport-mkxd%2FrIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal%2Fmedia_httpjamesrgiffo_efwqd.jpg%22%2C%22width%22%3A%22300%22%7D%5D" data-posterous-image-gallery-initialized="true" data-posterous-image-gallery="true" data-posterous-options="%7B%22zipFile%22%3Anull%2C%22zipFileSize%22%3Anull%2C%22external_url%22%3A%22http%3A%2F%2Fjamesrgifford.com%2Fwp-content%2Fuploads%2F2011%2F03%2FHotot_203.jpeg%22%2C%22showDownload%22%3Atrue%2C%22url_slug%22%3A%22hotot-for-ubuntu%22%7D"><a href="#" onclick="return false;" class="posterousGalleryMainlink"><img src="http://posterous.com/getfile/files.posterous.com/import-mkxd/rIJagGGCHcBnBsrFaDfBDEwJjffpvvwChzAjBbEpcsnlvuJxaudlqFynydal/media_httpjamesrgiffo_efwqd.jpg.scaled500.jpg" width="300" height="168" id="mainImage"><span class="show" id=""><div style="font-size:14px;position:absolute;right:10px;bottom:0px;" id="-dl3"><a href="#" onclick="return false" class="view_slideshow" data-posterous-tooltip="Click to view in full screen"></a></div><div style="font-size: 14px; display: none; " id="-dl2" class="posterousGalleryLink"></div><div style="font-size: 14px;" id="-dl1" class="posterousGalleryLink"></div></span></a></div>
-
-
-<p>&nbsp;
-What are the various features that are available?
-A lot. You&#8217;ve got URL shortening, Img.ly and TwitPic uploading, Send to Instapaper (I love that feature!), and image previews for a lot of image services. (Examples include Instagram. TwitPic and img.ly, among others).
-&nbsp;
-So, now that I&#8217;ve impressed you with Hotot&#8217;s awesome features, how can you install this? Thankfully, there is a PPA (Personal Package Archive) that you can use to install it - however, beware - Hotot is still in beta, and while I haven&#8217;t had anything bad happen because of it,<a href="http://en.wiktionary.org/wiki/your_mileage_may_vary#Synonyms"> your&nbsp;mileage&nbsp;may vary.</a>
-&nbsp;
-Here&#8217;s all you need to put into your terminal in order to install Hotot:
-Open up a Terminal (Alt-F2, type in <code>gnome-terminal</code>), then copy and paste this command <p><code>sudo add-apt-repository ppa:hotot-team &amp;&amp; sudo apt-get update &amp;&amp; sudo apt-get install hotot -y </code></p> into the terminal, <em>(like <a href="http://lts.cr/T6D">this</a>)</em> hit enter, enter in your password when you get asked for it (Note: You won&#8217;t see your password, and it won&#8217;t display ***** when you enter it. That&#8217;s normal and &#8220;OK&#8221;.), then sit back, grab yourself a cup of coffee, come back in about five minutes, and you&#8217;ll be set. You can launch Hotot by looking in your Applications menu in the &#8220;Internet&#8221; section.</p>
 ]]></content>
   </entry>
   
