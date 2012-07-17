@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-06-01T15:51:15-04:00</updated>
+  <updated>2012-07-17T14:21:05-04:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cleveland Ruby on Rails Course, August Edition]]></title>
+    <link href="http://blog.jamesrgifford.com/cleveland-rails-course-august/"/>
+    <updated>2012-07-17T14:15:00-04:00</updated>
+    <id>http://blog.jamesrgifford.com/cleveland-rails-course-august</id>
+    <content type="html"><![CDATA[<h2>Cleveland Ruby on Rails Course, August Edition</h2>
+
+<p><strong><a href="http://launchhouse.com/">At Shaker LaunchHouse.</a></strong></p>
+
+<p>Ever wanted to learn to program? Ever wanted to learn to make cool
+things in your spare time? Ever wondered what your developers are
+talking about?</p>
+
+<p>This is your chance to learn <a href="http://rubyonrails.org/">Ruby on Rails</a>, a popular and powerful
+tool for creating dynamic web applications.</p>
+
+<p>For those interested in more details, there is a <a href="http://j.mp/cle-rails-summer-2012">sign up sheet over here</a>.</p>
+
+<p>All are welcome, although space is limited, so please sign up for more details at the link above.
+Details:
+Price: $200.00.</p>
+
+<p>Location: Shaker LaunchHouse.
+Date: August 20th 9:30am-5pm, with a prep day on August 18th, with exact time to be announced.
+Ever wanted to learn to program? Ever wanted to learn to make cool
+things in your spare time? Ever wondered what your developers are talking about?</p>
+
+<p>This is your chance to learn Ruby on Rails.</p>
+
+<ul>
+<li><p>Pre-class session on August 18th at Shaker LaunchHouse - not required, but recommended. Exact time to be announced to participants.</p></li>
+<li><p>One full day of instruction on August 20th.</p></li>
+<li><p>Lunch, Snacks and Coffee are all provided.</p></li>
+<li><p>An opportunity to learn!</p></li>
+<li><p>Learn about the lifetime of a project, from idea, to testing, to the final, finished product.</p></li>
+</ul>
+
+
+<p>Who is James Gifford?</p>
+
+<p>James Gifford is a software developer, open source contributor, tech and startup pundit and open source advocate. For more details, you can follow him on twitter at <a href="https://twitter.com/jrgifford">@jrgifford</a> or email him at <a href="mailto:james@jamesrgifford.com">james@jamesrgifford.com</a>. He has spoken at the Cleveland Linux user group, as well at as at <a href="http://www.slideshare.net/jrgifford/git-and-bazaar-cleveland-software-freedom-day-2011">Software Freedom day Cleveland 2011</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cleveland Ruby on Rails Course this June]]></title>
@@ -654,42 +698,6 @@ Third (And last), I&#8217;d like to thank the wonderful folks over at Oaggle.com
 
 <p><em>Please note that today is April 1st. Thank you</em></p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Link Dump for 3-29-2011]]></title>
-    <link href="http://blog.jamesrgifford.com/link-dump-for-3-29-2011/"/>
-    <updated>2011-03-29T20:55:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/link-dump-for-3-29-2011</id>
-    <content type="html"><![CDATA[<p>More linkage! Without further ado, here we go:</p>
-
-<!--more-->
-
-
-<ul>
-<li>KDE accepted for Google Summer of Code 2011 [<a href="http://j.mp/hD1D7D">link</a>]</li>
-<li>Debian accepted as a mentoring organization for this year&#8217;s Google Summer Of Code. [<a href="https://twitter.com/#!/debian/status/49026832388993024">link</a>]</li>
-<li>25 Things I Hate About Google, Revisited 5 Years Later [<a href="http://j.mp/gnDR4M">link</a>]</li>
-<li>FireFox 4 Released [<a href="http://izzatz.com/firefox-4-released/">link</a>]</li>
-<li>PHP 5.3.6 Released [<a href="http://j.mp/i6mmSS">link</a>]</li>
-<li>What it&#8217;s like to start work at Quora by Kah Seng Tay [<a href="http://j.mp/f69cRJ">link</a>]</li>
-<li>What&#8217;s your favorite office program? &nbsp;[<a href="http://j.mp/hTGCOm">link</a>]</li>
-<li>Mozilla outlines 16-week Firefox development cycle &nbsp;[<a href="http://j.mp/gezkts">link</a>]</li>
-<li>Justin Vincent — Bootstrappers’ Kickstarter Kit – No Investment Required [<a href="http://j.mp/dZnvPP">link</a>]</li>
-<li>Professionalism is for Amateurs [<a href="http://j.mp/fUOOrO">link</a>]</li>
-<li>What’s wrong with Unity &amp; how we can fix it [<a href="http://j.mp/dV8s9r">link</a>]</li>
-<li>Escape Earth 2012 Tickets [<a href="http://j.mp/gtHkYx">link</a>]</li>
-<li>Top 10 Free Source Code Editors [<a href="http://www.hongkiat.com/blog/free-code-editors-reviewed/">link</a>]</li>
-<li>Remapping the CAPS LOCK key to esc. [<a href="http://www.terminally-incoherent.com/blog/2007/08/02/remapping-the-caps-lock-key/">link</a>]</li>
-</ul>
-
-
-<p>&nbsp;
-Here&#8217;s one last link, and here&#8217;s why I&#8217;m putting this one in a special place: it&#8217;s about Ruby. I&#8217;ve gotten <strong>sick and tired</strong> of the fact there is no definitive guide to installing Ruby (And rails, as well as all of those other Gems) on Ubuntu. I&#8217;ve read some stuff, but for the most part, any sort of a &#8220;Installing tutorial&#8221; is non-existent. So, being the complete sucker that I am, I created this over the weekend:
-Installing Ruby on Rails and RVM (Ruby Version Manager) in Ubuntu 10.04, 10.10 and 11.04. [<a href="https://github.com/jrgifford/Tutorials/blob/master/ruby-on-rails-ubuntu.markdown">link</a>]
-&nbsp;
-Tell me what you think, and I&#8217;ll be updating it with (If anything changes) fairly regularly. If you encounter an error, let me know, and I&#8217;ll figure out what&#8217;s going on (If it&#8217;s my fault, or if something with the packages changed - I&#8217;m not responsible for fixing your computer).</p>
 ]]></content>
   </entry>
   
