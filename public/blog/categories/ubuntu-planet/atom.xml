@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-10-19T18:53:12-04:00</updated>
+  <updated>2012-10-19T18:55:39-04:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem</id>
     <content type="html"><![CDATA[<p>I thought I was a fairly competent and accomplished rails developer, for someone who was self taught, never had a job doing rails stuff, and who was young enough that a large part of the community is old enough be my dad.</p>
 
-<p>And then I entered the Rails Rumble for 2012, and spent a desperate 48 hours with my battling oauth, rails internals, Sinatra, cancan, and a Linux server.</p>
+<p>And then I entered the Rails Rumble for 2012 with <a href="https://twitter.com/imnotanerd">@imnotanerd</a>, and spent a desperate 48 hours with my battling oauth, rails internals, Sinatra, cancan, and a Linux server.</p>
 
 <p>At the end, I've got a few takeaways.</p>
 

@@ -9,7 +9,7 @@ categories: ubuntu-planet
 I thought I was a fairly competent and accomplished rails developer, for someone who was self taught, never had a job doing rails stuff, and who was young enough that a large part of the community is old enough be my dad.
 
 
-And then I entered the Rails Rumble for 2012, and spent a desperate 48 hours with my battling oauth, rails internals, Sinatra, cancan, and a Linux server. 
+And then I entered the Rails Rumble for 2012 with [@imnotanerd](https://twitter.com/imnotanerd), and spent a desperate 48 hours with my battling oauth, rails internals, Sinatra, cancan, and a Linux server. 
 
 At the end, I've got a few takeaways. 
 
