@@ -5,12 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Cleveland Ruby on Rails Course, August Edition - /james-random</title>
+  <title>RailsRumble 2012: A Beginners Postmortem - /james-random</title>
   <meta name="author" content="James Gifford">
 
   
-  <meta name="description" content="Cleveland Ruby on Rails Course, August Edition At Shaker LaunchHouse. Ever wanted to learn to program? Ever wanted to learn to make cool
-things in &hellip;">
+  <meta name="description" content="I thought I was a fairly competent and accomplished rails developer, for someone who was self taught, never had a job doing rails stuff, and who was &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -19,7 +18,7 @@ things in &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://blog.jamesrgifford.com/cleveland-rails-course-august/">
+  <link rel="canonical" href="http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -83,7 +82,7 @@ things in &hellip;">
   
   <header>
     
-      <h1 class="entry-title">Cleveland Ruby on Rails Course, August Edition</h1>
+      <h1 class="entry-title">RailsRumble 2012: A Beginners Postmortem</h1>
     
     
       <p class="meta">
@@ -99,49 +98,62 @@ things in &hellip;">
   
 
 
-<time datetime="2012-07-17T14:15:00-04:00" pubdate data-updated="true">Jul 17<span>th</span>, 2012</time>
+<time datetime="2012-10-19T18:46:00-04:00" pubdate data-updated="true">Oct 19<span>th</span>, 2012</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><h2>Cleveland Ruby on Rails Course, August Edition</h2>
+<div class="entry-content"><p>I thought I was a fairly competent and accomplished rails developer, for someone who was self taught, never had a job doing rails stuff, and who was young enough that a large part of the community is old enough be my dad.</p>
 
-<p><strong><a href="http://launchhouse.com/">At Shaker LaunchHouse.</a></strong></p>
+<p>And then I entered the Rails Rumble for 2012, and spent a desperate 48 hours with my battling oauth, rails internals, Sinatra, cancan, and a Linux server.</p>
 
-<p>Ever wanted to learn to program? Ever wanted to learn to make cool
-things in your spare time? Ever wondered what your developers are
-talking about?</p>
-
-<p>This is your chance to learn <a href="http://rubyonrails.org/">Ruby on Rails</a>, a popular and powerful
-tool for creating dynamic web applications.</p>
-
-<p>For those interested in more details, there is a <a href="http://j.mp/cle-rails-summer-2012">sign up sheet over here</a>.</p>
-
-<p>All are welcome, although space is limited, so please sign up for more details at the link above.
-Details:
-Price: $200.00.</p>
-
-<p>Location: Shaker LaunchHouse.
-Date: August 20th 9:30am-5pm, with a prep day on August 18th, with exact time to be announced.
-Ever wanted to learn to program? Ever wanted to learn to make cool
-things in your spare time? Ever wondered what your developers are talking about?</p>
-
-<p>This is your chance to learn Ruby on Rails.</p>
+<p>At the end, I&#8217;ve got a few takeaways.</p>
 
 <ul>
-<li><p>Pre-class session on August 18th at Shaker LaunchHouse - not required, but recommended. Exact time to be announced to participants.</p></li>
-<li><p>One full day of instruction on August 20th.</p></li>
-<li><p>Lunch, Snacks and Coffee are all provided.</p></li>
-<li><p>An opportunity to learn!</p></li>
-<li><p>Learn about the lifetime of a project, from idea, to testing, to the final, finished product.</p></li>
+<li><p>Come up with two ideas - one that only takes 12 hours to build, the other that takes the full 48.</p>
+
+<p>This saved our bacon. We had two ideas - one was fairly complex. At 8PM Saturday I said &#8220;look. We&#8217;ve been banging our heads against this for almost 8 man hours. Time to start something else.&#8221;</p>
+
+<p>So I did a rails new, and thus Volla was born. Or reborn.</p></li>
+<li><p>Git is your frenemy.</p>
+
+<p>Git is a blessing and a curse. Commit early, often, push, deploy via Capistrano, repeat.</p>
+
+<p>But make sure that your gitignore is properly updated.</p>
+
+<p>Otherwise, you end up committing 20mb worth of binstubs. And your api keys. Not OK.</p>
+
+<p>Anyway. Don&#8217;t do that.</p></li>
+<li><p>Stay on target&#8230;</p>
+
+<p>Enough said. Don&#8217;t get distracted by the cool matrix cat or something.</p></li>
+<li><p>If you don&#8217;t succeed, try again.
+Take a month off, then try that idea again. I learned everything I know about rails because I said &#8220;I&#8217;ve got two weeks. Let&#8217;s building something in 2 hours a day&#8221;. (Side note: that&#8217;s how I got sucked into Shoes/Hackety Hack, as well as delayed_paperclip. You devote time to something, you will fill it. Fact of life that I&#8217;ve discovered over the past 16 years I&#8217;ve been around on this planet.)</p></li>
+<li><p>Leverage the knowledge of others.</p>
+
+<p>I did the math, and between the two of us, we spent 8 hours man hours trying to figure out sessions in Sinatra. It was at this point I said &#8220;stop and move on, lets get this fixed&#8221;. Time spent on authentication in rails? 20 minutes. (Authorization though, was closer to an hour, hour and a half)</p>
+
+<p>The lesson to take away from this is that for almost everything you&#8217;re doing, someone has invented that wheel already - so for the love of pete, USE IT. Thats the wonderful thing about a community.</p></li>
+<li><p>If you don&#8217;t know what adding $GEM to your gemfile will do, you probably don&#8217;t want to do it.</p>
+
+<p>I ran into this - had a gem, added it, broke everything. Removed, worked fine. (Not naming names here, it was some bad code I wrote elsewhere). But adding <em>one</em> gem was enough to break the whole app.</p></li>
+<li><p>Use a logged chat.</p>
+
+<p>We used skype - this worked, but the logs in skype are&#8230; well, less than wonderful. Part of this has to do with Skype for Linux, part of this has to do with Skype in general. If I had to do it again, I&#8217;d use Campfire, or even IRC.</p></li>
+<li><p>Descriptive git commits.</p>
+
+<p>&#8220;Fixed bugs&#8221; - If you&#8217;re guilty of this, raise your hand! Oh look, everyones hand went up.</p>
+
+<p>Don&#8217;t. Do. This. Ever. Makes code review after the fact hard.</p></li>
+<li><p>If you&#8217;re confident, do some sort of TDD.</p>
+
+<p>This would have cost us time, but saved us trouble. If we had automated testing in place, I would have known that we broke certain things with certain other changes. But&#8230; well, hindsight is 20-20.</p></li>
 </ul>
 
 
-<p>Who is James Gifford?</p>
-
-<p>James Gifford is a software developer, open source contributor, tech and startup pundit and open source advocate. For more details, you can follow him on twitter at <a href="https://twitter.com/jrgifford">@jrgifford</a> or email him at <a href="mailto:james@jamesrgifford.com">james@jamesrgifford.com</a>. He has spoken at the Cleveland Linux user group, as well at as at <a href="http://www.slideshare.net/jrgifford/git-and-bazaar-cleveland-software-freedom-day-2011">Software Freedom day Cleveland 2011</a>.</p>
+<p>Hopefully my tips here will be useful for people in the future. If not, oh well. I tried. :)</p>
 </div>
 
 
@@ -164,15 +176,21 @@ things in your spare time? Ever wondered what your developers are talking about?
   
 
 
-<time datetime="2012-07-17T14:15:00-04:00" pubdate data-updated="true">Jul 17<span>th</span>, 2012</time>
+<time datetime="2012-10-19T18:46:00-04:00" pubdate data-updated="true">Oct 19<span>th</span>, 2012</time>
       
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/ubuntu-planet/'>ubuntu-planet</a>
+  
+</span>
 
 
     </p>
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jamesrgifford.com/cleveland-rails-course-august/" data-via="jrgifford" data-counturl="http://blog.jamesrgifford.com/cleveland-rails-course-august/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem/" data-via="jrgifford" data-counturl="http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -183,10 +201,8 @@ things in your spare time? Ever wondered what your developers are talking about?
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/cleveland-rails-course-summer/" title="Previous Post: Cleveland Ruby on Rails Course this June">&laquo; Cleveland Ruby on Rails Course this June</a>
+        <a class="basic-alignment left" href="/cleveland-rails-course-august/" title="Previous Post: Cleveland Ruby on Rails Course, August Edition">&laquo; Cleveland Ruby on Rails Course, August Edition</a>
       
-      
-        <a class="basic-alignment right" href="/railsrumble2012-a-beginners-postmortem/" title="Next Post: RailsRumble 2012: A Beginners Postmortem">RailsRumble 2012: A Beginners Postmortem &raquo;</a>
       
     </p>
   </footer>
@@ -234,8 +250,8 @@ things in your spare time? Ever wondered what your developers are talking about?
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://blog.jamesrgifford.com/cleveland-rails-course-august/';
-        var disqus_url = 'http://blog.jamesrgifford.com/cleveland-rails-course-august/';
+        var disqus_identifier = 'http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem/';
+        var disqus_url = 'http://blog.jamesrgifford.com/railsrumble2012-a-beginners-postmortem/';
         var disqus_script = 'embed.js';
       
     (function () {
