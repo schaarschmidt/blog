@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-10-19T18:55:39-04:00</updated>
+  <updated>2012-12-17T16:15:09-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Moved From Dropbox To Ubuntu One For Note Taking]]></title>
+    <link href="http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking/"/>
+    <updated>2012-12-17T18:46:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking</id>
+    <content type="html"><![CDATA[<p>So, for those of you who know me, I'm pretty picky
+about what I use for my syncing. And I have to be -
+this is one of the more difficult parts of my electronic life,
+and its even more difficult now.</p>
+
+<p>Let's start with my requirements.</p>
+
+<ul>
+<li>free as in beer if at all possible. Hey, I'm cheap.</li>
+<li>clients for the following OS's:
+
+<ul>
+<li>Ubuntu</li>
+<li>Windows</li>
+<li>iOS</li>
+<li>Android. (I know, I need to clean up my operating system variety)</li>
+</ul>
+</li>
+<li>Some sort of folder structure, at least for the desktop.</li>
+<li>Markdown is nice, but not required.</li>
+</ul>
+
+
+<p>Before I added Android to the mix, I had been using
+PlainText and Dropbox. Worked wonderfully.
+Now that I have an android device,
+I'm moving to Ubuntu One notes, aka tomboy. Seems to work pretty well.</p>
+
+<p>For Windows and Ubuntu clients, I'm using Tomboy.
+For Android, I'm using <a href="https://launchpad.net/tomdroid">Tomdroid</a>,
+and for iOS, I'm using a new one that doesn't work on iOS6 (yet!),
+but should get fixed soon, called
+<a href="http://itunes.apple.com/us/app/webnotes-powered-by-ubuntu/id519580240?mt=8">webNotes (powered by Ubuntu One)</a>. All the platforms covered yay!</p>
+
+<p>To get setup, I just installed Tomboy on my Ubuntu
+and Windows computers.
+I then installed the beta version of Tomdroid,
+and connected everything to my Ubuntu One account.
+Took about 20 minutes to do the switch, and was very painless!</p>
+
+<p>So far, I've been using Ubuntu One in this fashion for about three months,
+and it's going pretty well so far.</p>
+
+<p>The ability to have my notes anywhere is great - and the fact it
+integrates with a product made by one of my favorite companies (Canonical)
+is even better!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RailsRumble 2012: A Beginners Postmortem]]></title>

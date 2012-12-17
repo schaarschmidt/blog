@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-10-19T18:55:39-04:00</updated>
+  <updated>2012-12-17T16:15:09-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Moved From Dropbox To Ubuntu One For Note Taking]]></title>
+    <link href="http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking/"/>
+    <updated>2012-12-17T18:46:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking</id>
+    <content type="html"><![CDATA[<p>So, for those of you who know me, I&#8217;m pretty picky
+about what I use for my syncing. And I have to be -
+this is one of the more difficult parts of my electronic life,
+and its even more difficult now.</p>
+
+<p>Let&#8217;s start with my requirements.</p>
+
+<ul>
+<li>free as in beer if at all possible. Hey, I&#8217;m cheap.</li>
+<li>clients for the following OS&#8217;s:
+
+<ul>
+<li>Ubuntu</li>
+<li>Windows</li>
+<li>iOS</li>
+<li>Android. (I know, I need to clean up my operating system variety)</li>
+</ul>
+</li>
+<li>Some sort of folder structure, at least for the desktop.</li>
+<li>Markdown is nice, but not required.</li>
+</ul>
+
+
+<p>Before I added Android to the mix, I had been using
+PlainText and Dropbox. Worked wonderfully.
+Now that I have an android device,
+I&#8217;m moving to Ubuntu One notes, aka tomboy. Seems to work pretty well.</p>
+
+<p>For Windows and Ubuntu clients, I&#8217;m using Tomboy.
+For Android, I&#8217;m using <a href="https://launchpad.net/tomdroid">Tomdroid</a>,
+and for iOS, I&#8217;m using a new one that doesn&#8217;t work on iOS6 (yet!),
+but should get fixed soon, called
+<a href="http://itunes.apple.com/us/app/webnotes-powered-by-ubuntu/id519580240?mt=8">webNotes (powered by Ubuntu One)</a>. All the platforms covered yay!</p>
+
+<p>To get setup, I just installed Tomboy on my Ubuntu
+and Windows computers.
+I then installed the beta version of Tomdroid,
+and connected everything to my Ubuntu One account.
+Took about 20 minutes to do the switch, and was very painless!</p>
+
+<p>So far, I&#8217;ve been using Ubuntu One in this fashion for about three months,
+and it&#8217;s going pretty well so far.</p>
+
+<p>The ability to have my notes anywhere is great - and the fact it
+integrates with a product made by one of my favorite companies (Canonical)
+is even better!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RailsRumble 2012: A Beginners Postmortem]]></title>
@@ -690,44 +744,6 @@ of Roland Taylor and a few other friends. Its not completely finished right now,
     <updated>2011-05-01T20:45:00-04:00</updated>
     <id>http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now</id>
     <content type="html"><![CDATA[<p>For those of you who are Ubuntu users, you probably have heard of the new Ubuntu Unity interface that became the default in 11.04 Natty Narwhal. Well, people don&#8217;t seem to like it, so for today&#8217;s part of the wordpress post a week challenge, I wrote something over on 2buntu.com about Unity, then and now. If you&#8217;re still reading this, and you&#8217;re interested in it, <a href="http://2buntu.com/index.php/archives/512">take a look at it over here</a>.&nbsp;</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Repository for Unity QuickList Examples]]></title>
-    <link href="http://blog.jamesrgifford.com/repository-for-unity-quicklist-examples/"/>
-    <updated>2011-04-25T20:48:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/repository-for-unity-quicklist-examples</id>
-    <content type="html"><![CDATA[<p><em>This post originally appeared on <a href="http://2buntu.com/index.php/archives/429">2buntu.com</a>, a site that I occasionally write for on varied topics, most of which have to do with my Ubuntu side.</em></p>
-
-
-<p>&nbsp;</p>
-
-
-<!--more-->
-
-
-<p>One of the cool new features (Among many) in Unity in 11.04 (Hereafter referred to as &#8220;Natty&#8221;) is <a href="https://wiki.ubuntu.com/Unity/LauncherAPI#Static%20Quicklist%20entries">QuickLists</a>. QuickLists are this awesome new feature that let you have shortcuts in your Unity Launcher. I was a little bored today, so I created a <a href="https://launchpad.net/unity-quicklist-examples">project on launchpad</a> with some cool examples. So I decided &#8220;Hey, lets make a FileZilla quicklist&#8221;, so I fired up my trusty vim, and let &#8216;er rip. So, if you&#8217;re interested in getting ahold of these cool new QuickList, just run this command:</p>
-
-
-<p><span style="font-family: Times New Roman; font-size: medium;">
-</span></p>
-
-
-<p style="display: inline !important;"><code>sudo apt-get install bzr &amp;&amp; bzr branch lp:unity-quicklist-examples</code></p>
-
-
-<p style="display: inline !important;">&nbsp;</p>
-
-
-<p style="display: inline !important;">&nbsp;</p>
-
-
-<p style="display: inline !important;">The first part will install bzr on your system (if you don&#8217;t already have it), and the second part will download the files for your perusal. Special thanks go to <a href="https://launchpad.net/~mainerror">Octavian Damiean</a> for helping me with the FileZilla QuickList. Any questions/comments/concerns can be sent to <a href="mailto:james@jamesrgifford.com">james@jamesrgifford.com, or you can <a href="https://bugs.launchpad.net/unity-quicklist-examples/+filebug">file a bug</a> in the Unity QuickList Examples Project.</p>
-
-
-<p></p>
 
 ]]></content>
   </entry>
