@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-12-17T16:15:09-05:00</updated>
+  <updated>2012-12-19T10:32:34-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ask Ubuntu Hat Dash: Join Us!]]></title>
+    <link href="http://blog.jamesrgifford.com/askubuntu-hat-dash-join-us/"/>
+    <updated>2012-12-19T10:26:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/askubuntu-hat-dash-join-us</id>
+    <content type="html"><![CDATA[<p>This year, as part of an attempt to spread holiday cheer,
+Stack Exchange has decided to do a winter hat bash.</p>
+
+<p>so, you might see something like this when you login to Ask Ubuntu today:</p>
+
+<p><img src="http://i.stack.imgur.com/e4yeU.png" alt="enter image description here" /></p>
+
+<p>So far, I've managed to earn the Gangnam style glasses, Guide my Sleigh, and Constantipolitan, for posting on meta.</p>
+
+<p>Full list of hats is <a href="http://winterba.sh/">here</a> - I implore you, go forth and earn hats!
+And if you dislike hats, there is an opt-out button - just click the "i hate hats" link, and you won't see any hats.</p>
+
+<p>Just remember, hats are only around from now until Janurary 4th, so be quick!</p>
+
+<p>Now hat Away! Hat Away! Hat Away All!</p>
+
+<p><sub>cheesy I know.</sub></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Moved From Dropbox To Ubuntu One For Note Taking]]></title>
@@ -161,25 +186,6 @@ Take a month off, then try that idea again. I learned everything I know about ra
 <p>So, I'll leave you with this thought:</p>
 
 <h3>Who do you appreciate in the community?</h3>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Shoes.rb PPA Now Available]]></title>
-    <link href="http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available/"/>
-    <updated>2011-10-28T14:51:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/shoes-dot-rb-ppa-now-available</id>
-    <content type="html"><![CDATA[<p>Today, I'm happy to announce that the <a href="http://shoesrb.com">amazing Ruby GUI toolkit Shoes.rb</a> is now available in a PPA for Oneiric!</p>
-
-<p>Right now, the packaging for <code>shoes</code> in the PPA isn't really stable, so proceed with caution.</p>
-
-<p>Ok, now that I've scared you all into your rabbit holes, the PPA to add is</p>
-
-<p><code>ppa:jamesgifford/shoesrb</code></p>
-
-<p>For instructions how to add PPAs on various versions of Ubuntu, <a href="http://askubuntu.com/q/4983/6005">take a look at this Ask Ubuntu question/answer set.</a></p>
-
-<p>Bug reports should be <a href="https://bugs.launchpad.net/shoes/+filebug">filed here</a>, however if it's not directly related to the packaging, I'll probably have you <a href="https://github.com/shoes/shoes/issues">report them to the upstream bug tracker</a>.</p>
 ]]></content>
   </entry>
   

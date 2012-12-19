@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-12-17T16:15:09-05:00</updated>
+  <updated>2012-12-19T10:32:34-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ask Ubuntu Hat Dash: Join Us!]]></title>
+    <link href="http://blog.jamesrgifford.com/askubuntu-hat-dash-join-us/"/>
+    <updated>2012-12-19T10:26:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/askubuntu-hat-dash-join-us</id>
+    <content type="html"><![CDATA[<p>This year, as part of an attempt to spread holiday cheer,
+Stack Exchange has decided to do a winter hat bash.</p>
+
+<p>so, you might see something like this when you login to Ask Ubuntu today:</p>
+
+<p><img src="http://i.stack.imgur.com/e4yeU.png" alt="enter image description here" /></p>
+
+<p>So far, I&#8217;ve managed to earn the Gangnam style glasses, Guide my Sleigh, and Constantipolitan, for posting on meta.</p>
+
+<p>Full list of hats is <a href="http://winterba.sh/">here</a> - I implore you, go forth and earn hats!
+And if you dislike hats, there is an opt-out button - just click the &#8220;i hate hats&#8221; link, and you won&#8217;t see any hats.</p>
+
+<p>Just remember, hats are only around from now until Janurary 4th, so be quick!</p>
+
+<p>Now hat Away! Hat Away! Hat Away All!</p>
+
+<p><sub>cheesy I know.</sub></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Moved From Dropbox To Ubuntu One For Note Taking]]></title>
@@ -734,16 +759,6 @@ of Roland Taylor and a few other friends. Its not completely finished right now,
 
 
 <p><em>From <a href="http://www.linuxoutlaws.com/">Linux Outlaws</a>&nbsp;Episode 202.</em></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Something I Wrote: Unity, Then And Now]]></title>
-    <link href="http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now/"/>
-    <updated>2011-05-01T20:45:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/something-i-wrote-unity-then-and-now</id>
-    <content type="html"><![CDATA[<p>For those of you who are Ubuntu users, you probably have heard of the new Ubuntu Unity interface that became the default in 11.04 Natty Narwhal. Well, people don&#8217;t seem to like it, so for today&#8217;s part of the wordpress post a week challenge, I wrote something over on 2buntu.com about Unity, then and now. If you&#8217;re still reading this, and you&#8217;re interested in it, <a href="http://2buntu.com/index.php/archives/512">take a look at it over here</a>.&nbsp;</p>
 
 ]]></content>
   </entry>
