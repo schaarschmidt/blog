@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2012-12-19T10:32:34-05:00</updated>
+  <updated>2013-01-24T22:58:24-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cleveland on Rails: Class of Summer 2013]]></title>
+    <link href="http://blog.jamesrgifford.com/cleveland-on-rails-summer-of-2013/"/>
+    <updated>2013-01-24T22:17:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/cleveland-on-rails-summer-of-2013</id>
+    <content type="html"><![CDATA[<p>Howdy! This is your chance to learn <a href="http://rubyonrails.org/">Ruby on Rails</a>.</p>
+
+<p>But more importantly, to learn how to <strong>think</strong> like a developer. How to solve problems. How to go through an application life cycle. How to break the problems down into the smallest chunk, so that you can solve it.</p>
+
+<p><strong>Location:</strong> <a href="http://www.launchhouse.com/">Shaker LaunchHouse</a>, in Shaker Heights, Ohio.</p>
+
+<p><strong>Date:</strong> July 1st through the 12th, 9:00am-6pm weekdays, with optional half Saturdays and Sundays. <strong>That’s 100 hours of solid, in-depth and hands on instruction.</strong></p>
+
+<p><strong>Cost</strong> is $1,000 per person.</p>
+
+<p>Yeah, that&#8217;s a lot of money. But you&#8217;re paying for some <strong>top-notch teaching</strong> and experiences!</p>
+
+<p>It&#8217;s an opportunity to learn how to think like a developer, and know how to take the next steps towards being able to build your own product.</p>
+
+<p>For more information, fill out this form with your name and email (I promise not to spam you!), along with a quick blurb about why you&#8217;d like to apply, and I&#8217;ll get back to you as quickly as I can.</p>
+
+<iframe src="https://docs.google.com/a/jamesrgifford.com/spreadsheet/embeddedform?formkey=dHdQTHpUNVNIQTVpdWZNaU9JOUE1LVE6MQ" width="700" height="679" frameborder="0" marginheight="0" marginwidth="0">Loading&#8230;</iframe>
+
+
+<h2>Who is James Gifford?</h2>
+
+<p>James Gifford is a <a href="https://github.com/jrgifford">software developer, open source contributor</a> and IT administrator. He has run two successful programming courses, is currently writing a book on the Ubuntu Linux software, and is an advocate of high quality technical education, at affordable prices. He has spoken at multiple user groups on various topics, technical and non-technical.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ask Ubuntu Hat Dash: Join Us!]]></title>
@@ -737,28 +767,6 @@ of Roland Taylor and a few other friends. Its not completely finished right now,
 
 
 <p>&nbsp;</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Why Ubuntu (and Linux in General) Won't Take Over the Desktop]]></title>
-    <link href="http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove/"/>
-    <updated>2011-05-05T20:40:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/why-ubuntu-and-linux-in-genera-wont-take-ove</id>
-    <content type="html"><![CDATA[<p>&#8220;As long as people can&#8217;t go to a shop and buy a Dell or a HP with Linux installed, it won&#8217;t become mainstream&#8221;</p>
-
-
-<p>&#8220;For them [The average Joe] something that doesn&#8217;t come in the box or from a shop just isn&#8217;t real. And that&#8217;s the problem&#8221;</p>
-
-
-<!--more-->
-
-
-<p>&nbsp;</p>
-
-
-<p><em>From <a href="http://www.linuxoutlaws.com/">Linux Outlaws</a>&nbsp;Episode 202.</em></p>
 
 ]]></content>
   </entry>
