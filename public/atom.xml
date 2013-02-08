@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2013-02-07T21:47:09-05:00</updated>
+  <updated>2013-02-08T09:40:26-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -114,7 +114,13 @@ And if you dislike hats, there is an opt-out button - just click the &#8220;i ha
     <link href="http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking/"/>
     <updated>2012-12-17T18:46:00-05:00</updated>
     <id>http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking</id>
-    <content type="html"><![CDATA[<p>So, for those of you who know me, I&#8217;m pretty picky
+    <content type="html"><![CDATA[<h2>This solution no longer works. I&#8217;m keeping it around because it is still one of the most visited blog posts.</h2>
+
+<p>Citing a need to completely move their infrastructure, <a href="http://voices.canonical.com/ubuntuone/2013/02/04/notification-about-notes/">the Ubuntu One team announced that they will no longer be supporting note sync</a>.</p>
+
+<p>As such, I have moved to <a href="https://evernote.com/">Evernote</a>, and very gladly fork over $6 a month to them for premium.</p>
+
+<p>So, for those of you who know me, I&#8217;m pretty picky
 about what I use for my syncing. And I have to be -
 this is one of the more difficult parts of my electronic life,
 and its even more difficult now.</p>

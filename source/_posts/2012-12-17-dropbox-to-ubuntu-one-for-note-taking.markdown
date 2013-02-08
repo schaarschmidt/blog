@@ -6,6 +6,15 @@ comments: true
 categories: ubuntu-planet
 ---
 
+
+
+##This solution no longer works. I'm keeping it around because it is still one of the most visited blog posts.
+
+Citing a need to completely move their infrastructure, [the Ubuntu One team announced that they will no longer be supporting note sync](http://voices.canonical.com/ubuntuone/2013/02/04/notification-about-notes/).
+
+As such, I have moved to [Evernote](https://evernote.com/), and very gladly fork over $6 a month to them for premium.
+
+
 So, for those of you who know me, I'm pretty picky
 about what I use for my syncing. And I have to be -
 this is one of the more difficult parts of my electronic life,
