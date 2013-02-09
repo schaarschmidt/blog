@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ubuntu-planet | /james-random]]></title>
   <link href="http://blog.jamesrgifford.com/blog/categories/ubuntu-planet/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2013-02-08T09:40:26-05:00</updated>
+  <updated>2013-02-09T09:23:52-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,106 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nexus 7: A Worthy Tool for the System Administrator]]></title>
+    <link href="http://blog.jamesrgifford.com/nexus-7-a-worthy-tool-for-the-system-administrator/"/>
+    <updated>2013-02-09T09:12:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/nexus-7-a-worthy-tool-for-the-system-administrator</id>
+    <content type="html"><![CDATA[<p>The last day of August, 2012, I got a box in the mail. The contents? A 16GB Nexus 7. My first android device.</p>
+
+<p>Since then, its been a fun ride, and I've learned the various cool tools out there for a IT person.</p>
+
+<p>I do contract work with a nameless startup incubator in the area, and as part of that, I'm partially responsible for printers, user-facing documentation, etc.</p>
+
+<p>As such, I was constantly plugging and unplugging my laptop to show people this, that or the other. <em>however</em>, the tablet has replaced my laptop for a lot of those duties. Let me explain more.</p>
+
+<h3>Documentation.</h3>
+
+<p>Like it or not, we all have to document things. And we have to do it well, for our intended audience. Now, we have two main pieces of user-facing documentation - the WiFi setup, and the printer setup. Two documents,one of which changes as we fix things (printers).</p>
+
+<p>The Nexus 7 is just the right for me to pull of the document and refer to it as I'm working on someone's machine. The apps I use for that are:</p>
+
+<ul>
+<li>Dropbox. We use a shared dropbox folder to share the documents.</li>
+</ul>
+
+
+<p>Now, to view them, I need a office type tool. While I could (and have) use Google drive, it doesn't lend itself to the situation well.</p>
+
+<p>I've looked at the softmaker line of products, but I haven't been impressed with their linux offerings, so I'm not sure if I should risk the price for the full amount.</p>
+
+<p>However, I am very happy with Kingston Office Writer.</p>
+
+<p><img src="http://i.imgur.com/5FvPpyWh.png" alt="" /></p>
+
+<p><img src="http://i.imgur.com/4PHiEUlh.png" alt="" /></p>
+
+<p>It's free, and available for Android <a href="https://play.google.com/store/apps/details?id=cn.wps.moffice_eng">here</a>.</p>
+
+<h3>SSH.</h3>
+
+<p>The ConnectBot family is well-known and very well featured for being able to do SSH.</p>
+
+<p>However, <a href="http://code.google.com/p/connectbot/issues/detail?id=369">I've discovered that stock ConnectBot doesn't play nice with function keys</a> on bluetooth keyboards, so I am using a fork of ConnectBot called <a href="https://play.google.com/store/apps/details?id=sk.vx.connectbot">VX ConnectBot</a> that properly supports external keyboards.</p>
+
+<p>ConnectBot supports SSH keys, although I don't make use of them  - I don't do enough SSH on my tablet to worry about that.</p>
+
+<h3>Notes.</h3>
+
+<p>Evernote. <a href="http://blog.jamesrgifford.com/dropbox-to-ubuntu-one-for-note-taking/">While I used to be a fan of Tomboy/Tomdroid/Ubuntu One</a>, recent events have pushed me into the Evernote fold. And I must say, it's nice. I'm using it to write this blog post right now.</p>
+
+<p>I shell out the cash each month for Evernote Premium, and while I'm enjoying it so far, there are a few "problems" I have with it, but I also had them with Tomboy.</p>
+
+<ul>
+<li>No <a href="http://daringfireball.net/projects/markdown/">Markdown</a> support. Really, everything should support markdown.</li>
+<li>Search sucks. Always has, always will. Someday someone will make search that doesn't suck, but that day has not yet come.</li>
+<li>inline image embedding. For this, that'd be really nice. But oh well.</li>
+</ul>
+
+
+<h3>PDF Viewer.</h3>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.amazon.kindle">Amazon Kindle</a> or the built-in PDF reader are my go-to PDF readers. They aren't terrific, but they are ok.</p>
+
+<h3>Email.</h3>
+
+<p>Ahg. Email, the bane of every IT persons existence. Email is something I detest.
+People need to understand that when they email me, I will see it, and then prioritize it. I'm sad that people think that emailing me = instant response and I go and fix their problem. If you email someone, you should expect up to a 72 hour wait period before you get a response. If it's that important, call me. The important people have my number, and the smart ones who might need to call me know where and how to find it.</p>
+
+<p>Anyway, I use the excellent gmail app for my email. I have gmail filters setup server side that filter out mailing lists and similar things into gmail tags, so they never hit my inbox. I then have gmail setup to only send me a push notification if it's in the priority inbox.</p>
+
+<p><img src="http://i.imgur.com/JHwDDdf.jpg" alt="" /></p>
+
+<p>So, lets bits and pieces that don't really fall into any category are:</p>
+
+<p>More communication tools: <a href="https://play.google.com/store/apps/details?id=com.skype.raider">Skype</a> , Google Talk (no link that I could find in the Play Store) and for IRC, I'm a fan of [AndChat(https://play.google.com/store/apps/details?id=net.andchat). <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice">Google Voice</a> is another good one, if you're a Google Voice user, I highly recommend installing the application - while I still haven't figured out how to make calls from my Nexus 7, for text messages, it works fine. Lastly, for those times that Skype is just being a pain in the rear, there is Google + Hangouts, which are pretty useful.</p>
+
+<h3>Web Browser</h3>
+
+<p>For choice of Browser, I have two installed. I have <a href="https://play.google.com/store/apps/details?id=com.chrome.beta">Chrome Beta</a>, and I have <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">Firefox</a>. My main browser is Chrome, and I have Firefox for accessing all the internal sites that require self-signed SSL certificates. I much prefer Chromes tab setup, but Firefox is pretty fast.</p>
+
+<h3>Password management:</h3>
+
+<p>I'm cheap, remember? So I am a fan of <a href="http://keepass.info">keepass</a> and Dropbox.</p>
+
+<p>So I store my passwords in a Keepass2 (or KeepassX) database, synced to my Dropbox folder. On my Tablet, I use keepassdroid to access it, and it's all hunky dory.</p>
+
+<p>Other tools I've tried are:</p>
+
+<ul>
+<li><p><a href="http://upm.sourceforge.net">Universal Password Manager</a>. I can't explain why, but something about it not being in the archive for Ubuntu just made me not want to deal with it.</p></li>
+<li><p><a href="https://lastpass.com/">LastPass</a>. Only way to get the mobile apps is the give them money, and I'm not a fan of proprietary applications storing something like my passwords. At least in dropbox, everything is a file.</p></li>
+</ul>
+
+
+<h3>Todo list:</h3>
+
+<p>I use a combination of <a href="http://todotxt.com/">todo.txt</a> and <a href="http://wunderlist.com/">Wunderlist</a>, but I'm not entirely sure how well it's working. Ask me in a few months.</p>
+
+<p>So, that's my list of tools. What is in your toolbox?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ask Ubuntu Hat Dash: Join Us!]]></title>
@@ -163,35 +263,6 @@ Take a month off, then try that idea again. I learned everything I know about ra
     <content type="html"><![CDATA[<p>tl;dr: Head <a href="http://meta.askubuntu.com/questions/2651/ask-ubuntu-clean-up">over to meta</a>, read the post, <a href="http://meta.askubuntu.com/questions/257/how-does-ask-ubuntu-work">read the FAQ</a>, and start cleaning! :)</p>
 
 <p>Anything further I might have to say would just be a copy-paste from the meta post, so please, go read that.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ubuntu Community Appreciation Day]]></title>
-    <link href="http://blog.jamesrgifford.com/community-appreciation-day/"/>
-    <updated>2011-11-20T17:05:00-05:00</updated>
-    <id>http://blog.jamesrgifford.com/community-appreciation-day</id>
-    <content type="html"><![CDATA[<p>So, for those of you that don't know, <a href="https://wiki.ubuntu.com/UCADay">Ubuntu Community Appreciation Day</a> is the first day that we set apart to say "Thank you" to all the various folks who help make the Ubuntu Community possible, and awesome.</p>
-
-<!-- more -->
-
-
-<p>So, without furthur ado (whatever "ado" is!), I'll start the list of lists (in absolutely no particular order):</p>
-
-<ul>
-<li><p><a href="http://castrojo.tumblr.com/">Jorge Castro</a> - it was Jorge who really got me kickstarted in the Ubuntu Community.</p></li>
-<li><p><a href="https://twitter.com/#!/maasj">Jason Maas</a>. While I haven't spoken (or even really communicated with him) in several years, this was the guy who introduced me to Ubuntu, so I have to thank him for that.</p></li>
-<li><p><a href="https://twitter.com/#!/wildbill">Bill Childers</a>. This guy taught me many tiny, newbie tricks, such as how to refresh the GRUB list (yeah, I didn't know how to do that until he showed me). He also wrote an awesome (somewhat outdated, but awesome) book I have read many, many times.</p></li>
-<li><p><a href="http://philipballew.wordpress.com/">Philip Ballew</a>. He's awesome, if you've ever done anything with him, you'd know why. If you haven't, I suggest you get started.</p></li>
-<li><p><a href="http://ubunturocking.wordpress.com/">Bilal Akhtar</a>. He's more of an inspiration than anything else, mainly because he's another young (he's 15, same as me) <a href="http://www.urbandictionary.com/define.php?term=Ubuntero">Ubuntero</a>.</p></li>
-<li><p><a href="http://akgraner.com/">Amber Graner</a>. She's done an awesome job of getting the <a href="https://launchpad.net/~ubuntuleadership">Ubuntu Leadership team</a> off the ground and to find it's place in the existing Ubuntu ecosystem. Thanks!</p></li>
-<li><p><a href="http://marcoceppi.com/">Marco Ceppi</a>. He's an awesome guy, one of the excellent team of Community moderators on Ask Ubuntu. Without him, I wouldn't spend (read: waste (in mom's eyes)) half as much time in the community helping people as I do.</p></li>
-</ul>
-
-
-<p>So, I'll leave you with this thought:</p>
-
-<h3>Who do you appreciate in the community?</h3>
 ]]></content>
   </entry>
   
