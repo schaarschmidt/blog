@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2013-02-09T12:57:38-05:00</updated>
+  <updated>2013-02-19T09:08:37-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,62 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tricks of the Rails Development Trade learned while updating applications]]></title>
+    <link href="http://blog.jamesrgifford.com/tricks-of-the-rails-development-trade-learned-while-updating-applications/"/>
+    <updated>2013-02-18T10:02:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/tricks-of-the-rails-development-trade-learned-while-updating-applications</id>
+    <content type="html"><![CDATA[<p>As I&#8217;m sure most of us are aware, rails recently had some security holes brought to light and fixed.</p>
+
+<p>These are my notes after upgrading about a dozen applications, many of them twice in the past month or two.</p>
+
+<p>If you don&#8217;t have a solid batch of unit tests, then the odds of my spending anytime on patching your open source project are nil. Well, not quiet. I&#8217;ve done a few.</p>
+
+<p>But seriously, with tests, my workflow looks something like this:</p>
+
+<ul>
+<li><p>read README. Make note of any special dependencies, like elasticsearch or postgres in development.</p></li>
+<li><p>git clone.</p></li>
+<li><p>create new rvm gemset.</p></li>
+<li><p><code>bundle install</code>.</p></li>
+<li><p>read through <code>config/database.yml</code>, change if needed to work with my setup. Changes are normally limited to things like the database name, the database user, password, etc.</p></li>
+<li><p><code>rake db:create</code></p></li>
+<li><p><code>rake db:migrate &amp;&amp; rake db:seed &amp;&amp; rake db:test:prepare</code></p></li>
+<li><p>and then I run the tests - either <code>rake test</code>, <code>rspec spec</code> or <code>rake spec</code>. I&#8217;ve seen all three of them, and I&#8217;m sure I&#8217;ll see more variations as time goes on. Side note: For rails applications, we should always alias <code>rake test</code> to the testing framework that is being used.</p></li>
+<li><p>if the tests all pass before I upgrade, I upgrade with <code>bundle update rails &amp;&amp; rake test</code>, if they don&#8217;t, then I try to make them pass (I normally can), but if I can&#8217;t, I and then update rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).</p></li>
+<li><p>commit, submit a pull request, ping the maintainer on twitter after 24 hours
+if it isn&#8217;t merged.</p></li>
+</ul>
+
+
+<p>Without tests:</p>
+
+<ul>
+<li>git clone</li>
+<li><code>bundle install</code></li>
+<li><code>rake db:migrate</code></li>
+<li><code>rails server</code></li>
+<li>poke around in the browser.</li>
+<li><code>update rails</code></li>
+<li>spend my time going through weird stacktaces and weird errors, or worse, not knowing if I broke something.</li>
+</ul>
+
+
+<p>Ew.</p>
+
+<p>So, the take aways are:</p>
+
+<ul>
+<li><p>Documentation on how to get a fully functional dev environment, having tests, and having the code on github.</p></li>
+<li><p>Test suites rule.</p></li>
+<li><p>Readable code is also important - there were a few situations where the tests were failing, and I had to go through and read the code to understand <em>why</em>, and it was surprisingly easy to debug these applications - I&#8217;m sure that the test-driven design was also a big part of it, but there was also a certain element of &#8220;this is readable code, I can understand this&#8221;.</p></li>
+</ul>
+
+
+<p>Oh, and if you&#8217;re looking for someone to update your rails applications with critical security fixes in the future, <a href="http://jamesrgifford.com/contact">lets talk</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nexus 7: A Worthy Tool for the System Administrator]]></title>
@@ -706,42 +762,6 @@ of Roland Taylor and a few other friends. Its not completely finished right now,
 
 
 <p>And the recording: <a href="http://cinch.fm/jrgifford/281087">http://cinch.fm/jrgifford/281087</a></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tech Week in Review for September 1st]]></title>
-    <link href="http://blog.jamesrgifford.com/tech-week-in-review-for-september-1st/"/>
-    <updated>2011-09-02T19:04:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/tech-week-in-review-for-september-1st</id>
-    <content type="html"><![CDATA[<h3>This week in tech news for Thursday, September 1st, 2011.</h3>
-
-<p>Send suggestions for next week to <code>james@jamesrgifford.com</code></p>
-
-<ul>
-<li>Why Lodsys is trying it&#8217;s hardest to keep Apple and Google out of the patent lawsuits (Via <a href="http://www.groklaw.net/article.php?story=20110828073533134">Groklaw</a>)</li>
-</ul>
-
-
-<!--more-->
-
-
-<ul>
-<li>How do I secure my companies name on Twitter?  (Via <a href="http://answers.onstartups.com/questions/29352/securing-your-companys-name-on-twitter">Answers.onstartups.com</a>)</li>
-<li>The rise and fall of the independent developer  (Via <a href="http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/">Furbo</a>)</li>
-<li>Bots are crawling new domains registrations and namesquatting twitter handles (Via <a href="http://rossduggan.ie/blog/technology/bots-are-crawling-new-domain-registrations-and-namesquatting-twitter-handles/">Ross Duggan</a>)</li>
-<li>Startups: How do I tactfully respond to friends and family who say &#8220;Get a real job&#8221;? (Via <a href="http://answers.onstartups.com/questions/29229/how-to-tactfully-respond-to-friends-and-relatives-who-say-get-a-real-job">Answers.onstartups.com</a>)</li>
-<li>Is stealth really the best way to build a startup? (Via <a href="http://www.readwriteweb.com/start/2011/03/is-stealth-the-best-way-to-bui.php">ReadWriteWeb</a>)</li>
-<li>Ten lessons from Githubs first year (Via <a href="http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html">Tom-Preston Warner</a>)</li>
-<li>Want to get things done? Be &#8220;reasonably unreasonable&#8221; (Via <a href="http://radar.oreilly.com/2011/07/turing-uk-apology.html">O&#8217;reilly Radar</a>)</li>
-<li>Rails 3.1 has been released! (Via <a href="http://weblog.rubyonrails.org/2011/8/31/rails-3-1-0-has-been-released">The Official Rails release blog</a>)</li>
-<li>First employee of a startup? You&#8217;re probably getting screwed (Via <a href="http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/">itlater</a>)</li>
-<li>Kernel.org was hacked - should we be concerned? (Via <a href="http://www.linux.com/news/featured-blogs/171-jonathan-corbet/491001-the-cracking-of-kernelorg">Kernel.com</a>)</li>
-<li>Why I&#8217;ll never work for a big company again (Via <a href="http://kencochrane.net/blog/2011/08/ill-never-work-for-a-big-company-again/">Ken Cochrane</a>)</li>
-<li>How to f over a git repo - or not. (Via <a href="http://git-blame.blogspot.com/2011/08/how-to-inject-malicious-commit-to-git.htm">git-blame</a>)</li>
-<li>Why Governments don&#8217;t get startups (Via <a href="http://steveblank.com/2011/09/01/why-governments-don%E2%80%99t-get-startups/">Steve Blank</a>)</li>
-</ul>
 
 ]]></content>
   </entry>

@@ -9,7 +9,7 @@
   <meta name="author" content="James Gifford">
 
   
-  <meta name="description" content="The last day of August, 2012, I got a box in the mail. The contents? A 16GB Nexus 7. My first android device. Since then, its been a fun ride, and I &hellip;">
+  <meta name="description" content="As I&#8217;m sure most of us are aware, rails recently had some security holes brought to light and fixed. These are my notes after upgrading about a &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +78,89 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/tricks-of-the-rails-development-trade-learned-while-updating-applications/">Tricks of the Rails Development Trade Learned While Updating Applications</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-18T10:02:00-05:00" pubdate data-updated="true">Feb 18<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>As I&#8217;m sure most of us are aware, rails recently had some security holes brought to light and fixed.</p>
+
+<p>These are my notes after upgrading about a dozen applications, many of them twice in the past month or two.</p>
+
+<p>If you don&#8217;t have a solid batch of unit tests, then the odds of my spending anytime on patching your open source project are nil. Well, not quiet. I&#8217;ve done a few.</p>
+
+<p>But seriously, with tests, my workflow looks something like this:</p>
+
+<ul>
+<li><p>read README. Make note of any special dependencies, like elasticsearch or postgres in development.</p></li>
+<li><p>git clone.</p></li>
+<li><p>create new rvm gemset.</p></li>
+<li><p><code>bundle install</code>.</p></li>
+<li><p>read through <code>config/database.yml</code>, change if needed to work with my setup. Changes are normally limited to things like the database name, the database user, password, etc.</p></li>
+<li><p><code>rake db:create</code></p></li>
+<li><p><code>rake db:migrate &amp;&amp; rake db:seed &amp;&amp; rake db:test:prepare</code></p></li>
+<li><p>and then I run the tests - either <code>rake test</code>, <code>rspec spec</code> or <code>rake spec</code>. I&#8217;ve seen all three of them, and I&#8217;m sure I&#8217;ll see more variations as time goes on. Side note: For rails applications, we should always alias <code>rake test</code> to the testing framework that is being used.</p></li>
+<li><p>if the tests all pass before I upgrade, I upgrade with <code>bundle update rails &amp;&amp; rake test</code>, if they don&#8217;t, then I try to make them pass (I normally can), but if I can&#8217;t, I and then update rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).</p></li>
+<li><p>commit, submit a pull request, ping the maintainer on twitter after 24 hours
+if it isn&#8217;t merged.</p></li>
+</ul>
+
+
+<p>Without tests:</p>
+
+<ul>
+<li>git clone</li>
+<li><code>bundle install</code></li>
+<li><code>rake db:migrate</code></li>
+<li><code>rails server</code></li>
+<li>poke around in the browser.</li>
+<li><code>update rails</code></li>
+<li>spend my time going through weird stacktaces and weird errors, or worse, not knowing if I broke something.</li>
+</ul>
+
+
+<p>Ew.</p>
+
+<p>So, the take aways are:</p>
+
+<ul>
+<li><p>Documentation on how to get a fully functional dev environment, having tests, and having the code on github.</p></li>
+<li><p>Test suites rule.</p></li>
+<li><p>Readable code is also important - there were a few situations where the tests were failing, and I had to go through and read the code to understand <em>why</em>, and it was surprisingly easy to debug these applications - I&#8217;m sure that the test-driven design was also a big part of it, but there was also a certain element of &#8220;this is readable code, I can understand this&#8221;.</p></li>
+</ul>
+
+
+<p>Oh, and if you&#8217;re looking for someone to update your rails applications with critical security fixes in the future, <a href="http://jamesrgifford.com/contact">lets talk</a>.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -324,58 +407,6 @@ People need to understand that when they email me, I will see it, and then prior
 <h2>Who is James Gifford?</h2>
 
 <p>James Gifford is a <a href="https://github.com/jrgifford">software developer, open source contributor</a> and IT administrator. He has run two successful programming courses, is currently writing a book on the Ubuntu Linux software, and is an advocate of high quality technical education, at affordable prices. He has spoken at multiple user groups on various topics, technical and non-technical.</p>
-</div>
-  
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/askubuntu-hat-dash-join-us/">Ask Ubuntu Hat Dash: Join Us!</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-12-19T10:26:00-05:00" pubdate data-updated="true">Dec 19<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This year, as part of an attempt to spread holiday cheer,
-Stack Exchange has decided to do a winter hat bash.</p>
-
-<p>so, you might see something like this when you login to Ask Ubuntu today:</p>
-
-<p><img src="http://i.stack.imgur.com/e4yeU.png" alt="enter image description here" /></p>
-
-<p>So far, I&#8217;ve managed to earn the Gangnam style glasses, Guide my Sleigh, and Constantipolitan, for posting on meta.</p>
-
-<p>Full list of hats is <a href="http://winterba.sh/">here</a> - I implore you, go forth and earn hats!
-And if you dislike hats, there is an opt-out button - just click the &#8220;i hate hats&#8221; link, and you won&#8217;t see any hats.</p>
-
-<p>Just remember, hats are only around from now until Janurary 4th, so be quick!</p>
-
-<p>Now hat Away! Hat Away! Hat Away All!</p>
-
-<p><sub>cheesy I know.</sub></p>
 </div>
   
   
