@@ -76,7 +76,7 @@ Anyway, I use the excellent gmail app for my email. I have gmail filters setup s
 
 So, lets bits and pieces that don't really fall into any category are:
 
-More communication tools: [Skype](https://play.google.com/store/apps/details?id=com.skype.raider) , Google Talk (no link that I could find in the Play Store) and for IRC, I'm a fan of [AndChat(https://play.google.com/store/apps/details?id=net.andchat). [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice) is another good one, if you're a Google Voice user, I highly recommend installing the application - while I still haven't figured out how to make calls from my Nexus 7, for text messages, it works fine. Lastly, for those times that Skype is just being a pain in the rear, there is Google + Hangouts, which are pretty useful.
+More communication tools: [Skype](https://play.google.com/store/apps/details?id=com.skype.raider) , Google Talk (no link that I could find in the Play Store) and for IRC, I'm a fan of [AndChat](https://play.google.com/store/apps/details?id=net.andchat). [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice) is another good one, if you're a Google Voice user, I highly recommend installing the application - while I still haven't figured out how to make calls from my Nexus 7, for text messages, it works fine. Lastly, for those times that Skype is just being a pain in the rear, there is Google + Hangouts, which are pretty useful.
 
 
 ### Web Browser
