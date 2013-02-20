@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2013-02-19T17:50:35-05:00</updated>
+  <updated>2013-02-20T17:18:02-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ask Ubuntu 2013 Moderator Election Results: Welcome New Moderators!]]></title>
+    <link href="http://blog.jamesrgifford.com/ask-ubuntu-2013-moderator-election-results-welcome-new-moderators/"/>
+    <updated>2013-02-20T17:05:00-05:00</updated>
+    <id>http://blog.jamesrgifford.com/ask-ubuntu-2013-moderator-election-results-welcome-new-moderators</id>
+    <content type="html"><![CDATA[<p>Every once in a while (which has been every year so far), Ask Ubuntu has a community moderator election, where you, the community, elect new moderators to help keep the site clean.</p>
+
+<p>Yesterday, the <a href="http://askubuntu.com/election/3">Ask Ubuntu 2013 Moderator elections</a> wrapped up - our 3 additional moderators are:</p>
+
+<p><img src="http://askubuntu.com/users/flair/7035.png" alt="" /></p>
+
+<p><a href="http://askubuntu.com/users/7035/luis-alvarado">Luis Alvarado</a>,</p>
+
+<p><img src="http://askubuntu.com/users/flair/25798.png" alt="" /></p>
+
+<p><a href="http://askubuntu.com/users/25798/jokerdino">jokerdino</a>,</p>
+
+<p><img src="http://askubuntu.com/users/flair/1992.png" alt="" /></p>
+
+<p>And <a href="http://askubuntu.com/users/1992/rolandixor">RolandiXor</a>!</p>
+
+<p>They join the <a href="http://askubuntu.com/users?tab=moderators">existing team of moderators</a>, who are very excited about the new group!</p>
+
+<p>Congratulations to all, and keep up the good work!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tricks of the Rails Development Trade learned while updating applications]]></title>
@@ -739,29 +766,6 @@ of Roland Taylor and a few other friends. Its not completely finished right now,
 
 
 <p>If you can&#8217;t contact me through those, then I probably don&#8217;t want to talk to you (no offense meant, just saying).</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Links for the past week in Tech, Thursday September 8th 2011]]></title>
-    <link href="http://blog.jamesrgifford.com/links-for-the-past-week-in-tech/"/>
-    <updated>2011-09-09T20:54:00-04:00</updated>
-    <id>http://blog.jamesrgifford.com/links-for-the-past-week-in-tech</id>
-    <content type="html"><![CDATA[<p>You can send James suggestions for next week at <code>james@jamesrgifford.com</code></p>
-
-
-<ul>
-<li><p><a href="http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-when-getting-an-angel-investor">http://answers.onstartups.com/questions/29779/what-to-be-aware-of-careful-of-&#8230;</a></p></li>
-<!--more-->
-<li><p><a href="http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-officer-in-a-startup-do-i-pay-myself-as-an-employeew2">http://answers.onstartups.com/questions/29805/as-a-founder-shareholder-office&#8230;</a></p></li>
-<li><p><a href="http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php">http://www.readwriteweb.com/cloud/2011/09/eight-deadly-sins-of-site-desi.php</a></p></li>
-<li><p><a href="http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-from-anywhere/">http://thenextweb.com/lifehacks/2011/09/06/the-essential-guide-to-working-fro&#8230;</a></p></li>
-<li><p><a href="http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-to-productivity-sanity.ars">http://arstechnica.com/web/news/2011/09/why-keeping-up-with-rss-is-poisonous-&#8230;</a></p></li>
-</ul>
-
-
-<p>And the recording: <a href="http://cinch.fm/jrgifford/281087">http://cinch.fm/jrgifford/281087</a></p>
 
 ]]></content>
   </entry>
