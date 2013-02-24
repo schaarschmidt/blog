@@ -7,7 +7,7 @@ categories:
 ---
 
 
-As I'm sure most of us are aware, rails recently had some security holes brought to light and fixed.
+As I'm sure most of us are aware, Rails recently had some security holes brought to light and fixed.
 
 These are my notes after upgrading about a dozen applications, many of them twice in the past month or two.
 
@@ -28,9 +28,9 @@ But seriously, with tests, my workflow looks something like this:
   - `rake db:create`
   - `rake db:migrate && rake db:seed && rake db:test:prepare`
 
-  - and then I run the tests - either `rake test`, `rspec spec` or `rake spec`. I've seen all three of them, and I'm sure I'll see more variations as time goes on. Side note: For rails applications, we should always alias `rake test` to the testing framework that is being used.
+  - and then I run the tests - either `rake test`, `rspec spec` or `rake spec`. I've seen all three of them, and I'm sure I'll see more variations as time goes on. Side note: For Rails applications, we should always alias `rake test` to the testing framework that is being used.
 
-  - if the tests all pass before I upgrade, I upgrade with `bundle update rails && rake test`, if they don't, then I try to make them pass (I normally can), but if I can't, I and then update rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).
+  - if the tests all pass before I upgrade, I upgrade with `bundle update rails && rake test`, if they don't, then I try to make them pass (I normally can), but if I can't, I and then update Rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).
   
   - commit, submit a pull request, ping the maintainer on twitter after 24 hours 
   if it isn't merged.
@@ -56,4 +56,4 @@ So, the take aways are:
 
 - Readable code is also important - there were a few situations where the tests were failing, and I had to go through and read the code to understand *why*, and it was surprisingly easy to debug these applications - I'm sure that the test-driven design was also a big part of it, but there was also a certain element of "this is readable code, I can understand this". 
 
-Oh, and if you're looking for someone to update your rails applications with critical security fixes in the future, [lets talk](http://jamesrgifford.com/contact). 
+Oh, and if you're looking for someone to update your Rails applications with critical security fixes in the future, [lets talk](http://jamesrgifford.com/contact). 
