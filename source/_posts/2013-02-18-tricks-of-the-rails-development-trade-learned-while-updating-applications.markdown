@@ -11,7 +11,7 @@ As I'm sure most of us are aware, rails recently had some security holes brought
 
 These are my notes after upgrading about a dozen applications, many of them twice in the past month or two.
 
-If you don't have a solid batch of unit tests, then the odds of my spending anytime on patching your open source project are nil. Well, not quiet. I've done a few.
+If you don't have a solid batch of unit tests, then the odds of my spending any time on patching your open source project are nil. Well, not quite: I've done a few.
 
 But seriously, with tests, my workflow looks something like this:
 
