@@ -4,7 +4,7 @@
   <title><![CDATA[/james-random]]></title>
   <link href="http://blog.jamesrgifford.com/atom.xml" rel="self"/>
   <link href="http://blog.jamesrgifford.com/"/>
-  <updated>2013-02-20T17:18:02-05:00</updated>
+  <updated>2013-03-09T17:22:38-05:00</updated>
   <id>http://blog.jamesrgifford.com/</id>
   <author>
     <name><![CDATA[James Gifford]]></name>
@@ -45,11 +45,11 @@
     <link href="http://blog.jamesrgifford.com/tricks-of-the-rails-development-trade-learned-while-updating-applications/"/>
     <updated>2013-02-18T10:02:00-05:00</updated>
     <id>http://blog.jamesrgifford.com/tricks-of-the-rails-development-trade-learned-while-updating-applications</id>
-    <content type="html"><![CDATA[<p>As I&#8217;m sure most of us are aware, rails recently had some security holes brought to light and fixed.</p>
+    <content type="html"><![CDATA[<p>As I&#8217;m sure most of us are aware, Rails recently had some security holes brought to light and fixed.</p>
 
 <p>These are my notes after upgrading about a dozen applications, many of them twice in the past month or two.</p>
 
-<p>If you don&#8217;t have a solid batch of unit tests, then the odds of my spending anytime on patching your open source project are nil. Well, not quiet. I&#8217;ve done a few.</p>
+<p>If you don&#8217;t have a solid batch of unit tests, then the odds of my spending any time on patching your open source project are nil. Well, not quite: I&#8217;ve done a few.</p>
 
 <p>But seriously, with tests, my workflow looks something like this:</p>
 
@@ -61,8 +61,8 @@
 <li><p>read through <code>config/database.yml</code>, change if needed to work with my setup. Changes are normally limited to things like the database name, the database user, password, etc.</p></li>
 <li><p><code>rake db:create</code></p></li>
 <li><p><code>rake db:migrate &amp;&amp; rake db:seed &amp;&amp; rake db:test:prepare</code></p></li>
-<li><p>and then I run the tests - either <code>rake test</code>, <code>rspec spec</code> or <code>rake spec</code>. I&#8217;ve seen all three of them, and I&#8217;m sure I&#8217;ll see more variations as time goes on. Side note: For rails applications, we should always alias <code>rake test</code> to the testing framework that is being used.</p></li>
-<li><p>if the tests all pass before I upgrade, I upgrade with <code>bundle update rails &amp;&amp; rake test</code>, if they don&#8217;t, then I try to make them pass (I normally can), but if I can&#8217;t, I and then update rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).</p></li>
+<li><p>and then I run the tests - either <code>rake test</code>, <code>rspec spec</code> or <code>rake spec</code>. I&#8217;ve seen all three of them, and I&#8217;m sure I&#8217;ll see more variations as time goes on. Side note: For Rails applications, we should always alias <code>rake test</code> to the testing framework that is being used.</p></li>
+<li><p>if the tests all pass before I upgrade, I upgrade with <code>bundle update rails &amp;&amp; rake test</code>, if they don&#8217;t, then I try to make them pass (I normally can), but if I can&#8217;t, I and then update Rails, re-run the tests, and make sure they are either all green, or that there are no new failures. (No more than 5% of the tests can fail).</p></li>
 <li><p>commit, submit a pull request, ping the maintainer on twitter after 24 hours
 if it isn&#8217;t merged.</p></li>
 </ul>
@@ -92,7 +92,7 @@ if it isn&#8217;t merged.</p></li>
 </ul>
 
 
-<p>Oh, and if you&#8217;re looking for someone to update your rails applications with critical security fixes in the future, <a href="http://jamesrgifford.com/contact">lets talk</a>.</p>
+<p>Oh, and if you&#8217;re looking for someone to update your Rails applications with critical security fixes in the future, <a href="http://jamesrgifford.com/contact">lets talk</a>.</p>
 ]]></content>
   </entry>
   
